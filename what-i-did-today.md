@@ -8,16 +8,16 @@
 
 #### Work
 
-#####Drip Campaign site rebuild in Gatsby
+##### Drip Campaign site rebuild in Gatsby
 * Fixed JSON shape for consistency and accounting for frequency and triggers
 * Created custom modal to view images in larger size
 * Successfully deploying to Netlify - investigate if this is an option (alias to proper URL)
 * Updated job aid information about site on SharePoint
 
-#####MLO AngularJS site
+##### MLO AngularJS site
 * Attempted to fix console warning on live site by switching YouTube image to HTTPS (have to wait and see if it takes)
 
-#####Branch Site
+##### Branch Site
 * Added header text to non-mobile displays
 * Fixed mobile 'back to top' button display
 * Removed unnecessary logging
