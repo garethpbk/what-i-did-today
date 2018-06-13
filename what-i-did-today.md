@@ -4,6 +4,22 @@
 
 ---
 
+### June 13, 2018
+
+#### Work
+
+##### Drip Campaign site rebuild in Gatsby
+
+- Minor tweak to automated campaign 'Weekly Updates to All Associated Parties' emails
+- Made fully responsive on index and campaign pages
+- Investigated IE11 support - may need polyfill
+
+##### JoinOneTrust
+
+- Updated top producer images
+
+---
+
 ### June 12, 2018
 
 #### Work
