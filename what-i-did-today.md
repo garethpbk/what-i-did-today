@@ -4,6 +4,32 @@
 
 ---
 
+### June 14, 2018
+
+#### Work
+
+##### New Marketing Orientation
+
+- Successfully made tracker image responsive in email (different image on desktop and mobile)
+- Got project files from Rachel and set up development version of site with gulpfile
+
+##### OneTrustMarketing site
+
+- Added new icon in top nav
+- Fixed responsive display in top nav
+- Added new Services component to display Menu of Services
+
+#### Personal
+
+##### Zine Site Gatsby
+
+- Created project and repo
+- Set up Contentful for CMS storage
+- Pulled in data from Contentful to app
+- Added 4 zines to test display on index page
+
+---
+
 ### June 13, 2018
 
 #### Work
