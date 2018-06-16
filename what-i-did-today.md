@@ -4,6 +4,23 @@
 
 ---
 
+### June 15, 2018
+
+#### Work
+
+##### Branch Pages
+
+- Pushed branch title and footer fix to live site
+
+##### OneTrustMarketing site Gatsby
+
+- Started rebuilding OneTrustMarketing site in Gatsby
+- Created header, footer, materials, and announcments components
+- Created branch pages and components
+- Almost fully done...two big things remaining: Menu of Services landing page, fix Facebook bug
+
+---
+
 ### June 14, 2018
 
 #### Work
