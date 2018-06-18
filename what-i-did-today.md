@@ -4,6 +4,17 @@
 
 ---
 
+### June 16 & 17, 2018
+
+#### Personal
+
+##### Zine Site Gatsby
+
+- Set up additional user on Contentful
+- Added new fields for zine model
+
+---
+
 ### June 15, 2018
 
 #### Work
