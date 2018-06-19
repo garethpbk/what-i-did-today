@@ -4,6 +4,24 @@
 
 ---
 
+### June 18, 2018
+
+#### Work
+
+##### OneTrustMarketing site Gatsby
+
+- Finished Menu of Services landing page
+- Made fully responsive
+- Made footer sticky at bottom with 100vh min page height
+- Added favicon
+- Successfully deployed via Netlify
+
+##### New Marketing Orientation
+
+- Started wireframes in XD
+
+---
+
 ### June 16 & 17, 2018
 
 #### Personal
@@ -39,6 +57,9 @@
 ##### New Marketing Orientation
 
 - Successfully made tracker image responsive in email (different image on desktop and mobile)
+
+##### JoinOneTrust
+
 - Got project files from Rachel and set up development version of site with gulpfile
 
 ##### OneTrustMarketing site
