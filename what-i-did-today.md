@@ -4,6 +4,54 @@
 
 ---
 
+### June 20, 2018
+
+#### Work
+
+##### Drip Campaign Gatsby
+
+- Added new Tabor campaign
+- Dev --> master big bang merge
+- Made test branch on FTP to try and deploy there; rewrite rule currently not being followed
+- Updated model to use frequency array of objects rathern than arbitrary objects (much better for graphql querying)
+
+##### Drip Campaign AngularJS
+
+- Added new Tabor campaign
+
+##### Josh Award Email
+
+- Added contact info block
+
+##### Branch Pages
+
+- Set up Netlify deployment branch for rapid live testing
+
+---
+
+### June 19, 2018
+
+#### Work
+
+##### OneTrust Birthday
+
+- Did 5 trivia questions
+
+##### Branch Pages
+
+- Added loading screen/component when branch is selected
+- Compressed banner images
+- Investigated 404 errors
+- Uploaded most recent version to test branch, waiting for it to take...
+
+##### New Hire Orientation
+
+- Finished XD wireframes for landing page form process
+
+##### Josh Award Email
+
+- Tweaks and fixes for Cory
+
 ### June 18, 2018
 
 #### Work
@@ -16,7 +64,7 @@
 - Added favicon
 - Successfully deployed via Netlify
 
-##### New Marketing Orientation
+##### New Hire Orientation
 
 - Started wireframes in XD
 
@@ -54,7 +102,7 @@
 
 #### Work
 
-##### New Marketing Orientation
+##### New Hire Orientation
 
 - Successfully made tracker image responsive in email (different image on desktop and mobile)
 
