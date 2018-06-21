@@ -4,6 +4,27 @@
 
 ---
 
+### June 21, 2018
+
+#### Work
+
+##### Branch Pages
+
+- Researched page speed insights and optimizations
+- Discovered weird API behavior (loads different images at same endpoint?)
+
+##### OneTrustMarketing Gatsby
+
+- Changed order of icons to match live site
+- Added htaccess to attempt to deploy to FTP
+
+##### Drip Campaign Gatsby
+
+- Started consolidating emails into manual vs automated categories
+- Set up new dataset for OTHL - CalCon and Tabor tomorrow
+
+---
+
 ### June 20, 2018
 
 #### Work
