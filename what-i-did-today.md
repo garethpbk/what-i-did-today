@@ -30,6 +30,12 @@
 
 - Updated wires to reflect landing page form changes
 
+#### Personal
+
+##### Grocery List
+
+- Made a grocery list lol (see it here if u wanna see what I eat)
+
 ---
 
 ### June 25, 2018
