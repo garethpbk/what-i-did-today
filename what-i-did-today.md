@@ -4,6 +4,34 @@
 
 ---
 
+### June 26, 2018
+
+#### Work
+
+##### Component Library
+
+- Started researching to think about how to build component library
+
+##### Drip Campign Gatsby
+
+- Retooled styling to centralize in theme and use theme styles everywhere possible
+- Another attempt at modifying htaccess to deploy via FTP
+- Added prefixed branch with pathPrefix
+- Set up local site on Xampp to test Apache server
+
+##### OneTrustMarketing Gatsby
+
+- Another attempt at modifying htaccess to deploy via FTP
+- Added prefixed branch with pathPrefix
+- Set up local site on Xampp to test Apache server
+- Successfuly deployed to https://onetrustmarketing.com/gatsby/
+
+##### New Marketing Orientation
+
+- Updated wires to reflect landing page form changes
+
+---
+
 ### June 25, 2018
 
 #### Work
