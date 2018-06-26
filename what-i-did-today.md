@@ -4,6 +4,48 @@
 
 ---
 
+### June 25, 2018
+
+#### Work
+
+##### Drip Campaign Gatsby
+
+- Cleaned up data and images for all branches
+- Merged restructure branch into dev with new design/organization
+- Fixed several deployment bugs and pushed new version to Netlify
+
+##### Branch Pages
+
+- QA testing from team members confirm no more 404s (htaccess working)
+- Updated PageSpeed results
+- Shrunk images of team members where needed
+- Proper images loading - only 2 left that need banner updated
+
+---
+
+### June 23 & June 24, 2018
+
+#### Personal
+
+- Nothing lol went to the Safari Park instead of doing work
+
+---
+
+### June 22, 2018
+
+##### Branch Pages
+
+- New htaccess rules following FB guidelines - seems to work
+- Pushed updates to live /branch site including working htaccess
+
+##### Drip Campaign Gatsby
+
+- New datasets for Calcon and Tabor
+- Branch for restructuring into automatic & manual sections
+- Manual campaigns listed on index, queried as pages, links for each branch
+
+---
+
 ### June 21, 2018
 
 #### Work
