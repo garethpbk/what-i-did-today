@@ -1,6 +1,29 @@
 # WHAT DID YOU DO TODAY?
 
-## Including both professional and personal work
+## Inclu3ding both professional and personal work
+
+---
+
+### June 27, 2018
+
+#### Work
+
+##### Training
+
+- HDMA: Enhanced Reporting Requirements
+- BSA and AML: Essentials
+- Key Essentials of Customer Service
+- Mortgage Origination: Security, Identity Theft, and Fraud
+- Information Security: Preventing Identity Theft
+- Understanding Privacy: The Essentials
+- Laws and Regulations for Mortgage Lending
+- Predatory Lending Awareness
+- Harassment Prevention Training for Employees
+
+##### Drip Campaign Gatsby
+
+- Successful deployment on OneTrust FTP
+- Consolidation of emails to prepare for meeting
 
 ---
 
