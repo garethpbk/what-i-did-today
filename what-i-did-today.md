@@ -4,6 +4,18 @@
 
 ---
 
+### June 28, 2018
+
+#### Work
+
+##### New Hire Orientation
+
+- Set up project with CRA and repo on Bitbucket
+- Started project structure and building prototype
+- Got as far as setting up first 4 screens, general layout, several components, and initial state
+
+---
+
 ### June 27, 2018
 
 #### Work
