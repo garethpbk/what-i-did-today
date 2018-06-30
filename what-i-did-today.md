@@ -4,6 +4,20 @@
 
 ---
 
+### June 29, 2018
+
+#### Work
+
+##### Branch Pages
+
+- Address bug where Google formatted address was displayed instead of API address
+
+##### New Hire Orientation
+
+- Continuing to structure/skeleton, all screens set up
+- Start of implementing logic to track form state
+- Decided to remove Formik (for now at least) as it couldn't do what I needed
+
 ### June 28, 2018
 
 #### Work
