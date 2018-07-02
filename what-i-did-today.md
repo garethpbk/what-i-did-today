@@ -4,6 +4,34 @@
 
 ---
 
+### July 2, 2018
+
+#### Work
+
+##### OneTrustMarketing (+Gatsby)
+
+- Updated announcements
+- Cleaned up git branches for both projects
+
+##### New Hire Orientation
+
+- Finished tying fields to state for each screen
+- Various fixes, tweaks, small improvements
+- Started implementing localStorage persistance
+- Conditional rendering across all screens
+
+---
+
+### June 30 & July 1, 2018
+
+#### Personal
+
+##### Pixel Art
+
+- UFO animation
+
+---
+
 ### June 29, 2018
 
 #### Work
