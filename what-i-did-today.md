@@ -4,6 +4,21 @@
 
 ---
 
+### July 3, 2018
+
+#### Work
+
+##### New Hire Orientation
+
+- Implemented data persistance via localStorage
+- Cleaned up project (removing unused packages, branches)
+- A whole lot of stuff with validating
+  -- Determined it will be best to write custom validators for everything - no external libraries
+  -- Wrote custom validators for first and second screens (can be used over for other screens too)
+- Started adding more detailed comments to various parts of application
+
+---
+
 ### July 2, 2018
 
 #### Work
