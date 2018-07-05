@@ -4,6 +4,14 @@
 
 ---
 
+### July 4, 2018
+
+#### Work
+
+- It is a holiday and I am off, hooray, time to go to the beach
+
+---
+
 ### July 3, 2018
 
 #### Work
