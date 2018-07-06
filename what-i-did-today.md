@@ -21,6 +21,14 @@
 - Conditional rendering for screen 15 summary
 - Misc tweaks and fixes to validators and validation flow
 
+##### FLAVA
+
+- Big exhibitor update, switching to regular registration
+
+##### MERC
+
+- Attempted to set up meeting with David to discuss changes
+
 ---
 
 ### July 4, 2018
