@@ -4,6 +4,25 @@
 
 ---
 
+### July 5, 2018
+
+#### Work
+
+##### Branch Pages
+
+- Implemented address fixed: Loanforce for display, Google for links
+- Working with team to get headshot size issue fixed
+  -- Suggested 50kb limit, or 300x300px
+
+##### New Hire Orientation
+
+- Continuing to write validators
+  -- Screens 3, 4, 5, 7, 8, 10, 11, 12
+- Conditional rendering for screen 15 summary
+- Misc tweaks and fixes to validators and validation flow
+
+---
+
 ### July 4, 2018
 
 #### Work
