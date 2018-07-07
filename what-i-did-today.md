@@ -11,7 +11,7 @@
 ##### New Hire Orientation
 
 - Styling moved to match wireframes
-- Custom checkbox styling and behavior implemented
+- Custom checkbox and radio styling and behavior implemented
 - Switched to react-transition-group for animations and got basic slide animation working
 - Implemented switch to keep track of active screen string
   -- Will use later in error handling to disable progress block links if there are errors
