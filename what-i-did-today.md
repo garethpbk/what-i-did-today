@@ -4,6 +4,26 @@
 
 ---
 
+### July 6, 2018
+
+#### Work
+
+##### New Hire Orientation
+
+- Styling moved to match wireframes
+- Custom checkbox styling and behavior implemented
+- Switched to react-transition-group for animations and got basic slide animation working
+- Implemented switch to keep track of active screen string
+  -- Will use later in error handling to disable progress block links if there are errors
+
+##### Drip Campaign Gatsby
+
+- Met with Cory to finalize last few steps
+- Added New Hire Post Close campaign
+- Conditional rendering for othl-only campaigns
+
+---
+
 ### July 5, 2018
 
 #### Work
