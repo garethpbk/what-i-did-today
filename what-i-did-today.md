@@ -1,6 +1,25 @@
 # WHAT DID YOU DO TODAY?
 
-## Inclu3ding both professional and personal work
+## Including both professional and personal work
+
+---
+
+### July 9, 2018
+
+#### Work
+
+##### New Hire Orientation
+
+- Tested local apache deployment using router basename (success!)
+- Progress bar error checking/disabled links if errors
+- Dynamic screen transitions - left or right animated slide depending on current + destination slides
+- Started setting up modal data for screen 5 (post close agreement)
+- Removed generic CRA readme (will start a real readme tomorrow)
+
+##### Drip Campaign Gatsby
+
+- Fixed build artifact errors and successfully deployed to test FTP
+- Waiting for finalization of last few campaigns then will make new site live
 
 ---
 
