@@ -4,6 +4,16 @@
 
 ---
 
+### July 7 & 8, 2018
+
+#### Personal
+
+##### Drawing
+
+- Drew some drawings with new colored pencils
+
+---
+
 ### July 6, 2018
 
 #### Work
