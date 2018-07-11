@@ -4,6 +4,42 @@
 
 ---
 
+### July 10, 2018
+
+#### Work
+
+##### New Hire Orientation
+
+- Added detailed comments to several parts of application
+- Fixed some random errors/warnings/bugs
+- Set up working PHP email script - only works when deployed to FTP server (localhost and CRA dev server don't have mailserver I guess)
+
+##### Drip Campaign Gatsby
+
+- Confirmed test deployment on FTP is working properly (no problems with fragments not being bundled properly)
+- Deployed rebuilt Gatsby site to live url @ https://onetrustmarketing.com/lxercmbowpozmwbdgxky/ and confirmed is working
+- Added detailed comments to /components directory files, plus small tweaks/bugfixes
+- Moved styling in campaign page template to use theme helpers
+- Dev --> master PR in Bitbucket repo
+- Got suggestions for improvements (alphabetizing and adding X to modal)
+
+##### Branch Pages
+
+- Wrapped up updates/fixes for now, closed out ticket in Basecamp
+
+##### OneTrust Marketing
+
+- Added LO Social Bot job aid to both Angular and Gatsby sites (uploaded Angular update to live site)
+
+#### Personal
+
+##### Art Stuff
+
+- Drew a cat
+- Finished pixel tree
+
+---
+
 ### July 9, 2018
 
 #### Work
