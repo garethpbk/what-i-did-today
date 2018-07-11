@@ -4,6 +4,21 @@
 
 ---
 
+### July 11, 2018
+
+#### Work
+
+##### New Hire Orientation
+
+- Weekly meeting - reviewed mockups and decided on some changes (progress bar instead of blocks)
+- Added comments to all screens documenting how each screen works
+- Added error writing on attempted route change for all screens with required fields
+- Added error messages for required fields in routes.js data file, and reworked error writing accordingly
+- Made real error messages when validators aren't passing
+- Lots of progress on getting json form data into html response format to send in email (can send html email of whole shebang)
+
+---
+
 ### July 10, 2018
 
 #### Work
