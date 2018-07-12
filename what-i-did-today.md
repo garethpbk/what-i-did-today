@@ -4,6 +4,20 @@
 
 ---
 
+### July 12, 2018
+
+#### Work
+
+##### New Hire Orientation
+
+- Replaced progress blocks with percent tracker bar
+- Client-side form data formatter to package data for summary display and sending to email
+- Better styling for email HTML content
+- Converted shipping address textarea into broken-out fields
+- Added error class to hilight specific fields with errors (in addition to messages)
+
+---
+
 ### July 11, 2018
 
 #### Work
