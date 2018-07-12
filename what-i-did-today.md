@@ -17,6 +17,12 @@
 - Made real error messages when validators aren't passing
 - Lots of progress on getting json form data into html response format to send in email (can send html email of whole shebang)
 
+#### Personal
+
+##### Art Stuff
+
+- Drew a jellyfish
+
 ---
 
 ### July 10, 2018
