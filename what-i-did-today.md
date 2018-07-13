@@ -4,6 +4,20 @@
 
 ---
 
+### July 13, 2018
+
+#### Work
+
+##### New Hire Orientation
+
+- Address validation for screen 7
+- Added exclusion parameter for checkIfScreenValid function to allow conditional required fields to be validated/not validated
+- Started testing out real video media
+- Added thank you screen
+- Ate a lot of food at company potluck
+
+---
+
 ### July 12, 2018
 
 #### Work
