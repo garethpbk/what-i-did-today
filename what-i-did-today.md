@@ -4,6 +4,18 @@
 
 ---
 
+### July 14 & 15, 2018
+
+#### Personal
+
+##### Misc
+
+- Saw a COOL SHOW and met my internet friend in Witch Mountain
+- Ran Pride 5k, with a new PR and best mile time too
+- Nothing productive re: coding or art or anything
+
+---
+
 ### July 13, 2018
 
 #### Work
