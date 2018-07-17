@@ -4,6 +4,37 @@
 
 ---
 
+### July 16, 2018
+
+#### Work
+
+##### New Hire Orientation
+
+- Starting to ensure site is fully responsive and usable on any device
+- Tested build and made sure production version works properly on Apache server
+- Tested build on Netlify (it works!) - might be best way of deploying live app...
+
+##### MLO Website
+
+- Attempting to fix /LO directory by redirecting to /lo via 301 redirect rule
+
+##### FLAVA
+
+- Exhibitor registration update
+- Investigation of registration issues & fix emailed to exec board
+
+#### Personal
+
+##### Catgame
+
+- Put spooky tree sprite into game
+
+##### Art Stuff
+
+- Drew a rat next to cat and added a background
+
+---
+
 ### July 14 & 15, 2018
 
 #### Personal
