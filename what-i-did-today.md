@@ -4,6 +4,19 @@
 
 ---
 
+### July 17, 2018
+
+#### Work
+
+##### JoinOneTrust
+
+- Successfully deciphered development and build gulp pipeline and can now change/update code
+- Had meeting with team to discuss next steps, will redo prototypes in XD tomorrow
+- Determined that updates will require serious restructing; investigating if it's a good idea to rebuild entire thing in React (it is)
+- Initialized new project with create-react-app and started recreating opening slide
+
+---
+
 ### July 16, 2018
 
 #### Work
