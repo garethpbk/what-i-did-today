@@ -4,6 +4,22 @@
 
 ---
 
+### July 18, 2018
+
+#### Work
+
+##### New Hire Orientation
+
+- Generated csv file from json input and attach it to email that is sent
+- Dynamic filenames for csv - get saved to FTP server and attached to emails (don't want just email - redundancy good)
+- Switched to using PHPMailer instead of mail() function
+
+##### Test Server
+
+- Told that test server is up and running at https://mdev.onetrusthomeloans.com/
+
+---
+
 ### July 17, 2018
 
 #### Work
