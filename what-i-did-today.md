@@ -4,6 +4,28 @@
 
 ---
 
+### July 19, 2018
+
+#### Work
+
+##### JoinOneTrust
+
+- Created new mockups in XD with working prototype transitions
+- Started working on rebuild in React, created Header component
+- Set up Opener section with animated elements
+- Implemented modal component
+- Updated favicon and site title
+
+##### MLO Website
+
+- Tried to fix hombuyer's/homebuying disparity, wait to see when cache clears
+
+##### Drip Campaigns
+
+- Updated othl-a01 campaign first image
+
+---
+
 ### July 18, 2018
 
 #### Work
