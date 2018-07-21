@@ -4,6 +4,21 @@
 
 ---
 
+### July 20, 2018
+
+#### Work
+
+##### MLO Website
+
+- Fixed problem of sites not loading
+
+##### JoinOneTrust
+
+- Spent most of the day messing around with different animation/scrolling libraries
+- None of them can do what is needed...somehow...might have to write my own...
+
+---
+
 ### July 19, 2018
 
 #### Work
