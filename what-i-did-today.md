@@ -4,6 +4,20 @@
 
 ---
 
+### July 21 & 22, 2018
+
+#### Personal
+
+##### Hidden Treasures
+
+- Met w/ Keegan to discuss initial steps to take to start planning app
+
+##### Misc
+
+- Level Up Tutorials Fullstack Meteor + Graphql + React tutorial - about halfway done
+
+---
+
 ### July 20, 2018
 
 #### Work
