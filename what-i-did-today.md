@@ -4,6 +4,31 @@
 
 ---
 
+### July 23, 2018
+
+#### Work
+
+##### Drip Campaigns Gatsby
+
+- Added a rather detailed readme.md
+- Updated Job Aid on Sharepoint
+
+##### New Hire Orientation
+
+- Responsive image code for 01 New Hire email
+- Job aid for adding responsive images started
+- Got vector assets to start dropping into project
+
+##### Portfolio Product Landing Page(s)
+
+- Initial meeting to discuss project kickoff starting with Doctor Attorney loans
+
+##### Test/Dev Server
+
+- Created entry in Basecamp to track progress of setup of server
+
+---
+
 ### July 21 & 22, 2018
 
 #### Personal
