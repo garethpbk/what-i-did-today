@@ -4,6 +4,26 @@
 
 ---
 
+### July 24, 2018
+
+#### Work
+
+##### New Hire Orientation
+
+- Refactored screens 6, 8, 9 to use radio button binary choice instead of single checkbox
+- A lot of refactoring in general, to reduce amount of code and centralize actions for error handling
+- Started working on adding actual design assets to replace placeholder content
+
+##### MLO Sites & Branch Pages
+
+- Checked on how POST requests are sent to LoanForce and Marketo APIs
+
+##### Marketo
+
+- Figured out how to center things in Outlook with a pretty fool-proof <center></center> tag method
+
+---
+
 ### July 23, 2018
 
 #### Work
