@@ -27,6 +27,12 @@
 
 - Created entry in Basecamp to track progress of setup of server
 
+#### Personal
+
+##### Misc
+
+- Continued Lvl Up Tuts Meteor/Graphql/React tutorial - getting data actually into component
+
 ---
 
 ### July 21 & 22, 2018
