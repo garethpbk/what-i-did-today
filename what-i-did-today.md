@@ -22,6 +22,12 @@
 
 - Figured out how to center things in Outlook with a pretty fool-proof <center></center> tag method
 
+#### Personal
+
+##### Misc
+
+- More Lvl Up Tuts Meteor/Graphql/React tutorial - implementing refetch directly in mutations
+
 ---
 
 ### July 23, 2018
