@@ -4,6 +4,20 @@
 
 ---
 
+### July 26, 2018
+
+##### New Hire Orientation
+
+- Continued doing the same thing to make the thing look nice
+- Implemented flip cards for business cards
+- Attempted to integrate with Wistia with little success so far...
+
+##### Drip Campaign
+
+- Updated _Weekly Updates to All Associates Parties_ email campaign
+
+---
+
 ### July 25, 2018
 
 #### Work
