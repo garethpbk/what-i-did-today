@@ -4,6 +4,21 @@
 
 ---
 
+### July 25, 2018
+
+#### Work
+
+##### New Hire Orientation
+
+- Further implementation of design into app, pretty much all day
+
+##### MERC
+
+- Fixed tabbed content not working properly
+- Inquired about what to do about banner image?
+
+---
+
 ### July 24, 2018
 
 #### Work
