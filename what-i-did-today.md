@@ -4,7 +4,28 @@
 
 ---
 
+### July 27, 2018
+
+#### Work
+
+##### New Hire Orientation
+
+- Finished implementing real design
+- Implemented Wistia video component successfully! And added all videos except Thank You
+- Responsive styling for mobile
+- Responsive styling for MLO laptops - 1366 x 768 screen resolution
+- Various fixes for Firefox's stupid flexbox rendering failures
+
+##### Test Server
+
+- Confirmed that FTP access now works, can enter and upload stuff
+- But domain still does not resolve properly...always gives 'Internal Error: Missing Template ERR_CONNECT_FAIL'
+
+---
+
 ### July 26, 2018
+
+#### Work
 
 ##### New Hire Orientation
 
