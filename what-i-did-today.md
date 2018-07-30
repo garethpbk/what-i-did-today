@@ -4,6 +4,15 @@
 
 ---
 
+### July 28 & 29, 2018
+
+#### Personal
+
+- Went camping & fishing by myself at Lake Morena to escape technology for a lil bit
+- Caught a fish and cleaned it and filetted it and ate it on the lake, was tasty
+
+---
+
 ### July 27, 2018
 
 #### Work
