@@ -4,6 +4,28 @@
 
 ---
 
+### July 30, 2018
+
+#### Work
+
+##### JoinOneTrust
+
+- Started writing own functions for scrolling animations
+- Implementation of scrolling animations using Lagrange Polynomial Interpolation - works for 2 sections so far...
+- Figured out that the parallax thing is just background-attachment: fixed
+
+##### Dr/Atty Landing Page
+
+- Started front-end requirements doc
+
+#### Personal
+
+##### Level Up Tutorials - Apollo & React
+
+- Started tutorial, got through a few videos - subscribed to Level Up Pro
+
+---
+
 ### July 28 & 29, 2018
 
 #### Personal
