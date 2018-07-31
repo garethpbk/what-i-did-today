@@ -4,6 +4,22 @@
 
 ---
 
+### July 31, 2018
+
+#### Work
+
+##### New Hire Orientation
+
+- Set up summary table to have working router Links to each screen for easy access
+- Added conditionally rendered 'return to summary' button to return to summary when form is complete
+
+##### Misc
+
+- Helped Rose figure out HTML email formatting in dumb Encompass thing
+- Meeting with Cory to go over first stages of next 2 landing page projects - Paid Social LP and MLO Phase 3
+
+---
+
 ### July 30, 2018
 
 #### Work
