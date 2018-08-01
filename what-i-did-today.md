@@ -18,6 +18,20 @@
 - Helped Rose figure out HTML email formatting in dumb Encompass thing
 - Meeting with Cory to go over first stages of next 2 landing page projects - Paid Social LP and MLO Phase 3
 
+#### Personal
+
+##### Level Up Tutorials - Apollo & React
+
+- Continued working through tutorial, joined Slack channel
+
+##### MERC
+
+- Updated SVG banner with dots and monocolor header
+
+##### FLAVA
+
+- Updated exhibtior map link, added big registration button to home page
+
 ---
 
 ### July 30, 2018
