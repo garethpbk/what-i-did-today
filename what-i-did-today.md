@@ -4,6 +4,25 @@
 
 ---
 
+### August 1, 2018
+
+#### Work
+
+##### New Hire Orientation
+
+- Wrote QC document guidelines and distributed to team members - goal to start testing Friday
+- Updated MLO Post Close agreement to most recent version
+- Added additionalInfo field to screen 5 to cover MLOs covering other costs and Jump Start campaign
+- Set up PHPMailer to send a user email in addition to admin email
+
+#### JoinOneTrust
+
+- Added all sections to parent component
+- Started implementing footer
+- Continued to work on scrolling animations for sections
+
+---
+
 ### July 31, 2018
 
 #### Work
