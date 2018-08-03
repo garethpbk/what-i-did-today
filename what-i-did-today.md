@@ -4,6 +4,31 @@
 
 ---
 
+### August 2, 2018
+
+#### Work
+
+##### OneTrust Marketing
+
+- Added 8/2/18 announcement to Angular and Gatsby sites, uploaded rebuilt Angular site to FTP
+
+##### New Landing Pages
+
+- Wrote FE requirements for 3 new landing page projects in preparation for meeting tomorrow
+
+##### Paid Social Landing Page
+
+- Created project with cra and Apollo
+- Set up GraphQL with apollo-link-rest to query data from MLO endpoint and bring into application (it works!)
+
+##### New Hire Orientation
+
+- Built for production and moved to live server
+- Finalized mailer script with actual addresses and fixed .csv attachment
+- Added new additionalInfo field to summary screen and mail content
+
+---
+
 ### August 1, 2018
 
 #### Work
