@@ -4,6 +4,37 @@
 
 ---
 
+### August 3, 2018
+
+#### Work
+
+##### Branch Pages
+
+- Ran performance tests with Google Pagespeed and Pingdom (pretty good results!) - optimizing headshots did help
+
+##### New Landing Pages
+
+- Met with team and determined next steps and viability of project design and such
+
+##### OneTrust WordPress
+
+- Got admin access to WP site, hooray, thanks Steve
+- Fixed dumb Thesis theme loading header scripts with escape slash characters
+
+##### New Hire Orientation
+
+- Got a laptop with 1366 x 768 resolution to test on
+- Started making specific responsive fixes for dumb MLO laptop screen size (ugh)
+- Moved header to pure flexbox layout
+
+#### Personal
+
+##### Level Up Tutorials - Apollo & React
+
+- Continued working through videos
+
+---
+
 ### August 2, 2018
 
 #### Work
