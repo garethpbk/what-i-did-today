@@ -4,6 +4,16 @@
 
 ---
 
+### August 4 & 5, 2018
+
+#### Personal
+
+##### Level Up Tutorials - Apollo & React
+
+- Continued working through videos, about 2/3 done
+
+---
+
 ### August 3, 2018
 
 #### Work
