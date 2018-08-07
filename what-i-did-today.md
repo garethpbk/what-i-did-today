@@ -4,6 +4,24 @@
 
 ---
 
+### August 6, 2018
+
+#### Work
+
+##### New Hire Orientation
+
+- Finished fixes for MLO laptop resolution
+- First round of QC tweaks implemented
+- Added actual Thank You video to TY screen
+
+#### Personal
+
+##### Level Up Tutorials - Apollo & React
+
+- Continued working through videos, on #19
+
+---
+
 ### August 4 & 5, 2018
 
 #### Personal
