@@ -37,7 +37,15 @@
 
 ##### FLAVA
 
-- Various updates to Fall 18 forms and entries and such
+- Various updates to Fall 18 forms and entries and such'
+
+##### Level Up Tutorials - Apollo & React
+
+- Started on video #19 but fell asleep after a few minutes lol
+
+##### SDJS Monthly Meetup
+
+- Went to meetup @ Zeeto, saw some cool presentations, talked to some cool folks
 
 ---
 
