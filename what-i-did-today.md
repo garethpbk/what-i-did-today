@@ -4,6 +4,43 @@
 
 ---
 
+### August 7, 2018
+
+#### Work
+
+##### New Hire Orientation
+
+- Refactored title and body copy content to import HTML strings rather than directly in JSX
+- Set up clearing of localStorage entry upon successful submission of form
+- Pushed out to team for next round of QA testing
+
+##### Branch Pages
+
+- Explored options for pre-generating pages; ruled out SSR
+- Decided static site generation not the best option as it requires a full update
+- Started setting up an Apollo project and creating dynamic queries with some success
+
+##### JoinOneTrust
+
+- Weekly meeting; waiting to decide if should stick with Marketo script or use custom
+
+##### Drip Campaign
+
+- Merged dev into master (been a while since this was done)
+
+##### Misc
+
+- Did the employee survey thing
+- Set up Fira Code font in VSCode (ok I like ligatures now)
+
+#### Personal
+
+##### FLAVA
+
+- Various updates to Fall 18 forms and entries and such
+
+---
+
 ### August 6, 2018
 
 #### Work
