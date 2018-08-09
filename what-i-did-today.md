@@ -4,6 +4,29 @@
 
 ---
 
+### August 8, 2018
+
+#### Work
+
+##### New Hire Orientation
+
+- Weekly meeting, went over final landing page tweaks
+- Implemented final landing page tweaks
+- Added flippy triangle to submit button (very important)
+- Added route + component for paths outside of what ppl should see
+
+##### Branch Pages
+
+- Successfully can generate dynamic queries by utilizing query variables to load each branch's data
+
+#### Personal
+
+##### Level Up Tutorials React & Apollo
+
+- Finished videos #19 & #20
+
+---
+
 ### August 7, 2018
 
 #### Work
