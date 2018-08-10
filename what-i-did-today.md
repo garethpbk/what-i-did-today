@@ -4,6 +4,29 @@
 
 ---
 
+### August 9, 2018
+
+#### Work
+
+##### JoinOneTrust
+
+- Updated top producer slides for July
+
+##### OneTrust Marketing
+
+- Removed marketing policy thing and rebuilt/uploaded site
+
+##### Branch pages
+
+- Bashed my head against the wall all day tryna get dynamic routing to work with branch queries
+- Eventually got it working pretty well - loads data from cache if accessed from home page
+
+##### New Hire Orientation
+
+- Added third webinar icon & link to screen 13, uploaded newest build of site
+
+---
+
 ### August 8, 2018
 
 #### Work
