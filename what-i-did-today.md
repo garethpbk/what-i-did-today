@@ -4,6 +4,32 @@
 
 ---
 
+### August 10, 2018
+
+#### Work
+
+##### Marketo
+- Learned how Marketo templating works and how to create/customize templates
+- Updated Clearer Title - Dark landing page template with new sections
+
+##### Branch Pages
+
+- Implemented querying for individual page routes if accessed directly - if from home, loads from cache, if not, does call at runtime
+- Moved initial call to get all branch data to home-only component for much faster individual branch loading
+- Started working with full queries, ran into issue with nested data for unknown reasons, may have to just pull all nested data (oh well)
+
+#### Personal
+
+##### FLAVA
+
+- Helped Paloma out with exhibitor stuff
+
+##### Level Up Tutorials React & Apollo
+
+- Finished series! Probably will start vue.js series next
+
+---
+
 ### August 9, 2018
 
 #### Work
