@@ -4,6 +4,19 @@
 
 ---
 
+### August 11 & 12, 2018
+
+#### Personal
+
+##### Apollo apollo-link-rest talk
+
+- Set up recipe API
+- Created React front end with GQL and fetch component examples
+
+##### Level Up Tutorials VueJS For Everyone
+- Started series and got through video 7
+
+---
 ### August 10, 2018
 
 #### Work
