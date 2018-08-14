@@ -31,6 +31,10 @@
 
 - Troubleshooted exhibitor email caught in spam filter because of word 'communication'
 
+##### Level Up Tutorials VueJS For Everyone
+
+- Continued through video 14
+
 ---
 
 ### August 11 & 12, 2018
