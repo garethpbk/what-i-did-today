@@ -4,6 +4,35 @@
 
 ---
 
+### August 13, 2018
+
+#### Work
+
+##### Branch Pages
+
+- Figured out how types work with nested data from API
+- Started implementing styling and building out branch page components, got to Team Members
+
+##### OneTrustMarketing
+
+- Added EHO logo and info to footer
+
+##### Modular Resources
+
+- Added EHO info to footer
+
+##### Warp Speed
+
+- Read all about it and went through presentations and such
+
+#### Personal
+
+##### FLAVA
+
+- Troubleshooted exhibitor email caught in spam filter because of word 'communication'
+
+---
+
 ### August 11 & 12, 2018
 
 #### Personal
@@ -14,14 +43,17 @@
 - Created React front end with GQL and fetch component examples
 
 ##### Level Up Tutorials VueJS For Everyone
+
 - Started series and got through video 7
 
 ---
+
 ### August 10, 2018
 
 #### Work
 
 ##### Marketo
+
 - Learned how Marketo templating works and how to create/customize templates
 - Updated Clearer Title - Dark landing page template with new sections
 
