@@ -4,6 +4,24 @@
 
 ---
 
+### August 14, 2018
+
+#### Work
+
+##### Branch Pages
+
+- Continued building out page, got to calculator section
+
+##### JoinOneTrust
+
+- Implemented layout of components on each slide
+
+##### Misc
+
+- Had compliance meeting and reviewed compliance materials in preparation for upcoming audit
+
+---
+
 ### August 13, 2018
 
 #### Work
