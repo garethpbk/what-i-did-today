@@ -20,6 +20,16 @@
 
 - Had compliance meeting and reviewed compliance materials in preparation for upcoming audit
 
+#### Personal
+
+##### Level Up Tutorials VueJS For Everyone
+
+- Continued through video 16
+
+##### Apollo Talk
+
+- Changed model a bit, continued building out React front
+
 ---
 
 ### August 13, 2018
