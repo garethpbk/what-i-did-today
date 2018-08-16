@@ -4,6 +4,39 @@
 
 ---
 
+### August 15, 2018
+
+#### Work
+
+##### JoinOneTrust
+
+- Added opacity animations for all elements on screens (not sure if will keep or use different animations)
+- Implemented screen-size agnostic scroll settings so animations trigger properly regardless of screen size
+
+##### New Hire Orientation
+
+- Minor tweak to header image sizes for mobile layout
+
+##### Marketo
+
+- Tweaks to Clear Dark landing page template & Dr/Atty live LP
+
+#### Personal
+
+##### FLAVA
+
+- Exhibitor update, misc fixes
+
+##### Apollo Talk
+
+- Started implenting actual styling w/ CSS Grid to React front
+
+##### Level Up Tutorials VueJS For Everyone
+
+- Continued through video 19
+
+---
+
 ### August 14, 2018
 
 #### Work
