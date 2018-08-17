@@ -4,6 +4,33 @@
 
 ---
 
+### August 16, 2018
+
+#### Work
+
+##### JoinOneTrust
+
+- Moved some data from JSX into separate file
+- Implemented functionality for all slide elements (modal pop ups)
+
+##### MLO Websites
+
+- Set to only one of Boast or Birdeye reviews load
+
+##### Marketo
+- Further tweaks to landing page template & live Dr/Atty site
+
+##### Misc
+- Added audio files to marketing site to see if it works (it works hooray)
+
+#### Personal
+
+##### Apollo Talk
+
+- Started building form to send new entries to API
+
+---
+
 ### August 15, 2018
 
 #### Work
