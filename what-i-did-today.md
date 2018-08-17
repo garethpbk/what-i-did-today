@@ -4,6 +4,21 @@
 
 ---
 
+### August 17, 2018
+
+#### Work
+
+#####
+
+##### JoinOneTrust
+
+- Continued building out functionality
+- Added reviews API fetch and modal display of latest 3 reviews
+- Started building exclusive content
+- Implemented OTHLLive slideshow and debugging it
+
+---
+
 ### August 16, 2018
 
 #### Work
@@ -18,9 +33,11 @@
 - Set to only one of Boast or Birdeye reviews load
 
 ##### Marketo
+
 - Further tweaks to landing page template & live Dr/Atty site
 
 ##### Misc
+
 - Added audio files to marketing site to see if it works (it works hooray)
 
 #### Personal
