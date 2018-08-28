@@ -4,11 +4,20 @@
 
 ---
 
+### August 18 - 27, 2018
+
+#### Vacation
+
+##### On vacation all week lol
+
+- Did a buncha cool stuff unrelated to web dev!!
+- Figured out how to properly use mutations with apollo-link-state and continued working on apollo talk
+
+---
+
 ### August 17, 2018
 
 #### Work
-
-#####
 
 ##### JoinOneTrust
 
