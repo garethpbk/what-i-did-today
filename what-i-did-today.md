@@ -4,6 +4,29 @@
 
 ---
 
+### August 28, 2018
+
+#### Work
+
+##### Drip Campaign
+
+- Added new Recruit Campaign for OTHL and deployed new build of site
+- Updated readme with minor fixes
+
+##### JoinOneTrust
+
+- Swapped placeholder for higher resolution assets
+- Implemented better slideshow logic for OTHLLive modal
+- Created and styled Marketo form embed component...hopefully won't have to actually use...
+
+#### Personal
+
+##### Grocery List
+
+- Updated grocery list to go shopping after work!!
+
+---
+
 ### August 18 - 27, 2018
 
 #### Vacation

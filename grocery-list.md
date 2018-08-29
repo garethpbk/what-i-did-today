@@ -1,18 +1,42 @@
-#### Grocery List 6.26.2018
+#### Grocery List 8.28.2018
 
 ##### General
 
+- brown rice
+- eggs
+- butter
+- creamy peanut butter
+- milk
+
+##### Smoothies
+
+- frozen berries
+- bananas
+- spinach
 - yogurt
-- foil
-- plastic wrap
 
-##### Burritos
+##### Lunch Bowls
 
-- tortillas
-- black beans
-- soy chorizo
-- onion
-- peppers
+###### https://www.thespruceeats.com/baked-tofu-in-thai-peanut-sauce-3378127
+
+- broccoli
+- 3x extra firm tofu
+- 4x lime
+- soy sauce
+- sesame oil
+
+##### Salad
+
+- kale/spinach/green
+- chickpeas
+- 2x lemon
+- pepper
+- carrot
+- beet
+
+##### Mashed Potatoes
+
+- potatoes
 
 ##### Tortilla Soup
 
@@ -20,19 +44,27 @@
 
 - white onion
 - jalapeno
-- crushed tomato can
+- crushed tomato
 - vegetable stock
-- hominy can
+- hominy
 - black beans
 - radishes
 - queso fresco
 - lime
+- corn tortillas
 
-### Pizza
+##### Quinoa with Black Beans & Hominy
 
-- diced tomato can
-- tomato paste can
-- anchovies
+###### https://www.foodnetwork.com/recipes/giada-de-laurentiis/quinoa-with-black-beans-and-hominy-recipe-2042586
+
+- quinoa
+- vegetable stock
+- lemon
+- agave nectar
+- 2x lime
+- black beans
+- hominy
+- cilantro
 
 ##### Sweet Potato Chickpea Bowl
 
@@ -58,3 +90,4 @@
 - 2x carrots
 - potato
 - 2x coconut milk
+- garlic
