@@ -4,6 +4,30 @@
 
 ---
 
+### August 29, 2018
+
+#### Work
+
+##### JoinOneTrust
+
+- Building out the exclusive content portion of site - OTHLLive, LoanForce, Post Close Campaign (mostly) done
+
+##### OneTrustMarketing
+
+- New announcement for 8.29.18
+
+##### Landing Pages
+
+- Trying to figure out how tf google tag manager works with phone conversions
+
+#### Personal
+
+##### FLAVA
+
+- Misc fixes, tweaks, helping, etc (0.5 hrs to log)
+
+---
+
 ### August 28, 2018
 
 #### Work
@@ -24,6 +48,8 @@
 ##### Grocery List
 
 - Updated grocery list to go shopping after work!!
+- Went grocery shopping and got a lot of produce!!
+- Made a dank salad and mashed potatoes for dinner!!
 
 ---
 
