@@ -4,6 +4,88 @@
 
 ---
 
+### August 31, 2018
+
+#### Personal
+
+##### Apollo Talk
+
+- Better styling for individual recipes
+- Implemented GraphQL querying for individual recipes
+
+---
+
+### August 30, 2018
+
+#### Work
+
+##### JoinOneTrust
+
+- Finished building out all sections for exclusive part of site, including menu
+- This took all day more or less
+
+---
+
+### August 29, 2018
+
+#### Work
+
+##### JoinOneTrust
+
+- Building out the exclusive content portion of site - OTHLLive, LoanForce, Post Close Campaign (mostly) done
+
+##### OneTrustMarketing
+
+- New announcement for 8.29.18
+
+##### Landing Pages
+
+- Trying to figure out how tf google tag manager works with phone conversions
+
+#### Personal
+
+##### FLAVA
+
+- Misc fixes, tweaks, helping, etc (0.5 hrs to log)
+
+---
+
+### August 28, 2018
+
+#### Work
+
+##### Drip Campaign
+
+- Added new Recruit Campaign for OTHL and deployed new build of site
+- Updated readme with minor fixes
+
+##### JoinOneTrust
+
+- Swapped placeholder for higher resolution assets
+- Implemented better slideshow logic for OTHLLive modal
+- Created and styled Marketo form embed component...hopefully won't have to actually use...
+
+#### Personal
+
+##### Grocery List
+
+- Updated grocery list to go shopping after work!!
+- Went grocery shopping and got a lot of produce!!
+- Made a dank salad and mashed potatoes for dinner!!
+
+---
+
+### August 18 - 27, 2018
+
+#### Vacation
+
+##### On vacation all week lol
+
+- Did a buncha cool stuff unrelated to web dev!!
+- Figured out how to properly use mutations with apollo-link-state and continued working on apollo talk
+
+---
+
 ### August 17, 2018
 
 #### Work
