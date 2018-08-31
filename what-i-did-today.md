@@ -4,6 +4,17 @@
 
 ---
 
+### August 30, 2018
+
+#### Work
+
+##### JoinOneTrust
+
+- Finished building out all sections for exclusive part of site, including menu
+- This took all day more or less
+
+---
+
 ### August 29, 2018
 
 #### Work
