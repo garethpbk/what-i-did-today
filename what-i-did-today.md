@@ -8,14 +8,18 @@
 
 #### Work
 
-#####
-
 ##### JoinOneTrust
 
 - Continued building out functionality
 - Added reviews API fetch and modal display of latest 3 reviews
 - Started building exclusive content
 - Implemented OTHLLive slideshow and debugging it
+
+#### Personal
+
+##### Apollo Talk
+
+- Got posting to work to API from react admin
 
 ---
 
