@@ -6,12 +6,27 @@
 
 ### August 31, 2018
 
+#### Work
+
+##### JoinOneTrust
+
+- Responsive optimizations for exclusive and public parts of site
+- This also took all day!
+
+##### Misc
+
+- Sat in on call with Google support re: phone tracking, investigated issue further
+
 #### Personal
 
 ##### Apollo Talk
 
 - Better styling for individual recipes
 - Implemented GraphQL querying for individual recipes
+
+##### Level Up Tutorials React Testing for Beginners
+
+- Thru video 2
 
 ---
 
