@@ -4,6 +4,40 @@
 
 ---
 
+### September 4, 2018
+
+#### Work
+
+##### JoinOneTrust
+
+- Tweaking and various fixes, going over first round of QC checks - have ready for second tomorrow
+- Inquired re: Marketo or LoanForce, have to wait til tomorrow to meet and finalize
+
+##### Warp Speed
+
+- Did further research, looked docs/presentations, and some existing competitors
+
+##### MLO Websites Phase 3
+
+- Mocked up partner section in Photoshop
+- Created new partner section component in AngularJS app and implemented with styling
+- Did field requirements for partner section
+
+##### GraphQL Gateway
+
+- Did more research on GraphQL PHP implementations, tried some PHP GraphQL tutorials
+- Started building schema from REST APIs
+
+---
+
+### September 1, 2, & 3, 2018
+
+#### Personal
+
+##### Apollo Talk
+
+--- Created VueJS frontend and set up fetch and GraphQL querying for all and individual recipes
+
 ### August 31, 2018
 
 #### Work
