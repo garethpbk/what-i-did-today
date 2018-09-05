@@ -28,6 +28,16 @@
 - Did more research on GraphQL PHP implementations, tried some PHP GraphQL tutorials
 - Started building schema from REST APIs
 
+#### Personal
+
+##### SDJS
+
+- Went to meetup, talked to some ppl, saw some presentations
+
+##### Apollo Talk
+
+- Implemented individual GraphQL pages, added lots of styling
+
 ---
 
 ### September 1, 2, & 3, 2018
