@@ -4,6 +4,24 @@
 
 ---
 
+### September 5, 2018
+
+#### Work
+
+##### GraphQL Gateway
+
+- Built schema for mlos and branches, including branch owner and branch member nested fields
+- Figured out how to implement resolvers to standardize field names
+- Deployed graphql-yoga server to Now successfuly
+
+##### MLO Websites Phase 3
+
+- Had meeting, decided on using only images
+- Started implementing image-only entries
+- Figured out kinda how AngularJS data works?
+
+---
+
 ### September 4, 2018
 
 #### Work
