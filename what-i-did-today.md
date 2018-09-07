@@ -4,6 +4,32 @@
 
 ---
 
+### September 6, 2018
+
+#### Work
+
+##### MLO Websites Phase 3
+
+- Created images for 5 example partners
+- Switched template/css to use just images instead of images & text
+- Redid partner field requirements to reflect just images and URLs (2 fields)
+- Added HBG PDF new tab open to HBG form on successful completion and new success message
+- Disabled Marketo posting
+
+##### JoinOneTrust
+
+- Fully integrated Marketo form embed with success/error messages, tweaked to reduce load time
+- Mobile tweaks for form, determined that Brave browser does not allow cross origin scripting or something?
+
+#### Personal
+
+##### Apollo Talk
+
+- Better styling for React front including admin page
+- Created favicons and changed Vue theming to Vivacious Viands
+
+---
+
 ### September 5, 2018
 
 #### Work
@@ -54,7 +80,7 @@
 
 ##### Apollo Talk
 
-- Implemented individual GraphQL pages, added lots of styling
+- Implemented individual GraphQL pages for Vue, added lots of styling
 
 ---
 
