@@ -4,6 +4,33 @@
 
 ---
 
+### September 7, 2018
+
+#### Work
+
+##### JoinOneTrust
+
+- Went through entire site and implemented various responsive tweaks
+- Sent for second round of QC testing, received feedback to fix on Monday
+
+##### GraphQL Gateway
+
+- Did more research into PHP implementation of GraphQL server and determined that I need to know PHP better before trying to write one (probably learn Laravel too)
+- Will stick with node graphql-yoga server for now, and see about getting a place to deploy it properly
+
+#### Personal
+
+##### Apollo Talk
+
+- Added admin form to Vue front and set up fetch posting and graphql mutations
+- Project is basically done now, just some UI/styling polish left
+
+##### Level Up Tutorials React Testing for Beginners
+
+- Thru video 9
+
+---
+
 ### September 6, 2018
 
 #### Work
