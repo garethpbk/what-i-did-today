@@ -4,6 +4,26 @@
 
 ---
 
+### September 8 & 9, 2018
+
+#### Personal
+
+##### Apollo Talk
+
+- Put recipe api on digitalocean to allow remote access
+- Added field validations and error/success messages to vue and react fronts
+- Project is finally really done, time to start slides for it
+
+##### Level Up Tutorials React Testing for Beginners
+
+- Thru video 8
+
+##### Misc
+
+- Did a lot of random digitalocean management junk to use gareth.cool domain
+
+---
+
 ### September 7, 2018
 
 #### Work
