@@ -4,6 +4,23 @@
 
 ---
 
+### September 10, 2018
+
+#### Work
+
+##### JoinOneTrust
+
+- Added footer component and implemented on all pages
+- Continuing to improve mobile experience and make everything fully responsive
+- Finished the project, for now at least
+- Deployed build to local and remote Apache servers at /updated path
+
+##### Collateral Generation
+
+- Started looking into solutions to dynamically create PDFs (https://github.com/diegomura/react-pdf)
+
+---
+
 ### September 7, 2018
 
 #### Work
