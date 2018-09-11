@@ -4,6 +4,7 @@
 
 ---
 
+<<<<<<< HEAD
 ### September 10, 2018
 
 #### Work
@@ -18,6 +19,25 @@
 ##### Collateral Generation
 
 - Started looking into solutions to dynamically create PDFs (https://github.com/diegomura/react-pdf)
+=======
+### September 8 & 9, 2018
+
+#### Personal
+
+##### Apollo Talk
+
+- Put recipe api on digitalocean to allow remote access
+- Added field validations and error/success messages to vue and react fronts
+- Project is finally really done, time to start slides for it
+
+##### Level Up Tutorials React Testing for Beginners
+
+- Thru video 8
+
+##### Misc
+
+- Did a lot of random digitalocean management junk to use gareth.cool domain
+>>>>>>> 5c0d7e85b42a954a494c112c45bb69ed374a1fca
 
 ---
 
