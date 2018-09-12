@@ -4,7 +4,34 @@
 
 ---
 
-<<<<<<< HEAD
+### September 11, 2018
+
+#### Work
+
+##### Branch Pages
+
+- Fixed reviews to ignore reviews with missing data
+
+##### OneTrust WordPress Site
+
+- Added Customer Service section to contact page
+
+##### New Hire Orientation
+
+- Added cell # to thing that gets sent to backend to process email and csv
+
+##### Marketo
+
+- Helped figure out date token thing
+
+##### Collateral Generation
+
+- Got frustrated and nowhere really with react-pdf rip, time to try something else???
+- Tried something else: @progress/kendo-react-pdf, it works very well
+- Can generate and export PDFs dynamically using data from GraphQL API
+
+---
+
 ### September 10, 2018
 
 #### Work
@@ -19,7 +46,7 @@
 ##### Collateral Generation
 
 - Started looking into solutions to dynamically create PDFs (https://github.com/diegomura/react-pdf)
-=======
+
 ### September 8 & 9, 2018
 
 #### Personal
@@ -37,7 +64,6 @@
 ##### Misc
 
 - Did a lot of random digitalocean management junk to use gareth.cool domain
->>>>>>> 5c0d7e85b42a954a494c112c45bb69ed374a1fca
 
 ---
 
