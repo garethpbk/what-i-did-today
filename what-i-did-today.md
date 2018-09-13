@@ -4,6 +4,32 @@
 
 ---
 
+### September 12, 2018
+
+#### Work
+
+##### MLO Websites
+
+- Fixed reviews with blank comments/content so that they do not show up
+- Uploaded most recent build of site to OTHL, CalCon, and Tabor servers
+
+##### JoinOneTrust
+
+- More and more responsive tweaking, fixing mobile & Safari background images
+- Fixed reviews with blank comments/content so that they do not show up
+- Sent partner image specs & PSD template to designer
+
+##### OneTrustMarketing
+
+- Updated announcements with 9/12 announcement
+
+##### Paid Social Landing Page
+
+- Created new project to use apollo-boost and GraphQL api
+- Laid out page with skeleton components and basic MLO query
+
+---
+
 ### September 11, 2018
 
 #### Work
