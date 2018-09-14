@@ -4,6 +4,25 @@
 
 ---
 
+### September 13, 2018
+
+#### Work
+
+##### JoinOneTrust
+
+- Updated top producer slides for August on current site, a few times
+- Added new device-specific helper in theme, using for MLO laptops @ 1366 x 768 resolution
+- Fixed OTHLLive slides to be full width of slides (72vw vs 70vw)
+- Further responsive tweaking and cross-device/browser testing
+- Attempted to implement active class for nav, works with fixed height sections but not on mobile, not implemented
+- Refactored major parts: sections now use a base component with render prop, that holds all calculation logic
+
+##### Paid Social Landing Page
+
+- Fleshing out About section, continuing to build page skeleton
+
+---
+
 ### September 12, 2018
 
 #### Work
