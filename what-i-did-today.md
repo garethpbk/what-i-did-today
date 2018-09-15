@@ -4,6 +4,26 @@
 
 ---
 
+### September 14, 2018
+
+#### Work
+
+##### JoinOneTrust
+
+- Fixed various remaining bugs, screwed up a rebase, fixed, ready to officially launch
+
+#### Personal
+
+##### Apollo Talk
+
+- Created presentation with spectable, made a few slides, fixed endpoint in frontends
+
+##### FLAVA
+
+- Addressing various concerns some of which have already been addressed @\_@
+
+---
+
 ### September 13, 2018
 
 #### Work
