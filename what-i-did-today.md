@@ -4,6 +4,30 @@
 
 ---
 
+### September 17, 2018
+
+#### Work
+
+##### Misc
+
+- Computer decided it would be good to geek out today and bash has stopped working x.x
+
+##### OneTrustMarketing
+
+- Reverted to previous backup cuz site was having a MIME error, uploaded new announcements JSON, all good now
+
+---
+
+### September 15 & 16, 2018
+
+#### Personal
+
+##### Camping!
+
+- Camping @ Lake Dixon all weekend so not accomplishing anything productive 8-)
+
+---
+
 ### September 14, 2018
 
 #### Work
