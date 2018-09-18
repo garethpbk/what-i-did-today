@@ -4,6 +4,124 @@
 
 ---
 
+### September 17, 2018
+
+#### Work
+
+##### Misc
+
+- Computer decided it would be good to geek out today and bash has stopped working x.x
+- Seems likely to be the fault of the Trend Micro anti-virus...
+
+##### OneTrustMarketing
+
+- Reverted to previous backup cuz site was having a MIME error, uploaded new announcements JSON, all good now
+
+---
+
+### September 15 & 16, 2018
+
+#### Personal
+
+##### Camping!
+
+- Camping @ Lake Dixon all weekend so not accomplishing anything productive 8-)
+
+---
+
+### September 14, 2018
+
+#### Work
+
+##### JoinOneTrust
+
+- Fixed various remaining bugs, screwed up a rebase, fixed, ready to officially launch
+
+#### Personal
+
+##### Apollo Talk
+
+- Created presentation with spectable, made a few slides, fixed endpoint in frontends
+
+##### FLAVA
+
+- Addressing various concerns some of which have already been addressed @\_@
+
+---
+
+### September 13, 2018
+
+#### Work
+
+##### JoinOneTrust
+
+- Updated top producer slides for August on current site, a few times
+- Added new device-specific helper in theme, using for MLO laptops @ 1366 x 768 resolution
+- Fixed OTHLLive slides to be full width of slides (72vw vs 70vw)
+- Further responsive tweaking and cross-device/browser testing
+- Attempted to implement active class for nav, works with fixed height sections but not on mobile, not implemented
+- Refactored major parts: sections now use a base component with render prop, that holds all calculation logic
+
+##### Paid Social Landing Page
+
+- Fleshing out About section, continuing to build page skeleton
+
+---
+
+### September 12, 2018
+
+#### Work
+
+##### MLO Websites
+
+- Fixed reviews with blank comments/content so that they do not show up
+- Uploaded most recent build of site to OTHL, CalCon, and Tabor servers
+
+##### JoinOneTrust
+
+- More and more responsive tweaking, fixing mobile & Safari background images
+- Fixed reviews with blank comments/content so that they do not show up
+- Sent partner image specs & PSD template to designer
+
+##### OneTrustMarketing
+
+- Updated announcements with 9/12 announcement
+
+##### Paid Social Landing Page
+
+- Created new project to use apollo-boost and GraphQL api
+- Laid out page with skeleton components and basic MLO query
+
+---
+
+### September 11, 2018
+
+#### Work
+
+##### Branch Pages
+
+- Fixed reviews to ignore reviews with missing data
+
+##### OneTrust WordPress Site
+
+- Added Customer Service section to contact page
+
+##### New Hire Orientation
+
+- Added cell # to thing that gets sent to backend to process email and csv
+
+##### Marketo
+
+- Helped figure out date token thing
+
+##### Collateral Generation
+
+- Got frustrated and nowhere really with react-pdf rip, time to try something else???
+- Tried something else: @progress/kendo-react-pdf, it works very well
+- Can generate and export PDFs dynamically using data from GraphQL API
+
+---
+
 ### September 10, 2018
 
 #### Work
