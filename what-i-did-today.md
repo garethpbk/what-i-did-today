@@ -4,6 +4,31 @@
 
 ---
 
+### September 18, 2018
+
+#### Work
+
+##### Broken Bash
+
+- Have to use my laptop today until IT can help try to fix work PC...
+
+##### JoinOneTrust
+
+- Sent out for last round of QC, recieved feedback and go-ahead to launch tomorrow
+- Continued working on documentation/readme
+
+##### Misc
+
+- Wrote QC Guidelines for process of deploying new projects and changes/updates to existing projects
+
+#### Personal
+
+##### FLAVA
+
+- Registed exec board member who had not been able to register for ~reasons~
+
+---
+
 ### September 17, 2018
 
 #### Work
