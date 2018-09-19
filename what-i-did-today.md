@@ -15,7 +15,8 @@
 ##### JoinOneTrust
 
 - Sent out for last round of QC, recieved feedback and go-ahead to launch tomorrow
-- Continued working on documentation/readme
+- Tweaked specifically for Micaela's 1600 x 900 resolution desktop, figured out issues
+- Finished first draft of readme.md
 
 ##### Misc
 
@@ -26,6 +27,14 @@
 ##### FLAVA
 
 - Registed exec board member who had not been able to register for ~reasons~
+
+##### Level Up Tutorials React Testing for Beginners
+
+- Thru video 14
+
+##### Apollo Talk
+
+- Deployed React and Vue front ends to DigitalOcean, fixed API endpoints
 
 ---
 
