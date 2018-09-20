@@ -4,6 +4,39 @@
 
 ---
 
+### September 19, 2018
+
+#### Work
+
+##### JoinOneTrust
+
+- Further QC tweaks from last round, minor content changes, scrolling offset on mobile
+- Officially launched site @ https://joinonetrust.com hooray
+- Started going through code and removing unused stuff and adding comments
+- Further tweaked readme.md
+
+##### Paid Social Landing Page
+
+- Moved query into App and pass data down as props into components
+- Set up system for finding branch from MLO city and state and bringing in banner image (prolly won't actually use tho lol)
+- Built out reviews component and figured how to get Birdeye to work with fetch (hooray!)
+
+##### GraphQL Yoga Server
+
+- Made most fields for MLOs not required cuz it's horribly inconsistent what fields are not null in the REST api
+
+#### Personal
+
+##### Apollo Talk
+
+- Moved GraphQL queries and mutation into separate file in React front (had to use .js file cuz cra doesn't support graphql-loader atm)
+
+##### Level Up Tutorials React Testing for Beginners
+
+- Thru video 16
+
+---
+
 ### September 18, 2018
 
 #### Work
