@@ -4,6 +4,27 @@
 
 ---
 
+### September 20, 2018
+
+#### Work
+
+##### JoinOneTrust
+
+- Going through all code and commenting
+
+##### BrowserStack
+
+- Tested on 8 mobile devices: onetrustmarketing, drip campaigns, marketing orientation, joinonetrust
+
+#### Personal
+
+##### Apollo Talk
+
+- Installed SSL on all subdomains (and main domain)
+- Finished presentation slides, deployed to DigitalOcean server
+
+---
+
 ### September 19, 2018
 
 #### Work
