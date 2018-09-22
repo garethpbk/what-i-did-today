@@ -27,6 +27,9 @@
 
 -   Added favicon and title to presentation index.html
 
+##### Level Up Tutorials React Testing for Beginners
+- Thru video 19
+
 ---
 
 ### September 20, 2018
