@@ -4,6 +4,26 @@
 
 ---
 
+### September 24, 2018
+
+#### Work
+
+##### MLO Websites
+
+- Updated live site with HBG PDF link, sent out email to team to QC test it
+
+##### Paid Social Landing Page
+
+- Updated Front-end requirements to reflect apollo-boost, @reach/router, campaign URL params
+- Created local data file to match with URL param to know which campaign variant to load
+
+##### Drip Campaign
+
+- Added new refinance campaign and encountered some difficulties
+- Works properly at driptest URL but not actual url; sent in cache clear request to try to debug
+
+---
+
 ### September 22 & 23, 2018
 
 #### Personal
