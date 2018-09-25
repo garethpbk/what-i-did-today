@@ -22,6 +22,12 @@
 - Added new refinance campaign and encountered some difficulties
 - Works properly at driptest URL but not actual url; sent in cache clear request to try to debug
 
+#### Personal
+
+##### Grace Portfolio
+
+- Added about page and content model
+
 ---
 
 ### September 22 & 23, 2018
