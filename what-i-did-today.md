@@ -4,6 +4,46 @@
 
 ---
 
+### September 25, 2018
+
+#### Work
+
+##### Drip Campaign
+
+- Issue seems to have resolved itself...site loads properly with no error; probably was a problem with the server
+- Updated new refinance campaign with correct title, fixed emdash on manual campaign 07 for consistency
+
+##### QC Guide
+
+- Wrote generic QC checklist that takes from NHO and JOT lists plus some new stuff, all genericized
+- Added QC guide and QC checklist to Sharepoint FE Job Aids, organized that folder better
+
+##### New Hire Orientation
+
+- Updated to remove css files, remove 2 inactive webinars, remove test file (pushed updated version to server)
+
+##### Branch Pages
+
+- Redirected /branches and /branch to go to the proper /branch/ URL
+
+##### OneTrustMarketing
+
+- Added updates to Menu of Services
+- Determined that IT managed to break going directly to URLs; a good time to replace with Gatsby site
+
+##### Paid Social LP
+
+- Added data for all 4 campaigns including modified banner images
+- Continued form component with working validators for all fields
+
+#### Personal
+
+##### Apollo Talk
+
+- On schedula for Oct. 2nd to present @ SDJS Monthly Meeting @ Zeeto
+
+---
+
 ### September 24, 2018
 
 #### Work
