@@ -4,6 +4,28 @@
 
 ---
 
+### September 27, 2018
+
+#### Work
+
+##### BrowserStack
+
+- Finished testing all sites on all mobile devices
+
+##### Signature Generator
+
+- Updated local version with Tabor award image, sent to Basecamp for review
+
+##### Paid Social LP
+
+- Added images to Basecamp for Ivan to review and edit
+
+##### SD Marketo User Group
+
+- Attended SD MUG meetup & presentation about Velocity script
+
+---
+
 ### September 26, 2018
 
 #### Work
