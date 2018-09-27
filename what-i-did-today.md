@@ -4,6 +4,28 @@
 
 ---
 
+### September 26, 2018
+
+#### Work
+
+##### BrowserStack
+
+- Went through Calcon and Tabor sites on all mobile devices
+
+##### Paid Social LP
+
+- Refined about, header, form, hero sections
+- Implemented functions for sending form data to LoanForce in proper format
+- Set up redirects to notfound page if invalid campaign or MLO name
+
+#### Personal
+
+##### Reci
+
+- Set up project - created first models, graphql schema, resolvers, repo, etc.
+
+---
+
 ### September 25, 2018
 
 #### Work
