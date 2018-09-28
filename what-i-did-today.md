@@ -4,6 +4,24 @@
 
 ---
 
+### September 28, 2018
+
+#### Work
+
+##### Paid Social LP
+
+- Cleaned stuff up re: best practices - componentDidMount instead of componentWillMount, changed arrow function lifecycle methods
+- Fleshed out not found page to query list of branches and render as links
+- Switched Reviews component from using fetch & local state to GraphQL query
+- Seperated out queries into .graphql files with new react-scripts version 2 (hoooorraaayyy)
+
+##### GraphQL Yoga Server
+
+- Added list of branches to API and resolved it to an array of objects so it's not annoying af to work with
+- Added Birdeye reviews to API
+
+---
+
 ### September 27, 2018
 
 #### Work
