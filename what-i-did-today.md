@@ -4,6 +4,14 @@
 
 ---
 
+### September 29 & 30, 2018
+
+#### Personal
+
+- Nothing lol went to LA and saw some cool stuff @ the Museum of Jurassic Technology
+
+---
+
 ### September 28, 2018
 
 #### Work
@@ -19,6 +27,12 @@
 
 - Added list of branches to API and resolved it to an array of objects so it's not annoying af to work with
 - Added Birdeye reviews to API
+
+#### Personal
+
+##### Reci
+
+- Continued working on resolvers
 
 ---
 
