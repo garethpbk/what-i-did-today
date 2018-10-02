@@ -4,6 +4,36 @@
 
 ---
 
+### October 1, 2018
+
+#### Work
+
+##### Marketo Gamification email
+
+- Transferred email from boring old template into less boring new template
+
+##### Signature Generator
+
+- Got access to OneTrustTechnology Debian box
+- Can upload and modify files...kinda goofy b/c permissions or chown or w/e but it does work (vim!)
+- Updated Tabor signature generator to include the award image, works for both bat and html file downloads
+
+##### Marketo User Group
+
+- Wrote detailed writeup about meeting last Thursday
+
+##### Paid Social LP
+
+- Uploaded current build of site to server, configured .htaccess for it
+
+#### Personal
+
+##### Apollo Talk
+
+- Cleaned up slides in preparation for talk tomorrow
+
+---
+
 ### September 29 & 30, 2018
 
 #### Personal
