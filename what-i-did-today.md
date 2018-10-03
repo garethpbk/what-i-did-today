@@ -4,6 +4,40 @@
 
 ---
 
+### October 2, 2018
+
+#### Work
+
+##### LoanForce Insider
+
+- Cloned AngularJS and React projects; AngularJS does not work, React does
+- Determined need for actual MLO login to see wtf this thing is supposed to do (AngularJS live version)
+
+##### Paid Social LP
+
+- Changed format of error messages to shrink height of form
+- Added custom submit error messages
+- Added success condition to control form render content after submit
+- Worked on responsive styling for mobile devices; site is good at mobile breakpoint
+
+##### Signature Generator
+
+- Switched for better Tabor logo (not in production yet)
+- Determined how logos can be made bigger and Tabor social media could be incorporated
+
+#### Personal
+
+##### Portfolio
+
+- Started Gatsby portfolio project, added under construction, deployed to DigitalOcean
+
+##### Apollo Talk
+
+- Pulled latest version of presentation and react front to DigitalOcean deployment
+- Gave talk at SDJS monthly meeting
+
+---
+
 ### October 1, 2018
 
 #### Work
