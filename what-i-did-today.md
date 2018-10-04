@@ -4,6 +4,31 @@
 
 ---
 
+### October 3, 2018
+
+#### Work
+
+##### Branch Pages
+
+- Changed HBG and Get a Quote campaigns to branch campaign name and branch-specific sources
+- Attempted to figure out if the above actually worked...very hard to tell...
+
+##### GraphQL Yoga Server
+
+- Deployed server to DigitalOcean droplet - it works! - now have to figure out how to get it on OTHL Debian...?
+
+##### Misc
+
+- Wrote a Node.js server request to justify why I need a place to host a GraphQL API
+
+#### Personal
+
+##### FLAVA
+
+- Wrote pretty detailed guide to how the conference registration system works and how to run it at the conference
+
+---
+
 ### October 2, 2018
 
 #### Work
