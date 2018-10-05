@@ -4,6 +4,42 @@
 
 ---
 
+### October 4, 2018
+
+#### Work
+
+##### Marketing Minute
+
+- Chosen for and recorded and published the first marketing minute, about joinonetrust.com
+
+##### Paid Social LP
+
+- Tweaks to form content, direct to PDF download links, added cell phone numbers & icon
+
+##### GraphQL Yoga Server
+
+- Installed SSL certificate with LetsEncrypt for https
+
+##### Lighthouse GraphQL Server
+
+- Tried to start, got lost very quickly cuz I don't know PHP well or Laravel at all!
+
+##### Marketo Landing Pages
+
+- Added award badges to 2 pages, made banner image dimensions properly responsive
+
+##### Signature Generator
+
+- Added social icons to Tabor on live signature generator for testing
+
+#### Personal
+
+##### Reci
+
+- Added update and delete resolver for ingredients
+
+---
+
 ### October 3, 2018
 
 #### Work
