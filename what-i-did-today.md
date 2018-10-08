@@ -4,6 +4,34 @@
 
 ---
 
+### October 8, 2018
+
+#### Work
+
+##### Marketo
+
+- Tweaking header of clearer title - dark template for vertical centering and better spacing
+
+##### Branch Pages
+
+- Figured out problem with API not posting source - campaign name mismatch, needs IT intervention probably (JK lol)
+- Fixed API source posting with team, deployed to test site and successfully tested several times
+
+##### GraphQL Yoga Server
+
+- Organized queries better into separate files
+- Created mutation for LoanForce contact creation plus resolver, deployed to live server
+
+##### Paid Social LP
+
+- Renamed queries folder and added mutation.graphl in anticipation of moving form submit to mutation (brain too fried to do it today)
+
+##### Signature Generator
+
+- Updated Calcon and OTHL vcards to use newer generator utility and to make Calcon work at all
+
+---
+
 ### October 6 & 7, 2018
 
 #### Personal
