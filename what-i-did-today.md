@@ -4,6 +4,42 @@
 
 ---
 
+### October 6 & 7, 2018
+
+#### Personal
+
+##### Reci
+
+- Continued building schema and resolvers, made progress in figuring out how exactly mutations work
+
+---
+
+### October 5, 2018
+
+#### Work
+
+##### Marketing Minute
+
+- Uploaded formatted and subtitled video to OTHL Facebook group and Chatter via Wistia
+- Wrote up reflection on first video with successes and lessons
+
+##### Branch Pages
+
+- Added CORS header to LoanForce api script to allow for testing from local and remote (did it work? who knows!)
+- Attempted to fix branch pages posting to LoanForce and Marketo, ran into resistance probably from caching
+
+##### Paid Social LP
+
+- Figured out how LoanForce API works to set up API post call to send in form data
+- Set up form to send data to LoanForce and create contacts (using axios for convenience)
+- Added spinner and loading state for form submit action
+
+##### Signature Generator
+
+- Replaced social icons with better/bigger ones from ionicons (no Twitter for Tabor)
+
+---
+
 ### October 4, 2018
 
 #### Work
