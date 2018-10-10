@@ -25,6 +25,12 @@
 
 - Got access (+ to Encompass), figured out how to run local dev environment for AngularJS app
 
+#### Personal
+
+##### Level Up Tutorials React Testing for Beginners
+
+- Finished all videos
+
 ---
 
 ### October 8, 2018
