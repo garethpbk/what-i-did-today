@@ -4,6 +4,24 @@
 
 ---
 
+### October 10, 2018
+
+#### Work
+
+##### Modular Resource Center
+
+- Rebuilt entire site in GatsbyJS, is now ~ blazing fast ~ (needs a few more responsive tweaks)
+
+##### Paid Social LP
+
+- Changed urls of 2 campaigns for better info, built out sourcing based on URL parameter, cleaned up old code
+
+##### Misc
+
+- Added laptop SSH public key to Bitbucket cuz I got tired of typing the password...dunno if it worked...
+
+---
+
 ### October 9, 2018
 
 #### Work
