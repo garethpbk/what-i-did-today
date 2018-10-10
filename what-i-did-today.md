@@ -4,6 +4,29 @@
 
 ---
 
+### October 9, 2018
+
+#### Work
+
+##### Paid Social LP
+
+- Switched Form component to use Mutation to send form data to LoanForce via GraphQL server
+
+##### GraphQL Yoga Server
+
+- Switched LoanForce API endpoint to quote to allow for phone and purpose entry, redeployed
+- Wrote Business Requirements Documents to get needed infrastructure to host GraphQL API properly
+
+##### Branch Pages
+
+- Changed how form validation works for HBG form, tried for Quote form but it uses some package that doesn't like me
+
+##### LoanForce Insider
+
+- Got access (+ to Encompass), figured out how to run local dev environment for AngularJS app
+
+---
+
 ### October 8, 2018
 
 #### Work
