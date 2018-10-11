@@ -4,6 +4,28 @@
 
 ---
 
+### October 11, 2018
+
+#### Work
+
+##### Modular Resource Center
+
+- Finished rebuilding site in Gatsby, tested on BrowserStack, deployed to test and live servers
+
+##### Paid Social LP
+
+- Added react-app-polyfill and IE9+ support
+
+##### Drip Campaign
+
+- Rebuilt site in Gatsby v2 (started upgrading but decided to rebuild to fix some bugs and stuff)
+
+##### BrowserStack
+
+- Audited all sites on desktop Chrome, Firefox, Edge, IE11, Safari - all good!
+
+---
+
 ### October 10, 2018
 
 #### Work
