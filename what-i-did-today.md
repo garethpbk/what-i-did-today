@@ -24,6 +24,12 @@
 
 - Audited all sites on desktop Chrome, Firefox, Edge, IE11, Safari - all good!
 
+#### Personal
+
+##### FLAVA
+
+- Sent invoice for work from January '18 to present
+
 ---
 
 ### October 10, 2018
