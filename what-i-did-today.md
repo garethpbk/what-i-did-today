@@ -4,6 +4,42 @@
 
 ---
 
+### October 12, 2018
+
+#### Work
+
+##### Modular Resource Center
+
+- Sent out QC email to team for testing
+
+##### Paid Social LP
+
+- Changed PDF links to https on OneTrust server and added auto-open if allowed by browser for VA & HB Guides
+- Reorganized file names for better consistency and differentiation, especially GraphQL files
+- Deployed to OneTrust site for testing, works just fine
+
+##### Drip Campaign
+
+- Added readme to v2 site, tweaked header and filenames
+
+##### OneTrust WordPress Site
+
+- Fixed careers link to go to the correct Indeed company page
+
+##### GraphQL Yoga Server
+
+- Added new query and resolver to get bigass return of all branch information (for all branches), deployed to live
+
+##### Branch Page Apollo
+
+- Started new project to use GraphQL server and not apollo-link-rest
+- Set up intial branch list query to populate list of branches and draw each branch route
+- Queries all branches when branch list page visited
+- Queries individual branch when branch route accessed directly
+- Reads fragment from cache if all branches are loaded and individual branch route visited
+
+---
+
 ### October 11, 2018
 
 #### Work
@@ -29,6 +65,10 @@
 ##### FLAVA
 
 - Sent invoice for work from January '18 to present
+
+##### Reci
+
+- Tested out initial queries in front-end with basic Apollo setup
 
 ---
 
