@@ -4,6 +4,12 @@
 
 ---
 
+### October 13 & 14, 2018
+
+Coded nothing lol (read a lot and cleaned a lot tho)
+
+---
+
 ### October 12, 2018
 
 #### Work
