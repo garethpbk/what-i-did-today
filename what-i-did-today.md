@@ -4,6 +4,39 @@
 
 ---
 
+### October 15, 2018
+
+#### Work
+
+##### GraphQL Yoga Server
+
+- Fixed resolvers for mlo and branch members for mloPage field as it's stored as string, not boolean (rly dumb lol why???)
+
+##### Marketo
+
+- Struggled with Halloween email to get Outlook to center image (did not work no matter what LOL)
+
+##### Paid Social LP
+
+- Upgraded to styled-components v4 and deployed latest version to Netlify and live server
+
+##### Branch Page Redux
+
+- Deployed newest build that only posts to LoanForce to live server
+
+##### Branch Page Apollo
+
+- Continued building out V2 project, through working HBG Form component
+- Linked up a Netlify site and deployed for testing (seems to load faster than the Redux version, hooray)
+
+#### Personal
+
+##### Level Up Tutorials Better JavaScript
+
+- Started series, thru video 1
+
+---
+
 ### October 13 & 14, 2018
 
 Coded nothing lol (read a lot and cleaned a lot tho)
