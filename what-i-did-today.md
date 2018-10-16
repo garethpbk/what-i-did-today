@@ -35,6 +35,10 @@
 
 - Started series, thru video 1
 
+##### Grace Portfolio
+
+- Added gallery page, one more placeholder art piece, some layout/file tweaking
+
 ---
 
 ### October 13 & 14, 2018
