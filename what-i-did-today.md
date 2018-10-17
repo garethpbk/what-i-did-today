@@ -19,6 +19,7 @@
 ##### Paid Social LP
 
 - Cleaned up dependencies, replaced react-flexbox-grid with custom grid, switched some layout to css grid w/ flexbox fallback
+- Tested Facebook pixel tracking with dlooney, it works!
 
 #### Personal
 
