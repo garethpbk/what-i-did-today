@@ -4,6 +4,30 @@
 
 ---
 
+### October 16, 2018
+
+#### Work
+
+##### Misc
+
+- Installed & set up ngrok to view development environment remotely on work machine
+
+##### Branch Page Apollo
+
+- Rewrote all mortgage calculators to work client-side rather than relying on third-party PHP scripts (useful outside of branch pages too)
+
+##### Paid Social LP
+
+- Cleaned up dependencies, replaced react-flexbox-grid with custom grid, switched some layout to css grid w/ flexbox fallback
+
+#### Personal
+
+##### FLAVA
+
+- Set up Spring 2019 Call for Proposals form
+
+---
+
 ### October 15, 2018
 
 #### Work
