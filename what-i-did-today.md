@@ -4,6 +4,36 @@
 
 ---
 
+### October 17, 2018
+
+#### Work
+
+##### BrowserStack
+
+- "Running live tests with BrowserStack: An introduction to success" live webinar
+
+##### GraphQL Yoga Server
+
+- Added Google-formatted address and coordinates to branch query & resolver to play nice with Google Maps
+
+##### Branch Page Apollo
+
+- Built location (map), footer, cta, modal components
+- Set up LF contact creation for Get a Quote form (in modal)
+- Changed design a bit for more consistency with blue/green color theme
+
+##### Marketo
+
+- Sat w/ team and learned about various Marketo things, more tomorrow
+
+#### Personal
+
+##### FLAVA
+
+- Tweaked Spring 2019 CFP form with updates and set to ready for launch
+
+---
+
 ### October 16, 2018
 
 #### Work
