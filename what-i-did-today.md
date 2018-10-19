@@ -4,6 +4,38 @@
 
 ---
 
+### October 18, 2018
+
+#### Work
+
+##### Drip Campaign
+
+- Fixed images for othl/nrc, renamed refinance campaign, added link to othl site in logo, tweaked mobile dropdown styles
+
+##### Branch Page Apollo
+
+- Removed react-flexbox-grid and replaced with custom grid, removed other unnecessary packages, optimized images
+- Made site fully responsive for mobile devices/small screens
+- Added react-number-format to mask calculator inputs, sanitized calculation logic accordingly, tweaked calculator styles
+
+##### OneTrust Marketing
+
+- Added new announcment and new job aid, uploaded new build of site to server
+
+##### Misc
+
+- Fixed A. Beiza's headshot in LF
+
+#### Personal
+
+##### FLAVA
+- Added date to form description
+
+##### Misc
+- Bought Wes Bos' Advanced React & GraphQL (just in time 4 sale)
+
+---
+
 ### October 17, 2018
 
 #### Work
