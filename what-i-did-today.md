@@ -27,7 +27,7 @@
 
 ##### Wes Bos Advanced React
 
-- Started course, thru video #2
+- Started course, thru video #4
 
 ---
 
