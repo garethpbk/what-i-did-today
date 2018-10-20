@@ -4,6 +4,33 @@
 
 ---
 
+### October 19, 2018
+
+#### Work
+
+##### Debian Server
+
+- Messed around and attempt to get a new node.js app running, no luck (useless without access to the domain)
+
+##### Paid Social LP
+
+- Restored headshot filter and built project with Google tag manager container added, uploaded to live server
+- Added variable campaign names for each of the 4 page variations (needs source field mapping and to be made live)
+
+##### Branch Page Apollo
+
+- Replaced svg imgs with svg components (thanks CRA 2!)
+- Further responsive tweaking, site is good to go on all screen sizes now
+- Experimented with moving banner image to separate query, didn't seem to accomplish much
+
+#### Personal
+
+##### Wes Bos Advanced React
+
+- Started course, thru video #2
+
+---
+
 ### October 18, 2018
 
 #### Work
@@ -29,9 +56,11 @@
 #### Personal
 
 ##### FLAVA
+
 - Added date to form description
 
 ##### Misc
+
 - Bought Wes Bos' Advanced React & GraphQL (just in time 4 sale)
 
 ---
