@@ -4,6 +4,16 @@
 
 ---
 
+### October 20 & 21, 2018
+
+#### Personal
+
+##### Wes Bos Advanced React
+
+- Thru video #11
+
+---
+
 ### October 19, 2018
 
 #### Work
