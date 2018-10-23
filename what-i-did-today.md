@@ -4,6 +4,30 @@
 
 ---
 
+### October 22, 2018
+
+#### Work
+
+##### Branch Page Apollo
+
+- Added react-app-polyfill and IE9-11 support
+
+##### GraphQL Yoga Server
+
+- Added sorting to branch list query to sort by state and city
+
+##### OneTrust Marketing Gatsby
+
+- Rebuilt whole site in Gatsby v2, deployed to Netlify and live server (stuck in cache ov course lol)
+
+#### Personal
+
+##### Wes Bos Advanced React
+
+- Thru video #13
+
+---
+
 ### October 20 & 21, 2018
 
 #### Personal
