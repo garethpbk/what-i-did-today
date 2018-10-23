@@ -24,7 +24,7 @@
 
 ##### Wes Bos Advanced React
 
-- Thru video #13
+- Thru video #14
 
 ---
 
