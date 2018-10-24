@@ -4,6 +4,42 @@
 
 ---
 
+### October 23, 2018
+
+#### Work
+
+##### OneTrust Marketing Gatsby
+
+- Fixes for IE/non-grid layout, fixed roboto-condensed font not loading properly
+
+##### Branch Page Apollo
+
+- Tried setting up Branch Page site in Gatsby; ran into issue with ID - can't run query without branch id, which comes from props, so no good right now - could try later by setting up a branch query by the path rather than id
+- Added default/notfound route/component and set up case checker to redirect wrongly-cased URLs to the correct branch
+- Added telephoneNumber field to branch query and Location component
+- Switched favicon for better one that doesn't have white aliasing
+
+##### Paid Social LP
+
+- Swapped campaign names for new ones, converted most components to SFCs for ~ efficiency ~
+- Updated websites/web applications/servers list to reflect websites moving platforms (AngularJS to GatsbyJS)
+
+##### OneTrust Marketing
+
+- Hence referred to as just OneTrust Marketing as it's live - fixed PDF links under help
+
+##### Misc
+
+- Attended Gatsby webinar on building dynamic applications with Gatsby
+
+#### Personal
+
+##### Wes Bos Advanced React
+
+- Thru video #15
+
+---
+
 ### October 22, 2018
 
 #### Work
