@@ -4,6 +4,31 @@
 
 ---
 
+### October 24, 2018
+
+#### Work
+
+##### Branch Page Apollo
+
+- Tried to make branch listing layout more interesting by implementing a tiled layout instead of a list
+- Started cleaning up and better standardizing styles across site
+
+##### MLO Sites
+
+- Created Gatsby project to experiment with pulling in MLO data and rendering dynamically
+
+#### Personal
+
+##### Wes Bos Advanced React
+
+- Thru video #17
+
+##### Misc
+
+- Messed around with SVGs in React to prepare for upcoming project
+
+---
+
 ### October 23, 2018
 
 #### Work
