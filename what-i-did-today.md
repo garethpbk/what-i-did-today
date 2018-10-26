@@ -4,6 +4,39 @@
 
 ---
 
+### October 26, 2018
+
+#### Work
+
+##### OneTrust GraphQL Yoga
+
+- Added node engine version specification to make Now deployments work properly
+- Added city and state fields to Branch type and allBranches resolver, including sorting
+- Added type for formatted MLO headshot and a resolver that uploads the SalesForce image to Cloudinary and returns headshot with file extension
+
+##### Branch Page Apollo
+
+- Tweaks to svg state display, got go-ahead to switch to tiled layout
+- Tried switching over to allBranches query to load everything, works great but sooo slow so not using
+- Added links to othl homepage to logos and converted footer logo to SVG component
+- Deployed to live branch page...yeah!
+
+##### Paid Social LP
+
+- Added Google Tag Manager custom event to successful submission of va/hb guide form
+
+##### Collateral Generator
+
+- Fixed headshot image using Cloudinary workaround from GraphQL API and setting border-radius to 100%
+
+#### Personal
+
+##### Misc
+
+- Played with React hooks in Codesandbox, figured out how they work to manage state (STRAIGHT FIRE)
+
+---
+
 ### October 25, 2018
 
 #### Work
