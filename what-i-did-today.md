@@ -4,6 +4,35 @@
 
 ---
 
+### October 25, 2018
+
+#### Work
+
+##### Marketing Minute
+
+- Uploaded formatted and subtitled video to OTHL Facebook group and Chatter via Wistia
+
+##### Branch Page Apollo
+
+- Finished cleaning and standardizing styling across site
+- Added filter blur effect to branch tiles when placeholder shown
+
+##### Paid Social LP
+
+- Added licensing, privacy, nmls access links to footer
+- Cleaned up/standardized styles a bit better
+- Updated manifest.json to not be placeholder info
+- Switched favicon for better png image with no white aliasing
+- Started adding comments
+
+#### Personal
+
+##### Wes Bos Advanced React
+
+- Thru video #18
+
+---
+
 ### October 24, 2018
 
 #### Work
