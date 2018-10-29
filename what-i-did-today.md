@@ -4,6 +4,12 @@
 
 ---
 
+### October 27 & 28, 2018
+
+- Literally did nothing productive all weekend lol feelsgooood
+
+---
+
 ### October 26, 2018
 
 #### Work
