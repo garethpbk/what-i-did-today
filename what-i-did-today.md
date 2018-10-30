@@ -4,6 +4,31 @@
 
 ---
 
+### October 29, 2018
+
+#### Work
+
+##### OneTrust Marketing
+
+- Created new project with most recent gatsby-starter-default and ported files in (to fix gatsby-transformer-sharp not working properly)
+- Replaced most images in project with gatsby-image <Img /> components
+- Refactored brand-specific pages into one base component with render prop to pass data
+- Tried fixing brand logo and email images for homepage to load nicer, didn't really do much, so reverted to <img /> tags
+- Fixed Facebook widget not reloading on route change
+- Wrote up short user guide thing for team, put on Basecamp and Sharepoint and email
+
+##### Marketo
+
+- Fixed spacing and line height and color issues on gamification email
+
+##### Branch Page
+
+- Now referring to this as just Branch Page as it is deployed live
+- Switched component classes to PureComponent
+- Added phone number button to CTA bar
+
+---
+
 ### October 27 & 28, 2018
 
 - Literally did nothing productive all weekend lol feelsgooood
