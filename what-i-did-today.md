@@ -4,6 +4,23 @@
 
 ---
 
+### October 30, 2018
+
+#### Work
+
+##### Media Release Form
+
+- Planned project out including design, UX steps, and packages needed
+- Created project with CRA, linked to remote repo, started developing components
+- Created brand select, othl agreement, header, footer, and started signature/form components
+- Set up route transitions with react-pose
+
+##### Misc
+
+- Supposedly have a NodeJS server set up now, wasn't able to log in or ping (timed out), let IT know
+
+---
+
 ### October 29, 2018
 
 #### Work
