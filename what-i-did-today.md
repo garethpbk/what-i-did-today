@@ -4,6 +4,51 @@
 
 ---
 
+### November 1, 2018
+
+#### Work
+
+##### Media Release Form
+
+- Converted form to form element, and then back because it will work better as not a form element
+- Fixed validating for fields that aren't required
+- Moved all form state and actions to App component and created context to make state available across application
+
+##### Google Maps
+
+- Did initial research into usage statistics and if free credit will be enough, or should switch to alternative
+
+#### Personal
+
+##### Wes Bos Advanced React
+
+- Thru video #25
+
+---
+
+### October 31, 2018
+
+#### Work
+
+##### Media Release Form
+
+- Formatted proper svg logos for CalCon, Othl, Tabor
+- Built out form including validators
+- Implemented ability to export form and signature to PDF (not sure if this will be useful, but it's cool!)
+- Added prefill of current date to form, with disabled so it can't be changed
+
+##### Marketo
+
+- Implemented Velocity script token for checking if MLO has Calendar Link field
+
+#### Personal
+
+##### Wes Bos Advanced React
+
+- Thru video #23
+
+---
+
 ### October 30, 2018
 
 #### Work
