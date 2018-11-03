@@ -4,6 +4,25 @@
 
 ---
 
+### November 2, 2018
+
+#### Work
+
+##### Media Release Form
+
+- Moved state select options in formData file and reformatted export format
+- Changed Form component to functional component
+- Switched canvas interactions to ref and set up state and handler to store canvas image as data url in state and save on clear/continue
+- Created Testimonials component with textarea for statement and image uploader for image
+- Image uploader saves uploaded image to state as data url and displays preview
+- Genericized nav components and added to three main screens of process
+
+##### NodeJS Server
+
+- Finally able to login and play with server, is running CentOS release 6.10 (final)
+
+---
+
 ### November 1, 2018
 
 #### Work
