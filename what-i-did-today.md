@@ -21,6 +21,12 @@
 
 - Finally able to login and play with server, is running CentOS release 6.10 (final)
 
+#### Personal
+
+##### Wes Bos Advanced React
+
+- Thru video #26
+
 ---
 
 ### November 1, 2018
