@@ -4,6 +4,16 @@
 
 ---
 
+### November 3 & 4, 2018
+
+#### Personal
+
+##### Catgame
+
+- Started creating tileset, drew a few dirt tiles, some decorative tiles, stone tile
+
+---
+
 ### November 2, 2018
 
 #### Work
