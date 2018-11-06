@@ -4,6 +4,23 @@
 
 ---
 
+### November 5, 2018
+
+#### Work
+
+##### Media Release Form
+
+- Added Summary component with Release Information and Testimonial sections
+- Added length validation to testimonial statement (10 words minimum)
+- Started writing backend PHP script to convert entered data into PDF w/ FPDF and send email
+- Learning how FPDF works and how to re-create the print Media Release form digitally
+
+##### Branch Pages
+
+- Played around with Suspense and lazy loading components, doesn't seem that useful for this atm
+
+---
+
 ### November 3 & 4, 2018
 
 #### Personal
