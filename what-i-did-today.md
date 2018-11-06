@@ -19,6 +19,11 @@
 
 - Played around with Suspense and lazy loading components, doesn't seem that useful for this atm
 
+#### Personal
+
+##### Catgame
+- Started building angled tiles for grass tileset
+
 ---
 
 ### November 3 & 4, 2018
