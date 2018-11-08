@@ -4,6 +4,20 @@
 
 ---
 
+### November 6, 2018
+
+#### Work
+
+##### Media Release Form
+
+- Finished building out generated PDF release document with all sections included
+- Set up pulling in of real data from front-end to populate PDF fields
+- Functions for controlling consumer image size so it doesn't exceed boundaries of PDF page
+- Set up PHPMailer for attaching PDF to an email and sending to admins (user still todo)
+- PDF saves on server in /user-pdf/ directory
+
+---
+
 ### November 5, 2018
 
 #### Work
@@ -22,6 +36,7 @@
 #### Personal
 
 ##### Catgame
+
 - Started building angled tiles for grass tileset
 
 ---
