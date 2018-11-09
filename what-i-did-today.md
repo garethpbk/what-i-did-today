@@ -19,6 +19,12 @@
 ##### Misc
 - Fed up with inability to test on Apache server so set up my own Apache server to mimic production environment
 
+#### Personal
+
+##### Catgame
+- Created two more angled grass tiles
+- Started on weird jungle plant thing
+
 ---
 
 ### November 7, 2018
