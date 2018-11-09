@@ -4,6 +4,23 @@
 
 ---
 
+### November 8, 2018
+
+#### Work
+
+##### Branch Pages
+
+- Created all individual state svgs and fixed in-project svgs to remove unnecessary content
+- Fixed redirect of base url via index.html by redirecting index.html to base url
+- Imported all state svgs into State component and set up to handle any branch state
+- Removed Boise branch from placeholder list as it no longer exists
+- Spent a lot of time trying to debug why OneTrust server does not redirect thru index.html properly
+
+##### Misc
+- Fed up with inability to test on Apache server so set up my own Apache server to mimic production environment
+
+---
+
 ### November 7, 2018
 
 #### Personal
