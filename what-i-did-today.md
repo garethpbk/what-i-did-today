@@ -4,6 +4,24 @@
 
 ---
 
+### November 9, 2018
+
+#### Work
+
+##### Branch Pages
+
+- Uploaded last stable build to ensure live pages are at least available (redirects still broke)
+- Continued trying to figure out what the problem is, determined it is definitely with OTHL server
+
+##### Business Card Generator
+
+- Set up project (very similar to Media Release, can reuse lots of components)
+- Figured out how manual querying works in Apollo with client.query
+- Created glyph logo svg to use as component
+- Started writing components for card
+
+---
+
 ### November 8, 2018
 
 #### Work
@@ -17,11 +35,13 @@
 - Spent a lot of time trying to debug why OneTrust server does not redirect thru index.html properly
 
 ##### Misc
+
 - Fed up with inability to test on Apache server so set up my own Apache server to mimic production environment
 
 #### Personal
 
 ##### Catgame
+
 - Created two more angled grass tiles
 - Started on weird jungle plant thing
 
