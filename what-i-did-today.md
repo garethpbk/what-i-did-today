@@ -4,6 +4,19 @@
 
 ---
 
+### November 10 & 11, 2018
+
+#### Personal
+
+##### Catgame
+
+- Continued building out tiles, started creating parallax tree backgrounds
+
+##### ES6 & Beyond
+- Created project repo, started outlining and researching
+
+---
+
 ### November 9, 2018
 
 #### Work
