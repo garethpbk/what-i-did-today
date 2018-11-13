@@ -4,6 +4,35 @@
 
 ---
 
+### November 12, 2018
+
+#### Work
+
+##### Media Release
+
+- Implemented ability for PHP script to handle submissions with no image included
+- Added success screen redirect for successful submissions
+
+##### Business Card Generator
+
+- Built out layout structure of card with all elements dynamically populated from GraphQL query
+- Extracted icons from Photoshop template and implemented as images into card preview
+- Started adding checkboxes to toggle optional elements of card on/off
+
+##### OneTrust GraphQL Yoga
+
+- Set up server to ping Now deployment every 5 minutes to keep active, will see if it works tomorrow
+- Deployed to stable aliased url at https://onetrust-graphql-yoga.now.sh/
+
+#### Personal
+
+##### apollo-link-rest Article
+
+- Created project and set up with link to JSONPlaceholder API
+- Set up first query to get all users and mutation to create a new user
+
+---
+
 ### November 10 & 11, 2018
 
 #### Personal
@@ -13,6 +42,7 @@
 - Continued building out tiles, started creating parallax tree backgrounds
 
 ##### ES6 & Beyond
+
 - Created project repo, started outlining and researching
 
 ---
