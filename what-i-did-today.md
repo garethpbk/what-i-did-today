@@ -29,6 +29,12 @@
 
 - Did two BAI trainings due 11/15 about marketing and social media
 
+#### Personal
+
+##### apollo-link-rest Article
+- Fixed mutation to not duplicate IDs and change data in cache
+- Added some styling to make things look a little nicer
+
 ---
 
 ### November 12, 2018
