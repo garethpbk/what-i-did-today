@@ -4,6 +4,33 @@
 
 ---
 
+### November 13, 2018
+
+#### Work
+
+##### Branch Pages
+
+- Switched live server to use Now deployment instead of DigitalOcean deployment
+- Entered IT ticket for issues with redirecting to https:// and intercepting index.html
+
+##### Business Card Generator
+
+- Designing better UI and layout
+- Added toggle switches for all optional elements and placeholder for headshot
+- Added branch query and select
+- Reworked data fetching to include both employee and branch data
+- Added error handling for account input and branch select
+
+##### LoanForce Insider
+
+- Call about next step of project to implement prequalified/preapproved letter functionality
+
+##### Misc
+
+- Did two BAI trainings due 11/15 about marketing and social media
+
+---
+
 ### November 12, 2018
 
 #### Work
