@@ -4,6 +4,30 @@
 
 ---
 
+### November 14, 2018
+
+#### Work
+
+##### OneTrustMarketing
+- Added announcement from 11/8/18 and uploaded newest build
+
+##### Business Card Generator
+- Created CardBack component with layout and data populated from branch api, San Diego as placeholder
+- Fixed NMLS number extraction from telephoneNumber field to account for differing NMLS number lengths
+- Created repository on Bitbucket and added as remote origin
+- Styling more consistent, taking cues from material design/card-based layout
+- Had first meeting w/ team to set up project and discuss deliverables, roles, etc.
+
+#### Personal
+
+##### apollo-link-rest Article
+- Broke out mutation/form component into separate component
+- Moved queries to separate .graphql files and switched graphql-tag for graphql.macro loader
+- Added single user component and @reach/router for routing
+- Submitted issue to apollo-link-rest github re: "forward is not a function" error
+
+---
+
 ### November 13, 2018
 
 #### Work
