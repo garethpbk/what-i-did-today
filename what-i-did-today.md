@@ -4,14 +4,56 @@
 
 ---
 
+### November 16, 2018
+
+#### Work
+
+##### New Hire Orientation
+- Added new class and email to PHP script to send just post close info to specific emails
+
+##### Insider Letters
+- Edited BRD to get ready to send to all involved parties
+
+##### OneTrustHomeLoans.com
+- Updated client portal link in footer
+
+#### Personal
+
+##### apollo-link-rest Article
+- Continued writing article, currently on fragments sections
+
+##### Catgame
+- Researching and creating how dirt and stone tiles can be edged into black
+
+---
+
+### November 15, 2018
+
+#### Work
+
+##### Business Card Generator
+- Added edit mode for editable fields
+- Moved field data for card front to separate file
+
+#### Personal
+
+##### apollo-link-rest Article
+
+- Switched single user query to use client.readFragment as <Query> component was not working properly
+- Started writing article/tutorial, got as far as setting up Apollo Client in a React application
+
+---
+
 ### November 14, 2018
 
 #### Work
 
 ##### OneTrustMarketing
+
 - Added announcement from 11/8/18 and uploaded newest build
 
 ##### Business Card Generator
+
 - Created CardBack component with layout and data populated from branch api, San Diego as placeholder
 - Fixed NMLS number extraction from telephoneNumber field to account for differing NMLS number lengths
 - Created repository on Bitbucket and added as remote origin
@@ -21,6 +63,7 @@
 #### Personal
 
 ##### apollo-link-rest Article
+
 - Broke out mutation/form component into separate component
 - Moved queries to separate .graphql files and switched graphql-tag for graphql.macro loader
 - Added single user component and @reach/router for routing
@@ -56,6 +99,7 @@
 #### Personal
 
 ##### apollo-link-rest Article
+
 - Fixed mutation to not duplicate IDs and change data in cache
 - Added some styling to make things look a little nicer
 
