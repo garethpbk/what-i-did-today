@@ -4,6 +4,18 @@
 
 ---
 
+### November 19, 2018
+
+#### Personal
+
+##### apollo-link-rest Article
+- Finished writing article, messaged Open GraphQL about possible publishing
+
+##### Misc
+- Started playing around with Svelte and Sapper to try out the framework
+
+---
+
 ### November 16, 2018
 
 #### Work
