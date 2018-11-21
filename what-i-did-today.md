@@ -4,6 +4,20 @@
 
 ---
 
+### November 20, 2018
+
+#### Work
+
+##### Business Card Generator
+- Created task list and sent to project manager
+
+#### Personal
+
+##### apollo-link-rest Article
+- Formatted article for Medium and sent for publishing; published by Open GraphQL
+
+---
+
 ### November 19, 2018
 
 #### Personal
