@@ -4,17 +4,39 @@
 
 ---
 
+### November 21, 2018
+
+#### Work
+
+##### LoanForce Insider
+
+- Set up new React project, added Header and Drawer components, theme and GlobalStyle
+
+#### Personal
+
+##### ES6 & Beyond Talk
+
+- Started creating slides for presentation, thru slide 10
+
+---
+
 ### November 20, 2018
 
 #### Work
 
 ##### Business Card Generator
+
 - Created task list and sent to project manager
 
 #### Personal
 
 ##### apollo-link-rest Article
+
 - Formatted article for Medium and sent for publishing; published by Open GraphQL
+
+##### ES6 & Beyond Talk
+
+- Finished outline of talk with all topics to cover
 
 ---
 
@@ -23,9 +45,11 @@
 #### Personal
 
 ##### apollo-link-rest Article
+
 - Finished writing article, messaged Open GraphQL about possible publishing
 
 ##### Misc
+
 - Started playing around with Svelte and Sapper to try out the framework
 
 ---
@@ -35,20 +59,25 @@
 #### Work
 
 ##### New Hire Orientation
+
 - Added new class and email to PHP script to send just post close info to specific emails
 
 ##### Insider Letters
+
 - Edited BRD to get ready to send to all involved parties
 
 ##### OneTrustHomeLoans.com
+
 - Updated client portal link in footer
 
 #### Personal
 
 ##### apollo-link-rest Article
+
 - Continued writing article, currently on fragments sections
 
 ##### Catgame
+
 - Researching and creating how dirt and stone tiles can be edged into black
 
 ---
@@ -58,6 +87,7 @@
 #### Work
 
 ##### Business Card Generator
+
 - Added edit mode for editable fields
 - Moved field data for card front to separate file
 
