@@ -4,6 +4,21 @@
 
 ---
 
+### November 22, 23, 24, & 25 2018
+
+#### Personal
+
+#### Catgame
+- Created new palm tree sprite
+- Added more dirt tile variations
+- Planned out stages of jungle level: beach, mid-jungle, high-jungle
+- Converted more of current level design in Tiled to new custom tiles
+
+#### ES6 & Beyond Talk
+- Thru slide 19
+
+---
+
 ### November 21, 2018
 
 #### Work
