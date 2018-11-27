@@ -4,6 +4,29 @@
 
 ---
 
+### November 26, 2018
+
+#### Work
+
+##### LoanForce Insider
+- Delved into API document and figured out how to use endpoints
+- Integrated endpoints in dev environment of new React application
+- Fetch calls to login test user, get profile data, get loans data
+- Fixed layout to take up full vertical height
+- New components: Dashboard, Footer, Profile
+- Created new SVG icon for profile to replace old PNG icon
+
+##### Misc
+
+- Updated footer for compliance on: modular, main website, paid social landing pages, mlo pages, branch pages, joinonetrust, dr attorney marketo lp
+
+#### Personal
+
+##### ES6 & Beyond Talk
+- Thru slide 22
+
+---
+
 ### November 22, 23, 24, & 25 2018
 
 #### Personal
