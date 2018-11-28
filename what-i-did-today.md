@@ -24,7 +24,7 @@
 
 ##### ES6 & Beyond Talk
 
-- Thru slide 27
+- Finished talk, changed priority/order of some slides
 
 ---
 
