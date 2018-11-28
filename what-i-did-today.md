@@ -4,11 +4,36 @@
 
 ---
 
+### November 27, 2018
+
+#### Work
+
+#### Personal
+
+##### LoanForce Insider
+
+- Deciphered how filtering of loans into 5 different categories works
+- Refactored function to categorize loans from one giant function into several smaller functions
+- Dashboard card for active loans
+- Requested access or mock data or something so I can actually know wtf the data look like
+
+##### Marketo
+
+- Fixed Calendly link token to not display with default/no sender (switch from blank string check to contains 'https://')
+- Updated landing pages with compliance link
+
+##### ES6 & Beyond Talk
+
+- Thru slide 27
+
+---
+
 ### November 26, 2018
 
 #### Work
 
 ##### LoanForce Insider
+
 - Delved into API document and figured out how to use endpoints
 - Integrated endpoints in dev environment of new React application
 - Fetch calls to login test user, get profile data, get loans data
@@ -23,6 +48,7 @@
 #### Personal
 
 ##### ES6 & Beyond Talk
+
 - Thru slide 22
 
 ---
@@ -32,12 +58,14 @@
 #### Personal
 
 #### Catgame
+
 - Created new palm tree sprite
 - Added more dirt tile variations
 - Planned out stages of jungle level: beach, mid-jungle, high-jungle
 - Converted more of current level design in Tiled to new custom tiles
 
 #### ES6 & Beyond Talk
+
 - Thru slide 19
 
 ---
