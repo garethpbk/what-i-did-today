@@ -4,6 +4,25 @@
 
 ---
 
+### November 28, 2018
+
+#### Work
+
+##### Business Card Generator
+- Added context to prevent deep prop drilling
+- Reorganized Entry component in preparation for adding brand select
+- SVG glyph logo for CalCon
+- Implemented brand select to Entry component and switch for selected brand logo in card preview
+- Started working on ability to upload custom headshot image
+- Meeting to determine direction of project and integration with Marketing Orientation
+
+#### Personal
+
+##### ES6 & Beyond Talk
+- Added tweaks: favicon, title font, name, note that ES6 is 'vanilla'
+
+---
+
 ### November 27, 2018
 
 #### Work
