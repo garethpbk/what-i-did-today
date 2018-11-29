@@ -9,6 +9,7 @@
 #### Work
 
 ##### Business Card Generator
+
 - Added context to prevent deep prop drilling
 - Reorganized Entry component in preparation for adding brand select
 - SVG glyph logo for CalCon
@@ -19,7 +20,9 @@
 #### Personal
 
 ##### ES6 & Beyond Talk
+
 - Added tweaks: favicon, title font, name, note that ES6 is 'vanilla'
+- Gave talk at SDJS Fundamental JS meetup
 
 ---
 
