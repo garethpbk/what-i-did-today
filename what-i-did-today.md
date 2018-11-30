@@ -4,6 +4,30 @@
 
 ---
 
+### Novemvber 29, 2018
+
+#### Work
+
+##### Drip Campaign
+
+- Added new VA Loans campaign for all three brands
+- Tweaks to brand selection JSX and general campaign info
+
+##### Marketing Minute
+- Recorded video about VA Loans campaign, did subtitles and uploaded to Wistia
+
+##### MLO Sites
+- Added to user service to get partner data from LoanForce
+- Partner data into partner component and set up layout for up to 5 partner images
+- Created test partner images for TKaraba and uploaded to LoanForce
+- Added conditional check to partner section to not display if no partners present
+
+##### Misc
+- Tried to find ideal headshot size/ratio, concluded square @ 300x300px is good
+- Cleaned up FTP for modular site, paid social lp, branch pages, joinonetrust
+
+---
+
 ### November 28, 2018
 
 #### Work
