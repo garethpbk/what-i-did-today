@@ -4,7 +4,25 @@
 
 ---
 
+### December 3, 2018
+
+#### Work
+
+##### OneTrustMarketing
+
+- Tried fix for Facebook script (removing fbAsyncInit() and adding props to js.src), did not work
+
+##### LoanForce Insider
+
+- Set up new project with TypeScript to test stuff, maybe will refactor w/ TS when I know it better lol
+- Created new SVG icon for MLOs
+- Prototype/wireframes for new prequal/preapproved section in XD finished
+
+---
+
 ### November 30, 2018
+
+#### Work
 
 ##### LoanForce Insider
 
