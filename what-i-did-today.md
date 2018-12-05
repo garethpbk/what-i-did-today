@@ -31,6 +31,10 @@
 
 - Started course, thru video #3
 
+##### Catgame
+
+- Started working on sand tiles, created base sand tile (I think I will keep it)
+
 ---
 
 ### December 3, 2018
