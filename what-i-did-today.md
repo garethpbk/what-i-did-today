@@ -4,6 +4,35 @@
 
 ---
 
+### December 4, 2018
+
+#### Work
+
+##### MLO Sites
+
+- Added real partner images and info for tkaraba
+- Added conditional render of partner section link to top nav menu
+- Pushed updated site build with active partner section to live site
+- Fixed broken lowercase method in Google maps package (wtf why is this a thing)
+
+##### LoanForce Insider
+
+- Finished wireframes including redesign of home screen and active loan detail (material-inspired)
+- Started redesigning React components to fit redesigned prototype
+
+##### Misc
+
+- Added new compliance language for Virginia to main site, paid social lps
+- Confirmed Marketo --> SalesForce lead creation from landing pages working properly
+
+#### Personal
+
+##### Level Up Tutorials TypeScript
+
+- Started course, thru video #3
+
+---
+
 ### December 3, 2018
 
 #### Work
