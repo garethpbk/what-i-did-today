@@ -4,6 +4,28 @@
 
 ---
 
+### December 5, 2018
+
+#### Work
+
+##### Business Card Generator
+
+- Wrote up front-end requirements (including back-end requirements)
+- Created wireframe/prototype design in line with Marketing Orientation design UI/UX
+
+##### OneTrust GraphQL Yoga
+
+- Added dotenv for config
+- Converted mlo and branchList queries to axios and async/await
+
+#### Personal
+
+##### Level Up Tutorials TypeScript
+
+- Thru video #7
+
+---
+
 ### December 4, 2018
 
 #### Work
