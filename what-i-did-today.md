@@ -4,6 +4,29 @@
 
 ---
 
+### December 6, 2018
+
+#### Work
+
+##### LoanForce Insider
+
+- Added login function to individual loan page to prevent going thru home page
+- Built out LoanHeader component following new design
+- LoanStatus component built including function to handle processing loan milestone list
+- KeyDates component with processing of key dates list and rendering of list view
+
+#### Personal
+
+##### Level Up Tutorials TypeScript
+
+- Thru video #9
+
+##### Catgame
+
+- Angled sand tiles
+
+---
+
 ### December 5, 2018
 
 #### Work
