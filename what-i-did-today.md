@@ -4,6 +4,35 @@
 
 ---
 
+### December 7, 2018
+
+#### Work
+
+##### Business Card Generator
+
+- Modified prototype layout in XD to conform with revised requirements
+- Started redesigning React application
+- Changed header & footer to match Marketing Orientation
+- Layout to 4-quadrant grid
+- New Setup component with reciept email and brand select fields
+
+##### OneTrust GraphQL Yoga
+
+- Refactored branchList, branch, and reviewsList query resolvers to async/await and axios
+- Moved rest of variables into query resolver into .env
+
+##### CITA Handbook
+
+- Read through full handbook, took some notes
+
+#### Personal
+
+##### Level Up Tutorials TypeScript
+
+- Thru video #12
+
+---
+
 ### December 6, 2018
 
 #### Work
