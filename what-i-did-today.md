@@ -25,6 +25,10 @@
 
 - Finished course
 
+##### Misc
+
+- Did CSS Grid Garden
+
 ---
 
 ### December 7, 2018
