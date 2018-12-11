@@ -4,6 +4,29 @@
 
 ---
 
+### December 10, 2018
+
+#### Work
+
+##### OneTrust GraphQL Yoga
+
+- Refactored remaining queries (including branch subfields) to async/await and axios
+- Removed unneeded packages (node-fetch, query-string)
+- Moved all sensitive info (API urls, keys, secrets) to env vars
+- Deployed and aliased updated server to Now
+
+##### Business Card Generator
+
+- Created front end requirements checklist outlining all needed capabilities/user & admin process
+
+#### Personal
+
+##### Level Up Tutorials TypeScript
+
+- Finished course
+
+---
+
 ### December 7, 2018
 
 #### Work
