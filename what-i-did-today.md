@@ -4,6 +4,28 @@
 
 ---
 
+### Decmber 11, 2018
+
+#### Work
+
+##### Azure Crane Capital
+
+- Set up project for website with Gatsby
+- Exploring landing page ideas and designs with research and prototyping
+
+##### Business Card Generator
+
+- Finished wireframe/prototype to accommodate updated requirements
+- Meeting to discuss user flow and overall process
+
+#### Personal
+
+##### Portfolio
+
+- Sketched up new ideas, started building SVGs in Illustrator
+
+---
+
 ### December 10, 2018
 
 #### Work
