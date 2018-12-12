@@ -24,6 +24,10 @@
 
 - Sketched up new ideas, started building SVGs in Illustrator
 
+##### Catgame
+
+- Started fish skeleton sprite
+
 ---
 
 ### December 10, 2018
