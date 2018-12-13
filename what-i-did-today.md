@@ -4,6 +4,27 @@
 
 ---
 
+### December 12, 2018
+
+#### Work
+
+##### Business Card Generator
+
+- Updated wireframe/prototype to incorporate tweaks to process
+- Moved components around to fit new design
+- Added licensing state value and radio buttons to Setup to control
+- Converted name, title, & nmls# to editable fields
+- Created white SVG logos for CalCon & Tabor
+- Set up back of cards with brand select to display selected logo
+
+#### Personal
+
+##### Wes Bos CSS Grid
+
+- Started course, thru video #5
+
+---
+
 ### Decmber 11, 2018
 
 #### Work
