@@ -23,6 +23,11 @@
 
 - Started course, thru video #5
 
+##### Catgame
+
+- Finished fish skeleton
+- Fixed curved sand title
+
 ---
 
 ### Decmber 11, 2018
