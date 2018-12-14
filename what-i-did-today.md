@@ -4,6 +4,32 @@
 
 ---
 
+### December 13, 2018
+
+#### Work
+
+##### Business Card Generator
+
+- Adjusted headshot size to be proper dimensions and created rectangular placeholder
+- Implemented image upload functionality
+- Finished moving all components to use context
+- Field editing capability for branch fields on card back
+
+##### Debian Server
+
+- Looked into signature API server to see how it works
+- Got pretty confused because how does it read from SalesForce?
+- Need to ask Mark Range because no one else will be able to help!
+
+#### Personal
+
+##### FLAVA
+
+- Set up Spring 2019 conference registration form
+- Updated Gravity Forms plugin with Spring 2019 registration form functions
+
+---
+
 ### December 12, 2018
 
 #### Work
