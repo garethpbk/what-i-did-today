@@ -25,8 +25,9 @@
 
 ##### FLAVA
 
-- Set up Spring 2019 conference registration form
-- Updated Gravity Forms plugin with Spring 2019 registration form functions
+- Set up Spring 2019 conference registration forms: participant and payment
+- Updated Gravity Forms custom functions plugin with Spring 2019 registration form functions
+- Tested different registration paths and payment path
 
 ---
 
