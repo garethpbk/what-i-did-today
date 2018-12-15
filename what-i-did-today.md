@@ -4,6 +4,26 @@
 
 ---
 
+### December 14, 2018
+
+#### Work
+
+##### Business Card Generator
+
+- Reorganized project structure to better component/folder basis
+- Moved data from js files to markdown and replaced html parser with react-markdown + raw macro
+- Separated creation screen into comprehensive component
+- Added router to App.js
+- Created components for Approval components
+
+#### Personal
+
+##### Grinning Moon Zine Library
+
+- Triggered new site build with updated content
+
+---
+
 ### December 13, 2018
 
 #### Work
