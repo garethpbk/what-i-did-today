@@ -4,6 +4,17 @@
 
 ---
 
+### December 15 & 16, 2018
+
+#### Personal
+
+##### Catgame
+
+- Tweaking sand tiles for smoother appearance
+- Figuring out how to do layers for beach background
+
+---
+
 ### December 14, 2018
 
 #### Work
