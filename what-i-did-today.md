@@ -4,6 +4,35 @@
 
 ---
 
+### December 17, 2018
+
+#### Work
+
+##### Azure Crane Capital
+
+- Investigated CMS options and wrote up writeup with initial findings and recommendations
+
+##### Business Card Generator
+
+- Added address fields to App state and Address component
+- Fixed state select dropdown appearance w/ green triangle thing
+- Dynamic direction slides (right or left) for route transition animations
+- Card approval added to App state and checkbox fields below card previews
+- Changed link button hover color from green to blue
+
+##### Misc
+
+- Installed Laragon to use instead of Xampp for PHP & Apache going forward
+
+#### Personal
+
+##### Laracasts
+
+- Laravel from Scratch series, thru #5
+
+
+---
+
 ### December 15 & 16, 2018
 
 #### Personal
