@@ -4,6 +4,30 @@
 
 ---
 
+### December 18, 2018
+
+#### Work
+
+##### OneTrust GraphQL Yoga
+
+- Filed IT ticket with lots of detail about how VPS account does not have sudo capability
+
+##### Drip Campaigns
+
+- Updated TBD campaign pauses with new language
+
+#### Personal
+
+##### Laracasts
+
+- Laravel from Scratch series, thru #8
+
+##### Catgame
+
+- Started crab sprite, base frame more or less done
+
+---
+
 ### December 17, 2018
 
 #### Work
