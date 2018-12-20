@@ -4,6 +4,37 @@
 
 ---
 
+### December 19, 2018
+
+#### Work
+
+##### Marketo
+
+- Fixed holiday email template display issues in Outlook and Gmail
+
+##### Business Card Generator
+
+- Set up Success component with conditional display based on employee type
+- Added validators and errors to App state
+- Moved unused code to archive file
+- Added Location component wrapper to App in index to make URL params accessible
+- Reads NHOData from localStorage if there is any
+- Reworked how validators work, using return values instead of setState
+- Added debounce to change handlers (lodash)
+- Created pencil/edit svg icon, added icons to editable fields
+
+#### Personal
+
+##### Laracasts
+
+- Laravel from Scratch series, thru #9
+
+##### styled-components Article
+
+- Started writing article and set up project
+
+---
+
 ### December 18, 2018
 
 #### Work
