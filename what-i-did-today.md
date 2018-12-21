@@ -4,6 +4,40 @@
 
 ---
 
+### December 20, 2018
+
+#### Work
+
+##### Business Card Generator
+
+- Validation for route change when going from Creation --> Approval
+- Changed Creation --> Approval route change to programmatic
+- Various tweaks to styling and spacing
+- Validation for shipping address entry
+- Tweaks to directions and text content
+
+##### LoanForce Insider
+
+- Updated tasks & timelines with detailed tasks and estimated hours
+- Meeting to lay out first set of tasks (wireframes, req doc, checklists)
+
+##### Misc
+
+- Research into sig generator API missing account issue, emailed summary of findings
+- Sent sig generator info and server code to Marco
+
+#### Personal
+
+##### styled-components Article
+
+- Finished writing article, repo for project, published to Medium
+
+##### Laracasts
+
+- Laravel from Scratch series, thru #10
+
+---
+
 ### December 19, 2018
 
 #### Work
