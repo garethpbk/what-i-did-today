@@ -4,6 +4,33 @@
 
 ---
 
+### December 21, 2018
+
+#### Work
+
+##### Business Card Generator
+
+- Created front end requirements checklist outlining all needed capabilities/user & admin process
+- Email address domain validation for brand select change
+- Meeting to review progress of application and path forward, a few suggested tweaks
+
+##### Branch Pages
+
+- Mockup of how new CTA buttons would look stacked on mobile
+
+##### Media Release
+
+- Removed extra Grid components from individual components, replaced with one in App
+- Debugging signature base64 data url not saving correctly
+
+#### Personal
+
+##### Laracasts
+
+- Laraval from Scrach series, thru # 11
+
+---
+
 ### December 20, 2018
 
 #### Work
