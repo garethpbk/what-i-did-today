@@ -4,6 +4,36 @@
 
 ---
 
+### December 26, 2018
+
+#### Work
+
+##### Media Release Form
+
+- Fixed rescaling issue of signature by using built-in fromDataURL method
+- Switched validators to use return values instead of directly setting state
+- Added lodash and debounce to input change handler
+- Mailer uses string interpolation, sends to requestor, includes requestor name
+- Loading state w/ spinner when email in process of sending
+- Config for local and live mailserver to switch between
+- Attempted fixing memory limit issues, not luck (probably needs IT ticket)
+
+##### Business Card Generator
+
+- Moved buttons from Directions & Setup component to Card components
+
+##### Misc
+
+- Set up Laragon mail server so can send mail locally (hooray!)
+
+#### Personal
+
+##### Laracasts
+
+- Laravel from Scratch series, thru #14
+
+---
+
 ### December 21, 2018
 
 #### Work
@@ -27,7 +57,7 @@
 
 ##### Laracasts
 
-- Laraval from Scrach series, thru # 11
+- Laraval from Scrach series, thru # 12
 
 ---
 
