@@ -4,6 +4,31 @@
 
 ---
 
+### December 31, 2018
+
+#### Work
+
+##### Accessibility
+
+- Looked at options for analysis; decided on axe and Siteimprove checker
+
+##### Media Release Form
+
+- Enlarged signature pad
+- Tweaks to make fully mobile responsive (tablet needs checking/QA)
+
+##### OneTrust GraphQL Yoga
+
+- Deployed server to Centos VPS successfully (don't forget .env)
+
+#### Personal
+
+##### Laracasts
+
+- Laravel from Scratch series, thru #15
+
+---
+
 ### December 26, 2018
 
 #### Work
