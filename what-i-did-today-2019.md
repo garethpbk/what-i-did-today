@@ -37,6 +37,10 @@
 
 - Laravel from Scratch series, thru #16
 
+##### Udemy Pixel Art Tutorial
+
+- Finished section on colors and materials
+
 ##### Misc
 
 - Randomly found a cool color #1d127d
