@@ -4,6 +4,45 @@
 
 ---
 
+### January 3, 2019
+
+#### Work
+
+##### OneTrust GraphQL Yoga
+
+- Tried to debug slow performance on VPS; concluded VPS is just slow (probably unusuable unless fixed)
+
+##### Business Card Generator
+
+- Field validations for card fields (content not validated, just not same as default and not blank)
+- Full validation for card fields and setup fields before navigation to approval screen allowed
+
+##### Drip Campaigns
+
+- Updated birthday campaign emails for all three brands
+
+##### Branch Pages
+
+- Investigating redirect issues; determined problem comes from onetrusthomeloans.com root htaccess rules
+- Solved htaccess issues, site now respects client-side routing and forces https (check again tomorrow to make sure)
+- Added footer with compliance info to home route
+
+#### Personal
+
+##### FLAVA
+
+- Edits to Spring 2019 conference registration and registration payment forms
+
+##### Laracasts
+
+- Laravel from Scratch series, thru #16
+
+##### Misc
+
+- Randomly found a cool color #1d127d
+
+---
+
 ### January 2, 2019
 
 #### Work
@@ -24,7 +63,7 @@
 
 ##### Compliance Updates
 
-- Updated footer with new compliance language: joinonetrust.com (also fixed .htaccess to force https), onetrusthomeloans.com, onetrusthomeloans.com/theloanprocess, onetrustmarketing.com
+- Updated footer with new compliance language: joinonetrust.com (also fixed .htaccess to force https), onetrusthomeloans.com, onetrusthomeloans.com/theloanprocess, onetrustmarketing.com, tabormortgage.com
 
 ##### Misc
 
