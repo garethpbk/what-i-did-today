@@ -4,6 +4,34 @@
 
 ---
 
+### January 4, 2019
+
+#### Work
+
+##### Branch Pages
+
+- Designed CTA buttons for request consultation and contact us
+- Added localCallNumber field to branch graphql query to render in button
+- Fix for MS Edge display of branch tiles (flexbox space-evenly doesn't work in Edge)
+- Confirmed that redirect issues have been fixed
+
+##### Business Card Generator
+
+- Moved around stuff on preview screen
+- Validation for shipping address fields on attempted submission
+
+##### Misc
+
+- Server/SSL call to figure out responsibilities and such
+
+#### Personal
+
+##### Laracasts
+
+- Laravel from Scratch series, thru #20
+
+---
+
 ### January 3, 2019
 
 #### Work
