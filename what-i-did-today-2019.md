@@ -4,6 +4,20 @@
 
 ---
 
+### January 5 & 6, 2019
+
+#### Personal
+
+##### Grace Portfolio
+
+- Fixed about text section rendering as raw markdown
+
+##### Udemy Pixel Art Tutorial
+
+- Finished section on tiles and scene mockup
+
+---
+
 ### January 4, 2019
 
 #### Work
