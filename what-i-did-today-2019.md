@@ -4,6 +4,36 @@
 
 ---
 
+### January 7, 2019
+
+#### Work
+
+##### Business Card Generator
+
+- Validation for card approval checkboxes
+
+##### Media Release Form
+
+- Function for setting direction of transition slide on mouse over of navigator buttons
+- Added basepath to config and to all navigators
+- Tested and deployed to live onetrusthomeloans.com server
+- Scaling space alotted for signature in PDF based on height of signature image
+- Started writing real readme.md
+
+##### OneTrust GraphQL Lighthouse
+
+- Figured out how to work with Lighthouse GraphQL server for Laravel
+- Imported schema (same as graphql-yoga server) and set up resolver for Mlo type query
+- Attempted to deploy to onetrusthomeloans.com server, did not work (requires more research)
+
+#### Personal
+
+##### Laracasts
+
+- Laravel from Scratch series, thru #21
+
+---
+
 ### January 5 & 6, 2019
 
 #### Personal
