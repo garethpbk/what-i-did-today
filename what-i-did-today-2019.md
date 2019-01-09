@@ -4,6 +4,30 @@
 
 ---
 
+### January 8, 2019
+
+#### Work
+
+##### OneTrust GraphQL Lighthouse
+
+- Determined that live deployment is not working because PHP version too old (7.0.33; needs > 7.1)
+
+##### Business Card Generator
+
+- Tried to use pure CSS to create Tabor divider line with clip-path and linear-gradient; didn't work very well
+- Created SVG line extension and setting up refs and props to show line and push main SVG left
+- State and props and functions to correctly display Tabor line position in creation and approval screens
+- Use html2canvas library to save card preview elements as canvas and then base64 images
+- Started writing PHP to generate business card proof PDF (it works! pretty well!)
+
+#### Personal
+
+##### FLAVA
+
+- Updated Spring 2019 conference forms plus new W9 form
+
+---
+
 ### January 7, 2019
 
 #### Work
