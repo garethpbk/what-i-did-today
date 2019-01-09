@@ -26,6 +26,10 @@
 
 - Updated Spring 2019 conference forms plus new W9 form
 
+##### Catgame
+
+- Started beach scene mockup and experimented with gradient transition into background dark color
+
 ---
 
 ### January 7, 2019
