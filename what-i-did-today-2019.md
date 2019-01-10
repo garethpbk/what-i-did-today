@@ -4,6 +4,27 @@
 
 ---
 
+### January 9, 2019
+
+#### Work
+
+##### Business Card Generator
+
+- Tweaks for Tabor layout - nmls in top right corner, labels for contact fields
+- Error indicator for upload headshot button if headshot toggled on but not uploaded
+- Responsive mobile styling for all screens
+- Reworked handling of submission (everything takes place in App component now), broke up into multiple functions
+- Continued PHP scripting to process PDF and send emails
+- Created images to watermark user PDFs as draft
+
+#### Personal
+
+##### Laracasts
+
+- Laraval from Scratch series, thru #22 (this is confusing stuff, need to rewatch #21 & #22)
+
+---
+
 ### January 8, 2019
 
 #### Work
