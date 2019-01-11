@@ -4,6 +4,34 @@
 
 ---
 
+### January 10, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Created front-end checklist for revamp
+
+##### Business Card Generator
+
+- Modified PDF generation to match printer-provided card template dimensions
+- Spent a lot of time fussing with bleeds for card front as PDF generator compression slightly modifies colors and sizes (next try on canvas image instead of PDF?)
+- Resized draft images to fit individual card side PDFs (probably remake them in higher-quality)
+- Organized data to send from front-end to PHP script
+- Wrote extractor functions for all bits of data that need to be extracted in PHP
+
+##### Media Release Form
+
+- Wrote QC guide and sent to team for QC check tomorrow
+
+#### Personal
+
+##### Laracasts
+
+- Laravel from Scratch series, went thru #21 again (understood much better this time)
+
+---
+
 ### January 9, 2019
 
 #### Work
