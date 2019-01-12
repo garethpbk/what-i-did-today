@@ -4,6 +4,29 @@
 
 ---
 
+### January 11, 2019
+
+#### Work
+
+##### MLO Sites
+
+- Updates to Apply Now and Get a Quote buttons/links and nav menu, pushed to test server
+- Updates reviewed, approved, and deployed to live server
+
+##### Business Card Generator
+
+- Scripting to create HTML table containing entered user values compared to LoanForce values
+- Headshot image attachment in admin email
+- Email body content from Basecamp for admin and user emails
+
+#### Personal
+
+##### Laracasts
+
+- Laravel from Scratch series, thru #22 again, understood muuuch better
+
+---
+
 ### January 10, 2019
 
 #### Work
