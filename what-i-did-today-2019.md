@@ -4,6 +4,44 @@
 
 ---
 
+### January 14, 2019
+
+#### Work
+
+##### Business Card Generator
+
+- Conditional logic for headshot attachment in admin email
+- Added shipping address to body of admin email
+- Attempted to add IE support with polyfills; does not really work tho lol
+- Integrated Marketing Orientation Questionaire data into email (for new employee)
+- Integrated post-close email information into email (for new employee)
+- Updated draft image overlays for higher resolution
+
+##### New Hire Orientation
+
+- Removed screens 6 and 7 from flow as they are now covered by business card generator
+- BusinessCards component to replace ThankYou component at end of process
+- On successful submission, does not trigger email, instead directs to BusinessCards screen
+
+##### Media Release Form
+
+- Added babel and react-app polyfills...IE will need some serious work to get working tho x_x
+
+#### Personal
+
+##### Laracasts
+
+- Laravel from Scratch series, thru #25, using mysql instead of sqlite for auth example
+
+##### Grace Portfolio
+
+- Updated site to new Gatsby installation (for working gatsby-image)
+- Implemented gatsby-image components for all images
+- Added favicon
+- Switched Netlify deployment to new version of site & repo
+
+---
+
 ### January 11, 2019
 
 #### Work
