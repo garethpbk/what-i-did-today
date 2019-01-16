@@ -4,6 +4,44 @@
 
 ---
 
+### January 15, 2019
+
+#### Work
+
+##### Business Card Generator
+
+- Added spinner to indicate submission in progress
+- Wired up actual submit button to process and send data
+- Uploaded latest (final? almost final?) version of mailer script to live server
+- Added base path and homepage
+- Wrote QC guide, including integration with Marketing Orientation Questionnaire, and sent to team for first round QC
+- Started looking into more persistant storage for marketing orientation data...perhaps read from CSV that gets saved already
+
+##### New Hire Orientation
+
+- Restored writing to CSV function on submission (no email, just writes to CSV and directs to business card generator link)
+
+##### OneTrustHomeLoans.com
+
+- Updated all plugins and themes in need of update
+- Updated Thesis theme
+- (Re?)installed UpdraftPlus backplugin, created manual backup
+- Updated WordPress to latest version (5.0.3); using classic editor plugin
+
+##### TaborMortgage.com
+
+- Updated all plugins and themes in need of update
+- Installed UpdraftPlus backplugin, created manual backup
+- Updated WordPress to latest version (5.0.3); using classic editor plugin
+
+#### Personal
+
+##### Laracasts
+
+- Laravel from Scratch series, thru #26
+
+---
+
 ### January 14, 2019
 
 #### Work
