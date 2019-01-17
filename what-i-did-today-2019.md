@@ -4,6 +4,29 @@
 
 ---
 
+### January 16, 2019
+
+#### Work
+
+##### Business Card Generator
+
+- New problem...images have to be in CMYK to be print-ready; currently RGB
+- Solved tentatively by using Cloudinary as an inbetween to convert images from RGB to CMYK
+- Added functions to PHP script to extract and insert formatted Cloudinary images
+
+##### OneTrust GraphQL Yoga
+
+- Added type and query resolver for business card images to upload to Cloudinary to convert to CMYK
+- Attempted to deploy to Now with additions, did not read .env properly, try again tomorrow
+
+#### Personal
+
+##### Laracasts
+
+- Laravel from Scratch series, thru #29
+
+---
+
 ### January 15, 2019
 
 #### Work
