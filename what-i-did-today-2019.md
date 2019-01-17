@@ -25,6 +25,10 @@
 
 - Laravel from Scratch series, thru #29
 
+##### Pixel Art
+
+- Continued working on new 16x16 grass/dirt tile set, started creating scene
+
 ---
 
 ### January 15, 2019
