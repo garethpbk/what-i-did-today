@@ -4,6 +4,23 @@
 
 ---
 
+### January 17, 2019
+
+#### Work
+
+##### Business Card Generator
+
+- Created SVG icons for card icons to replace PNG icons
+- Meeting to go over status and finalize last steps before launch is possible next week
+
+##### OneTrust GraphQL Yoga
+
+- Attempted to switch to organizational account and move project to now v2; no luck (doesn't deploy properly)
+
+#### Personal
+
+---
+
 ### January 16, 2019
 
 #### Work
