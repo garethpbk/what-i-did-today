@@ -4,6 +4,31 @@
 
 ---
 
+### January 18, 2019
+
+#### Work
+
+##### Business Card Generator
+
+- Length awareness of name entered on card front to increase padding/not break layout when name breaks to two lines
+- Fixed link to licensing spreadsheet on SharePoint
+
+##### MLO Websites
+
+- Show Ashlie Roe logo for user aroe (show nothing for any other user) in About section
+
+##### TaborMortgage.com
+
+- Looked over plugins again, listed which ones have updates and which are installed but not activated/being used
+
+#### Personal
+
+##### Laracasts
+
+- Laravel from Scratch Series, thru #31, learned about mailers and mailtrap
+
+---
+
 ### January 17, 2019
 
 #### Work
