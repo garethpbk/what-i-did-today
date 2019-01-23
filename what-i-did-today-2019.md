@@ -4,6 +4,34 @@
 
 ---
 
+### January 22, 2019
+
+#### Work
+
+##### Insider API
+
+- Got expired SSL cert issue fixed
+
+##### Business Card Generator
+
+- Replaced directions and steps markdown with final copy
+- Adjustments to layout and design for Tabor, including accommodating long names
+- Sent new CMYK proofs to printer for review
+- CMYK fixes for bleed images that are added to proof PDFs
+
+##### Media Release Form
+
+- Started reworking to have 3 different screen components all on one page
+
+#### Personal
+
+##### FLAVA
+
+- Set up Fall 2019 conference call for proposals form
+- Fixed email forwarding for new nominations person
+
+---
+
 ### January 18, 2019
 
 #### Work
