@@ -4,6 +4,22 @@
 
 ---
 
+### January 23, 2019
+
+##### Business Card Generator
+
+- Improvements to front/back bleed images
+- Investigating best way to get CMYK image to printer
+
+##### Media Release
+
+- Moved canvas ref and functionality to App parent component
+- All three sections of media release now on one page
+- All validations before continuing to summary implemented
+- New SubmitRelease and ReleaseForm components to collect three sections and continue button together
+
+---
+
 ### January 22, 2019
 
 #### Work
