@@ -4,7 +4,38 @@
 
 ---
 
+### January 24, 2019
+
+#### Work
+
+##### Business Card Generator
+
+- Removed functionality for new employee NHO data processing (moved back into NHO separate email)
+- Cleaned up code on new git branch, removing unnecessary stuff in both React and PHP code
+- Fixed SVG icons in Edge being way too big (as Edge does not respect SVG inline width and height properties)
+- Added default/404 route & component
+- Moved App.js into App folder and started moving methods into separate files (did change handler methods)
+- PHP script adds timestamp to headshot images and saves headshot images to folder on server
+
+##### Marketing Orientation
+
+- Restored emailing to PHP script, as business cards email now is done independently
+- Added spinner display after clicking submit button
+
+##### Media Release
+
+- Removed unused packages and commented out currently unused imports and functions
+- Deployed revamped, single-page version to Netlify
+
+##### TaborMortgage.com
+
+- Fixed broken image icons on Buying a Home and Refinancing pages (asked if we should keep or remove images)
+
+---
+
 ### January 23, 2019
+
+#### Work
 
 ##### Business Card Generator
 
