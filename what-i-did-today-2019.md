@@ -31,6 +31,12 @@
 
 - Fixed broken image icons on Buying a Home and Refinancing pages (asked if we should keep or remove images)
 
+#### Personal
+
+##### Phaser Game
+
+- Started creating enemy sprite, planned out enemies in notebook
+
 ---
 
 ### January 23, 2019
