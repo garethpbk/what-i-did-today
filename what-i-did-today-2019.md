@@ -4,6 +4,44 @@
 
 ---
 
+### January 25, 2019
+
+#### Work
+
+##### OneTrust GraphQL Yoga
+
+- Figured out how to deploy to Now 2.0 successfully
+- New sql branch, installed sequelize and successfully connected + ran raw queries to licensing database
+
+##### Paid Social LP
+
+- Updated .htaccess on server to redirect all traffic to HTTPS
+
+##### Business Card Generator
+
+- Moved misc methods, validation methods, & image methods to separate files (out of App index.js)
+- Set up second round QC test, send to team testers
+
+##### OneTrust Marketing
+
+- Disabled Facebook widget that kept causing problems, requested cache clear to make sure is loading properly
+
+##### Media Release
+
+- Added timestamp to filenames on mailer script and uncommented admin email addresses
+- Deployed to live site in preparation for first actual usage
+- Swapped positions of Testimonial and Signature components
+
+##### Compliance Language Generator
+
+- Did research on MySQL database and SharePoint options/capabilities, tested MySQL db with GraphQL server (it works hooray)
+
+##### Misc
+
+- Updated icons on Bitbucket repos to match tech used
+
+---
+
 ### January 24, 2019
 
 #### Work
