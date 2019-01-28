@@ -4,6 +4,17 @@
 
 ---
 
+### January 26 & 26, 2019
+
+#### Personal
+
+#### The Ruby Mouser (new Phaser game)
+
+- Set up project with Phaser/ES6/Webpack/TypeScript boilerplate
+- Implemented: tilesets, backgrounds, controllable character
+
+---
+
 ### January 25, 2019
 
 #### Work
