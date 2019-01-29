@@ -4,6 +4,45 @@
 
 ---
 
+### January 28, 2019
+
+#### Work
+
+##### Weekly WordPress Maintenance
+
+- Updated plugins for OneTrust, plugins and themes for Tabor
+- Created task in Basecamp to keep track of updates, changes, etc.
+
+##### Business Card Generator
+
+- ScrollUp wrapper component to return window to top of page on route change
+- Tweaks to styling for mobile, esp. Safari on iPhone
+
+##### LoanForce Insider
+
+- First draft of Phase 3 Letters Front End checklist written
+- First draft of Phase 3 Borrower Consent Landing Page Front End checklist written
+- Fixed password in React rewrite of application
+
+##### MLO Sites
+
+- Fixed issue with flex-direction that was messing up footer (uploaded to OneTrust and CalCon, not Tabor yet)
+
+##### Misc
+
+- Updated website, web application, servers list
+
+#### Personal
+
+##### Laracasts
+
+- Laravel from Scratch series, thru #32, lrearned about custom events and listeners
+
+##### The Ruby Mouser
+
+- Drew out map for first part of dark forest level, grasslands section
+- Started building grasslands section in Tiled, got an idea of what new tiles need to be made
+
 ### January 26 & 26, 2019
 
 #### Personal
