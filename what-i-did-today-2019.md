@@ -4,6 +4,36 @@
 
 ---
 
+### January 29, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Call with parties involved to kick off project and determine next steps
+- Started wireframing for React rebuild (mockups were already made...so turning those into wireframes...)
+
+##### Business Card Generator
+
+- New feedback branch to incorporate changes from round 2 QC
+- Removed logo from footer, added compliance language
+- Header styling for mobile from column to row layout
+- Added progress bar below spinner on submission and function to track progress of submission
+- Updated welcome page language
+- Upload headshot button moved below toggles, conditionally displays based on if headshot is toggled on
+- Removed brand from thank you page text content
+- Updated NMLS checkbox label language to be less awkward phrasing
+- Branch NMLS# field on card back shows "Branch NMLS#" in edit mode
+- Fields in edit mode do not display default value and autofocus when entering edit mode
+
+#### Personal
+
+##### Misc
+
+- Reviewd React Hooks, played with them in Codesandbox, in anticipation of Monday release
+
+---
+
 ### January 28, 2019
 
 #### Work
