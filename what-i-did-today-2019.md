@@ -4,6 +4,28 @@
 
 ---
 
+### January 30, 2019
+
+#### Work
+
+##### Loanforce Insider
+
+- Continued working on desktop wireframes for tweaks to existing design & new additions
+- Started mobile wireframes for tweaks & new additions
+
+##### Business Card Generator
+
+- Deployed most recent version with updates/tweaks from yesterday to live site (tested, is good, works)
+- Meeting to figure out last few bits and tweaks before can be launched (aim for Friday)
+
+#### Personal
+
+##### Laracasts
+
+- Laravel from Scratch series, thru #34, learned about notifications and Laravel + front end
+
+---
+
 ### January 29, 2019
 
 #### Work
