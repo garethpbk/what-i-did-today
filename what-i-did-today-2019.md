@@ -4,6 +4,32 @@
 
 ---
 
+### January 31, 2019
+
+#### Work
+
+##### Misc
+
+- Put together quick demo of onetrusthomeloans.com + Gatsby to show how headless WP works
+- Hosted demo on onetrustmarketing.com and made notes in preparation for call w/ IT
+
+##### LoanForce Insider
+
+- Continued working on mobile wireframes
+- Clarification of next steps to take and needed documentation
+
+##### Business Card Generator
+
+- Added new CalCon logo
+
+#### Personal
+
+##### Misc
+
+- Filed PR for Gatsby monorepo to update starter readmes to reflect removal of .prettierrc (approved hooray)
+
+---
+
 ### January 30, 2019
 
 #### Work
