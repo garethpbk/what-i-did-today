@@ -4,6 +4,43 @@
 
 ---
 
+### February 1, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Fixed typos in BRD on SharePoint
+- Clarified how consent form process will work
+- Started desktop wireframes for borrower consent landing page
+
+##### OneTrust GraphQL Yoga
+
+- Updated Cloudinary information from test to live OneTrust account
+- Added folders to Cloudinary functions for better organization
+- Set now secrets and moved from deploying to now with explicit .env to using secrets
+- Removed alias from now 1.0 deployment and aliased now 2.0 deployment to onetrust-graphl-yoga.now.sh
+
+##### Marketing Orientation Questionnaire (aka New Hire Orientation)
+
+- Updated videos on screens 1 and 10
+- Deployed updated version of MOQ to production server at live URL
+
+##### Business Card Generator
+
+- Added all state copy (minus image base64) to data that gets sent to PHP
+- Added developer email that includes all state for debugging purposes
+- Added Wistia script and component and videos to welcome and success pages
+- Deployed to production server in anticipation of Monday launch
+
+#### Personal
+
+##### Misc
+
+- More hooks in Codesandbox, useGraphQl hook to extract data fetching (with fetch()) to custom hook
+
+---
+
 ### January 31, 2019
 
 #### Work
