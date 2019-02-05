@@ -4,6 +4,46 @@
 
 ---
 
+### February 4, 2019
+
+#### Work
+
+##### OneTrustMarketing
+
+- Added 2/4/19 announcement
+- Slight adjustment to footer margins on mobile/tablet widths
+
+##### Weekly WordPress Maintenance
+
+- Updated plugins and themes for OneTrust and Tabor
+
+##### Modular Resource Center
+
+- Updated borrower FAQ doc (new file on server to prevent reading cached old file)
+- Updated email address for borrower draw request card
+- Attempted installing getting gatsby-image set up, did not work and broke everything (have to restart with new starter later)
+
+##### LoanForce Insider
+
+- Finished wireframe for buyer consent landing page (first draft)
+- Started comprehensive front-end requirements doc for phase iii including borrower consent landing page
+- Updated desktop wireframes for new prequalified and preapproval sections to be added
+- Shared desktop wireframes and commented a lot about fields, actions, etc.
+
+---
+
+### February 2 & 3, 2019
+
+#### Personal
+
+##### The Ruby Mouser
+
+- Fixed accidental cmyk noise issues with tileset image
+- Progress towards figuring out how to best do dynamic backgrounds
+- Grass tile edge/corner pieces
+
+---
+
 ### February 1, 2019
 
 #### Work
