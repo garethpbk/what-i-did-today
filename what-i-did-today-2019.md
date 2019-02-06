@@ -4,6 +4,19 @@
 
 ---
 
+### February 5, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Revised desktop wireframes for Phase III
+- Revised checklist for phase III
+- Finished first draft of front-end requirements for Phase III (including consent landing page)
+- Revised checklist for consent landing page
+
+---
+
 ### February 4, 2019
 
 #### Work
