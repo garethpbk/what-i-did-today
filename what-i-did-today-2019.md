@@ -4,6 +4,22 @@
 
 ---
 
+### February 6, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Further tweaking and revising Phase III and current wireframes, mobile and desktop (finalized and passed to designer)
+
+#### Personal
+
+##### GraphQL Yoga + Now Article
+
+- Set up graphql-yoga server, started schema and resolvers
+
+---
+
 ### February 5, 2019
 
 #### Work
