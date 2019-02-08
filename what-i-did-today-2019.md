@@ -4,6 +4,23 @@
 
 ---
 
+### February 7, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Finished requirements including detailed letter fields
+
+#### Personal
+
+##### GraphQL Yoga + Now Article
+
+- Finished server and first draft of article
+- Ran through from fresh project once to ensure it works (needs a few tweaks)
+
+---
+
 ### February 6, 2019
 
 #### Work
