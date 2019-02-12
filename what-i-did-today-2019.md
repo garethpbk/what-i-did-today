@@ -4,6 +4,51 @@
 
 ---
 
+### February 11, 2019
+
+#### Work
+
+##### Weekly WordPress Maintenance
+
+- Updated plugin and theme for Tabor, theme for OTHL
+
+##### Business Card Generator
+
+- Special toggle logic for chairmans and presidents club seals
+- Layout adjustments for Tabor including line and various tweaks to accomodate chairmans and presidents club
+- Special SVGs with adjusted width for when club selected (html2canvas needs this to scale logos properly)
+- Moved all submission methods to separate file from App component (all methods separated out now)
+
+---
+
+### February 8, 2019
+
+#### Work
+
+##### MOQ
+
+- Troubleshooting for continue/previous buttons not visible at some screen sizes
+- Uploaded fixed version to production server
+- QC checklist for updates and fixes, sent to team
+
+##### Business Card Generator
+
+- Exported presidents club and chairmans club image SVGs
+- Toggle sliders for presidents club and chairsmans club
+
+##### LoanForce Insider
+
+- Sent requirements, fillable PDFs, final wireframes out
+
+#### Personal
+
+- GraphQL Yoga + Now Article
+
+- Finished article, ran through for testing successfully
+- Published on dev.to
+
+---
+
 ### February 7, 2019
 
 #### Work
