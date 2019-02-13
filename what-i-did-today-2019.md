@@ -4,6 +4,32 @@
 
 ---
 
+### February 12, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Went over design mockups and walked through functionality/UX
+- Reorganized App component as folder containing components that are visible everywhere
+- Upgraded packages (deleted lockfile and ran yarn)
+- Converted Drawer component to functional and used hook for state (coooooooool)
+- Transitioning design of React version of app to match new mockups
+
+##### Consent Landing Page
+
+- Created project, removed default CRA files, set up repo on Bitbucket
+- Set up basic project directory structure
+- Added packages, set up styled-components
+
+##### Business Card Generator
+
+- Fixed wrong logo component displaying with headshot off and Club logo on
+- Set up new test deployment at "-staging"
+- Wrote QC guide for new Club logo and sent out to team
+
+---
+
 ### February 11, 2019
 
 #### Work
