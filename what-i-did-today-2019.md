@@ -4,6 +4,22 @@
 
 ---
 
+### February 13, 2019
+
+#### Work
+
+##### Consent Landing Page
+
+- Content and styling for Footer component
+- Content and stsyling for Agreement component (added raw.macro and react-markdown)
+- Component and mask for SSN digits (added react-number-format)
+- Change handler method for input (methods in separate files)
+- Added validators for all fields
+- Method for populating current date in App component (useEffect hook)
+- Signature pad component with ref, blank data url on load, clear function
+
+---
+
 ### February 12, 2019
 
 #### Work
