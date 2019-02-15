@@ -4,6 +4,20 @@
 
 ---
 
+### February 14, 2019
+
+##### Consent Landing Page
+
+- Better method of saving signature canvas (using onMouseLeave event)
+- Validation on submission for fields and signature canvas
+- Agreement and Form components together for routing (set up routing)
+- Added Success component and route
+- Added ScrollUp component (wraps Success)
+- Added 404 component and route
+- Directory in Laragon to host locally
+
+---
+
 ### February 13, 2019
 
 #### Work
