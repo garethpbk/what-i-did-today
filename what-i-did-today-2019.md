@@ -4,7 +4,24 @@
 
 ---
 
+### February 15, 2019
+
+#### Work
+
+##### Consent Landing Page
+
+- Figured out how to manually do bullet points w/ FPDF (is tedious but works)
+- Finished scripting for generating PDF and sending emails (tested locally)
+
+##### Misc
+
+- Did BAI videos due today
+
+---
+
 ### February 14, 2019
+
+#### Work
 
 ##### Consent Landing Page
 
