@@ -4,6 +4,48 @@
 
 ---
 
+### February 19, 2019
+
+#### Work
+
+##### Weekly WordPress Maintenance
+
+- Updated plugins for OneTrust, plugins and themes for Tabor
+
+##### Business Card Generator
+
+- Various tweaks to layout and field lengths and such based on QC feedback
+
+##### Consent Landing Page
+
+- Added basepath to route changes
+- Deployed working version of site to live CalCon server
+
+##### LoanForce Insider
+
+- Upgraded packages to latest version (gimme dem hoooooks)
+- Added proper favicon and site title
+- Created Login component with form, controlled inputs, and API request for logging in
+- Added routing to root index to account for Login
+- Added polished and darken color theme helper function
+- Created root context component and hooked up Login component (user values passed to context on login)
+
+##### Marketo
+
+- Sort of fixed broken HTML in email that Outlook didn't like
+
+---
+
+### February 16, 17, 18, 2019
+
+#### Personal
+
+##### Phaser Game
+
+- Dead tree sprite, gravestone sprite, new cloak character sprite
+
+---
+
 ### February 15, 2019
 
 #### Work
