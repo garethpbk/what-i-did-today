@@ -4,6 +4,28 @@
 
 ---
 
+### February 20, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- User login logic using root context provider to communicate between Login and App components
+- Rewriting App component using hooks instead of class
+- Rewriting existing Dashboard and Loan components using hooks
+
+##### Consent Landing Page
+
+- Added design colors
+- Logos component and SVG logos added
+- Polyfills for IE support lol
+
+##### Business Card Generator
+
+- Uploaded tweaked version to staging site
+
+---
+
 ### February 19, 2019
 
 #### Work
