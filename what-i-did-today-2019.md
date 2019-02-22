@@ -4,6 +4,33 @@
 
 ---
 
+### February 21, 2019
+
+#### Work
+
+##### Signature Generator
+
+- Changed owner of signature directories on VPS to admin user (can now use SFTP hooray)
+- Updated CalCon signature with new compliance language
+- Fixed extra bullet point appearing in non-sales CalCon signatures
+
+##### Media Release
+
+- Removed word Consumer's from testimonial section
+
+##### LoanForce Insider
+
+- Exported new menu icons as svg
+- Reworked Drawer component to be its own directory with subcomponents
+- Drawer menu items components basic setup
+- Moved AppContext to wrap entire App tree
+- State in Drawer component for extracting partners from raw loans
+- Logic to display partner and loans lists in Drawer component
+- Custom hook for toggling Drawer items and svg for toggle icon
+- Ref to DrawerLoans component to provide height of list for height transition
+
+---
+
 ### February 20, 2019
 
 #### Work
