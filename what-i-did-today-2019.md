@@ -4,6 +4,27 @@
 
 ---
 
+### February 22, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Added posed router with slide transition to App component
+- Simple cache for loading loans on hover, replacing App loaded loan context state
+- Loan entries in Drawer link to loan page
+- Display functions for expanding/hiding for Drawer Partners & Profile and Dashboard Loans
+- Loading state in App to slightly delay rendering
+- Dev access token as a config var
+- API call for loan details when loan page directly loaded
+- Design tweaks to loan pages
+
+##### Misc
+
+- Completed first three sections of performance review
+
+---
+
 ### February 21, 2019
 
 #### Work
