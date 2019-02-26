@@ -27,6 +27,11 @@
 
 - Tweaks to exhibitor forms and info page for launch preparation
 
+##### Zine Site
+
+- Added home page to front end
+- Field in Contentful for home page text
+
 ##### Misc
 
 - Installed Postgres and went through Express + Postgres REST api tutorial
