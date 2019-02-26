@@ -4,6 +4,43 @@
 
 ---
 
+### February 25, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Coborrower data in loan object and associated styling
+- Loan status box styling
+- Grid moved from App to sub-components
+- Component for loan dates and contacts for in process loan
+- Added all possible contacts to loan page API call (still need to add to onMouseOver dashboard call)
+
+##### Misc
+
+- Weekly WordPress updates for OneTrust & Tabor
+- Finished performance review
+
+#### Personal
+
+##### FLAVA
+
+- Tweaks to exhibitor forms and info page for launch preparation
+
+##### Misc
+
+- Installed Postgres and went through Express + Postgres REST api tutorial
+
+---
+
+### February 23 & 24, 2019
+
+##### Personal
+
+- FLAVA Exhibitor forms for 2019 fall conference (CfP, Registration, info page)
+
+---
+
 ### February 22, 2019
 
 #### Work
