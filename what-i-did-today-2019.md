@@ -4,6 +4,29 @@
 
 ---
 
+### February 26, 2019
+
+#### Work
+
+##### Media Release
+
+- Removed OTHL logo from header, added all 3 brand logos to body
+- Hosted mailer and application on CalCon server
+- Added all 3 logos to PDF template
+- .htaccess for forced HTTPS (just on this subdirectory of CalCon server)
+- Styling adjustments for logo and header sizes for more initial visibility
+
+##### Business Card Generator
+
+- Updated directions with new aspect ratio language and link
+- New placeholder image with ratio included
+
+##### LoanForce Insider
+
+- Better formatting of loan detail data to manage contacts
+
+---
+
 ### February 25, 2019
 
 #### Work
