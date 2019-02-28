@@ -4,6 +4,27 @@
 
 ---
 
+### Fdbruary 27, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Tried extracting individual loan fetching to custom hook, wasn't very useful tho
+- Function to group contacts for displaying in list
+- LoanContacts component built out & processing contacts on load
+- LoanContactCard component for each contact to be displayed
+- Address formatting for borrower & coborrower added to loan page individual loan fetching (might have to change)
+- Expandable boxes for each contact on loan detail page
+- Login data stored in session storage, redirect to login page if not found
+
+##### Azure Crane Capital
+
+- Created placeholder index.html with logo and threw up on server
+- .htaccess rules for forced https redirects
+
+---
+
 ### February 26, 2019
 
 #### Work
