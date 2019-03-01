@@ -4,7 +4,34 @@
 
 ---
 
-### Fdbruary 27, 2019
+### February 28, 2019
+
+#### Work
+
+##### Business Card Generator
+
+- Pushed updated language and headshot placeholder to live site
+- Dynamic year in footer instead of static 2018
+
+##### LoanForce Insider
+
+- Tweaks to loan contacts in header hover actions (displaying contact card) and styling
+- Functional Profile component and setting up subcomponents
+- Logic for fetching headshot base64 string from api and storing in state
+- Built layout and view for all values in Profile component
+- Netlify project for test deployments (loanforce-insider.netlify.com)
+- Change handler for profile fields
+
+#### Personal
+
+##### Stravisualizer 2.0
+
+- Set up repo and server project
+- graphql-yoga server connected to Strava API and returning activity data
+
+---
+
+### February 27, 2019
 
 #### Work
 
@@ -22,6 +49,13 @@
 
 - Created placeholder index.html with logo and threw up on server
 - .htaccess rules for forced https redirects
+
+#### Personal
+
+##### Recipe App (tentatively titled Garlick)
+
+- Set up project server files and got basic graphql-yoga server running
+- Exploring database options starting with MongoDB Atlas
 
 ---
 
