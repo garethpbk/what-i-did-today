@@ -4,6 +4,20 @@
 
 ---
 
+### March 1, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Broke out ProfileContent component for better organization
+- Edit mode and field data for first and second sets of profile fields
+- Radio options for gender field
+- Date picker/input for birthDate field
+- Function for submitting updated profile data to api
+
+---
+
 ### February 28, 2019
 
 #### Work
