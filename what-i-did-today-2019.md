@@ -4,6 +4,50 @@
 
 ---
 
+### March 4, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Reorganized ProfileContent component into its own directory
+- Built out submit component and added spinner with submitting state
+- Formatting for birth date field and input with date-fns
+- Placeholder and default values for profile field inputs
+- File uploads for headshot and company logo in profile
+- Headshot and company logo new uploaded images post to API and save to profile
+- Fix so co-borrower address doesn't get formatted when no co-borrower exists
+- Fix to how loan status milestones are displayed to hide past non-completed milestones
+- Expand/open controls for each item in drawer menu for slightly better UX
+- Call logout function in top right Logout link instead of link
+- Loan contact cards render email addresses as links
+
+##### OneTrust Marketing
+
+- 3.4.19 update added to site, attempted to deploy (tbd if it worked zzz)
+
+##### Misc
+
+- Weekly WordPress updates for Tabor (none for OneTrust)
+
+#### Personal
+
+##### Stravisualize 2.0
+
+- Set up grid, theme, added packages, directory structure
+- Building out activity feed components
+- Replaced start_date with start_date_local in resolvers
+
+---
+
+### March 2 & 3, 2019
+
+##### Stravisualize 2.0
+
+- Set up client project and hooked up graphql server to Apollo client
+
+---
+
 ### March 1, 2019
 
 #### Work
