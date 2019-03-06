@@ -4,6 +4,34 @@
 
 ---
 
+### March 5, 2019
+
+#### Work
+
+##### MLO Sites
+
+- Tweaked mortgage calculator PHP config and Angular template view to allow 3 decimal places
+
+##### LoanForce Insider
+
+- Password component added to profile section
+- Input fields and state/change handler and API call for password changes
+- Router added to profile section
+- Tweaks to routing for proper transitions/no weird animation stuff
+- Submit button as reuseable component instead of identical separate components
+- Profile header icon/title links to profile page
+
+#### Personal
+
+##### Stravisualize 2.0
+
+- Added date-fns to server to format date strings
+- Convertor function for average speed in min/mile (changed schema type to string)
+- Colors for theme, started styling components
+- Set up remote repo on github
+
+---
+
 ### March 4, 2019
 
 #### Work
