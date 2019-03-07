@@ -4,6 +4,38 @@
 
 ---
 
+### March 6, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Error and success message handling for profile password change attempts
+- Header conditionally renders login link or profile & logout links if user logged in or out
+- ForgotPassword component and route set up
+- Functionality for forgot password, with input, submission, and response handling
+- Added mock loan data from AngularJS project, not useful for much rn tho
+- Reset password change form state on successful change
+- Margins for password change form labels
+
+##### Misc
+
+- Enabled anti-spam honeypot on Tabor consultation form
+
+#### Personal
+
+##### Stravisualize 2.0
+
+- Type added to activity list query and card
+- SVG icons from Material Icons for run and cycle
+- AthleteStats type and type for all run, all ride, all swim stats
+- Resolver for getting all athlete stats of any of the 3 types
+- Client query for all total run stats and basic component for rendering
+- Created svg treadmill icon based on Material run icon
+- Added subType field to Activity type and activityList resolvers for inside/outside
+
+---
+
 ### March 5, 2019
 
 #### Work
