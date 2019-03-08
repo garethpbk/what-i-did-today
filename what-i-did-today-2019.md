@@ -4,6 +4,28 @@
 
 ---
 
+### March 7, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Error handling with view of error messages for login
+- ResetPassword component and route set up
+- Logic for handling reset password with code from query string
+- Cleaning up, reorganizing, modularizing project
+
+#### Personal
+
+##### Stravisualize 2.0
+
+- Bangers and Oswald fonts, headers use former and most text uses latter
+- Styling for stats card
+- Footer component with 'powered by Strava' svg
+- Total stats type time fields changed to String, function to convert seconds to hours & minutes
+
+---
+
 ### March 6, 2019
 
 #### Work
