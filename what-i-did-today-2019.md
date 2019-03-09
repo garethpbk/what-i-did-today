@@ -4,6 +4,24 @@
 
 ---
 
+### March 8, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Set up Registration component and route
+- Logic for submitting registration request and handling response (failure and success)
+- Header component links to login page if user not logged in (prevent memory leak from unmounted App component)
+
+#### Personal
+
+##### Context Hooks Presentation
+
+- Started presentation slide deck, drafted first batch of slides, set up github repo
+
+---
+
 ### March 7, 2019
 
 #### Work
