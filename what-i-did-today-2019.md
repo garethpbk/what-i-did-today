@@ -4,6 +4,35 @@
 
 ---
 
+### March 11, 2019
+
+#### Work
+
+##### Marketing Orientation Questionnaire
+
+- Fix for height scaling issues on MLO laptop screen sizes
+
+##### LoanForce Insider
+
+- Responsive mobile styling for dashboard, header, footer components
+- SVG icons (fontawesome via Wikimedia) for mobile profile and logout
+
+##### Misc
+
+- Weekly WordPress updates for OTHL and Tabor
+- Tabor Betheme update broke site (500 error), fixed by reverting from child to regular theme (zzz)
+- Backed up Tabor site with UpdraftPlus
+- Added reCaptcha to Tabor site (registered with OTHL gmail) and consultation Gravity Form
+
+#### Personal
+
+##### Context Hooks Presentation
+
+- CodeSurfer for code examples
+- Slides on nested context with contrived example and screenshot of production app
+
+---
+
 ### March 8, 2019
 
 #### Work
