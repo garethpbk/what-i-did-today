@@ -4,6 +4,23 @@
 
 ---
 
+### March 12, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Responsive mobile styling for in process loan detail page
+- Responsive mobile styling and various style tweaks for profile page
+
+#### Personal
+
+##### Context Hooks Presentation
+
+- Finished first draft of slides
+
+---
+
 ### March 11, 2019
 
 #### Work
