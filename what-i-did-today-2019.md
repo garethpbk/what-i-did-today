@@ -4,6 +4,26 @@
 
 ---
 
+### March 13, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Disable route transitions for profile page
+- Profile state all kept in one same piece of state in App context instead of copying in Profile custom hook (many bugs)
+- Moved functions for controlling/editing profile state out of custom hook
+- First set of fields for registration set up with reducer
+- Accidentally registered unknown@unknown.com and discovered thousands of test loans o\_\_\_O
+
+#### Personal
+
+##### Context Hooks Presentation
+
+- Gave presentation at SDJS React meetup
+
+---
+
 ### March 12, 2019
 
 #### Work
