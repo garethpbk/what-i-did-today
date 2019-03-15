@@ -4,6 +4,22 @@
 
 ---
 
+### March 14, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Custom hook for fetching profile data at App component level
+- Switched out useState for useReducer for controlling profile form inputs
+- Custom hook for handling image uploading logic with filereader
+- Custom hook for loan fetching logic on initial App load
+- Fixing problems with loan processing/formatting to sort out active loans
+- Renderfunded loans on dashboard (lil buggy tho)
+- Limited number of loans that can be rendered at once to 200 (temporarily at least)
+
+---
+
 ### March 13, 2019
 
 #### Work
