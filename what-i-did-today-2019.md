@@ -4,6 +4,18 @@
 
 ---
 
+### March 15, 2091
+
+#### Work
+
+##### LoanForce Insider
+
+- Tweaked formatAddress function to organize it better (split into two functions)
+- Moved format addressing fetch call to Google Geocode API to individual component level with custom hook
+- Ref in AppContext for keeping track of addresses that have been retrieved
+
+---
+
 ### March 14, 2019
 
 #### Work
