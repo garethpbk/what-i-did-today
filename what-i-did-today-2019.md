@@ -4,6 +4,23 @@
 
 ---
 
+### March 19, 2019
+
+#### Work
+
+##### Azure Crane Capital
+
+- First draft of desktop wireframes with skewed and simpler style alternates
+- First draft of mobile wireframes completed
+- Explored animations for menu with slant transforms
+
+##### Misc
+
+- BAI training on Marketing & Advertising
+- Read about Encompass Borrower Widgets and thought about how to potentially leverage them
+
+---
+
 ### March 18, 2019
 
 #### Work
