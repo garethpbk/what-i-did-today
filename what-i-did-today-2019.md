@@ -4,6 +4,22 @@
 
 ---
 
+### March 20, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Fetch Google-formatted addresses with Promise.all, instead of at component level
+- Handle missing values for profile gender, headshot, company logo
+- Get loan type of individual loan on loan page load (checks if processed already, if not run through processing functions)
+- Loading spinner for individual loan page based on if loan type has been determined
+- Call to go over functionality of new API additions for letters
+- Rest of registration fields implemented
+- Registration profile and company logo file upload fields implemented
+
+---
+
 ### March 19, 2019
 
 #### Work
