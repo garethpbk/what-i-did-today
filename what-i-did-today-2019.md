@@ -4,6 +4,27 @@
 
 ---
 
+### March 21, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Various styling tweaks across application as relayed by team review
+- Drawer component loan partners logic moved to custom hook
+- Moved registration form state to parent index component, pass state & dispatch through props
+- Registration submit button component and logic for validating required fields then submitting form values
+
+#### Personal
+
+##### Stravisualize
+
+- More generic resolver for athlete stats (includes all, ytd, recent)
+- YTD run stats component
+- Icons to toggle visibility of different activity types in feed
+
+---
+
 ### March 20, 2019
 
 #### Work
