@@ -4,6 +4,28 @@
 
 ---
 
+### March 22, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Re-cloned AngularJS repo cuz original one was borked
+- Registration submit logic, confirmed as working with data in right shape (receives proper error response, can't fully test yet tho)
+- Created HTML email for buyer agent permission granted notifications
+
+##### Azure Crane Capital
+
+- Revised desktop wireframes
+
+#### Personal
+
+##### Stravisualize
+
+- Added react-pose, started tryna implement animations for toggling activity feed types
+
+---
+
 ### March 21, 2019
 
 #### Work
