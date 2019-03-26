@@ -4,6 +4,24 @@
 
 ---
 
+### March 25, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Individual loan detail fetching and formatting logic extracted to custom hook
+- Fixed loan partners hook not using reduce properly, replaced with a filter & Set method
+- Notified API team that all user loans on dev API is currently not working properly (is fixed)
+- Set up test prequalified loan in dev Encompass (still needs work)
+- Switched from live API to dev API now that test data is available
+
+##### Misc
+
+- Weekly WordPress maintenance/updates for Tabor and OneTrust
+
+---
+
 ### March 22, 2019
 
 #### Work
