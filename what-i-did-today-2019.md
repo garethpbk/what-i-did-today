@@ -4,6 +4,35 @@
 
 ---
 
+### March 26, 2019
+
+#### Work
+
+##### Media Release
+
+- Updated agreement text with new brand-inclusive language
+- Swapped Othl component for AllBrands component
+- Updated mailer script with new language
+- Uploaded updated version to both OTHL and CalCon servers
+
+##### Azure Crane Capital
+
+- Updated mobile wireframes, saved in Basecamp & Sharepoint, sent to designer
+
+##### LoanForce Insider
+
+- Started separating out Active & Funded loan from Prequalified & Preapproved loan components
+
+#### Personal
+
+##### Stravisualize
+
+- Wavy text animation for header (ugly markup rip)
+- Added router
+- Links to individual Activity components
+
+---
+
 ### March 25, 2019
 
 #### Work
