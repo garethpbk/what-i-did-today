@@ -4,6 +4,29 @@
 
 ---
 
+### March 27, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- PreLoan component setup with loan information section created and styled
+- PreLoan letter widget component set up (for level 1 permission loans)
+- Formatting for data to send to endpoint to create & regenerate letters
+- Tested POST call to regenerate letters, mostly works, a few tweaks needed
+
+##### Misc
+
+- Fixed real estate invite email HTML
+
+#### Personal
+
+##### FLAVA
+
+- Set up F2019 Participant Registration & Payment forms
+
+---
+
 ### March 26, 2019
 
 #### Work
