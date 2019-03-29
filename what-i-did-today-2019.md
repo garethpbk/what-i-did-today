@@ -4,6 +4,28 @@
 
 ---
 
+### March 28, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Revised loan information layout to use table instead of lists
+- Broke up loan letter component buttons into separate level one component buttons
+- Regenerate letter logic moved to custom hook
+- Level one permission buttons displayed in proper places on mobile and desktop
+- Added react-pdf and started working on rendering regenerated pdf preview in modal (may keep or may go for html render)
+- App function to fetch and cache individual loan works for active, funded, prequal, preapproved loans (condense into one hook prolly)
+- Test preapproved loan (duplicated test prequal loan), now know how to create test prequal/preapproved loan data and what flags do what
+- Preapproved loans added to dashboard
+- Replaced loan cache state in App with custom hook for loan cache with useReducer
+
+##### OneTrust Marketing
+
+- Added social media calendars icon and link to site
+
+---
+
 ### March 27, 2019
 
 #### Work
