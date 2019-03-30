@@ -4,6 +4,35 @@
 
 ---
 
+### March 29, 2019
+
+#### Work
+
+##### Marketo
+
+- Milestone progress graphics for milestone emails created
+- Milestone progress graphics inserted into milestone emails for all brands & emails
+
+##### LoanForce Insider
+
+- Renamed RootContext file in preparation for moving AppContext out of App component and to its own file
+- Loan page direct loan fetching uses same function to get and cache loan as dashboard loan hover (removed duplicate logic & files)
+
+#### Personal
+
+##### FLAVA
+
+- Fixed bug with membership registration for check payment
+
+##### Stravisualize
+
+- Added leaflet.js maps for individual activities
+- Added @mapbox/polyline to server to decode polyline data, added decoded polyline fields to activity type
+- Individual activity component routes set up with query on load
+- Added posed router, messing around with route transitions
+
+---
+
 ### March 28, 2019
 
 #### Work
