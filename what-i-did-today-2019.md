@@ -4,6 +4,17 @@
 
 ---
 
+### March 31, 2019
+
+#### Personal
+
+##### FLAVA
+
+- Finished & tested Fall 2019 registration form and payment form
+- Wrote Node.js server to transform GF registration & membership entries into ACTFL spreadsheet format and generate spreadsheet
+
+---
+
 ### March 29, 2019
 
 #### Work
