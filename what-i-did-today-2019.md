@@ -4,6 +4,39 @@
 
 ---
 
+### April 1, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Checked out new Context branch to reorganize context
+- Replaced most of AppContext (except for modal) with LoggedInContext for better separation of code
+- Reorganized styled components for Dashboard, ForgotPassword, Login, Loan, PreLoan components
+- Use prop boolean for loggedIn in Header component instead of checking context values (why did I do that lol)
+- Level One letter now preloads on component mount instead of being triggered by click (it doesn't change so this is better)
+- Level One letter download button opens PDF in new window and automatically downloads file with generated filename
+- Fixed specificity issues with person labels on LoanHeader components with new styled component instead of inheritence
+- Level Two letter buttons component created
+- Placeholder permissionLevel value to determine which letter components to display
+- Tested create loan letter API successfully, created 2 letters for sample preapproved loan
+- Letter creation history component to display created letters
+- Resized PreLoan sections to better fit created letter history and loan information values
+- Reported bug with profile pic and company logo uploads in dev API, backend team fixed
+
+##### Azure Crane Capital
+
+- Set up local WordPress site for testing stuff
+- Looked at/thought about how to structure custom content needs
+- Added ACF to development and live WP sites
+
+##### Misc
+
+- Weekly WordPress maintenance for OTHL (no updates) & Tabor
+- Added 4/1/19 announcement to OneTrustMarketing site
+
+---
+
 ### March 31, 2019
 
 #### Personal
@@ -12,6 +45,10 @@
 
 - Finished & tested Fall 2019 registration form and payment form
 - Wrote Node.js server to transform GF registration & membership entries into ACTFL spreadsheet format and generate spreadsheet
+
+##### Stravisualize
+
+- Unit conversions for Activity resolver, started building out Activity component/page
 
 ---
 
