@@ -4,6 +4,32 @@
 
 ---
 
+### April 2, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Split letter widget and letter history into totally separate components and adjusted styles & mobile/desktop display accordingly
+- Placeholder permissionLevel flag for mobile buttons in loan information component
+- Loading state for preloading letter in preload hook
+- Moved letter preload to top-level PreLoan component (to prevent refetching when letter buttons component rerenders)
+- Letter buttons disabled while letter is loading, disabled style added
+- Adjustments for letter history components to have margin included instead of in letter buttons
+- Modify letter component set up
+- Sliding transition for switching between letter and modify letter components
+- Reorganized all styled components into one directory at PreLoan top-level component
+- Added react-compound-slider for slider components
+- Prequal/preapproved letter processing includes min and max loan amount and max LTV
+- Set up loan amount slider with constraints and styling
+- Tested preview letter function with modified loan amount value (it works hooray)
+
+##### Marketo
+
+- Figured out Velocity scripting for marketing communications owner phone to show if exists
+
+---
+
 ### April 1, 2019
 
 #### Work
