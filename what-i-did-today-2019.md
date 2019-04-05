@@ -4,6 +4,48 @@
 
 ---
 
+### April 4, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Turned off Google Geocode address formatting to stop sending requests (for now)
+- Download button & text component for modifying letters
+- Disable modified letter preview button when sending request
+- Success component for successful letter modification/creation
+- Organized components for animating between success and loan information views
+- Added logic to display modified letter in letter history from front-end state
+- Request to create new letters (with email and conversation log write) for modified letter on "download new letter" click
+- Animation for moving between successful new letter and letter information pages
+
+---
+
+### April 3, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Fully built out modify letter component with all slides, formula for updating values on change, reset functionality
+- Tweaked pose animations for better transitions between modify/letter components
+
+##### Azure Crane Capital
+
+- Tested out wp-graphql plugin, rigged up gatsby site with it to pull in page content
+
+#### Personal
+
+##### Misc
+
+- Started building useGraphqlFetch hook (maybe try to make it a real package eh)
+
+##### Stravisualize
+
+- Styling for activity content, adjustment to calories type
+
+---
+
 ### April 2, 2019
 
 #### Work
