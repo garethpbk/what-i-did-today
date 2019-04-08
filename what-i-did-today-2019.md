@@ -4,6 +4,17 @@
 
 ---
 
+### April 5, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Reorganized styled components for ResetPassword, Register, Profile, Modal, Loan, App components (+ subcomponents)
+- getRgba helper function added to theme
+
+---
+
 ### April 4, 2019
 
 #### Work
