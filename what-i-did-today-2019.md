@@ -4,6 +4,37 @@
 
 ---
 
+### April 8, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Finished up registration process components, successfully tested registration with new account
+- Tweaking to regsistration styled components to use properly organized components
+- Added sending request state to forgot password and reset password components with spinner conditional
+- Set up test loans for all team members to test account registration - 4/4 successful registration tests
+
+##### Misc
+
+- Weekly WordPress maintenance for OTHL (no updates) & Tabor
+
+#### Personal
+
+##### Level Up Tutorials React Native for Everyone
+
+- Thru video #18
+
+---
+
+### April 6 & 7, 2019
+
+##### Level Up Tutorials React Native for Everyone
+
+- Started course, thru video #13
+
+---
+
 ### April 5, 2019
 
 #### Work
