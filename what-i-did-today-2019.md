@@ -4,6 +4,38 @@
 
 ---
 
+### April 9, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Letter history array sorted by created on date in descending order
+- Conditionally display level one or level two letter based on properties in loan response from API (new properties added today by backend team)
+- Min and max purchase price constraints directly from loan response, rather than calculation
+- Added prequalified and preapproved loans to Drawer loan list
+- Fixed bug with linking directly from a loan page to a different loan's page - ensure new loan is rendered, check if data prop is proper loan type
+- Added created on date field to letter preview request
+- Proper formatting for all letter dates to match PDF template
+- Fixed typo with credit report reviewed field in request
+
+##### MLO Brands
+
+- Example implementation of extracting brand from email address
+
+#### Personal
+
+##### Level Up Tutorials React Native for Everyone
+
+- Finished series
+- Built & installed tipcalc app on phone hooray
+
+##### SDJS React "A Talk About Talks"
+
+- Set up project and repo
+
+---
+
 ### April 8, 2019
 
 #### Work
@@ -23,7 +55,7 @@
 
 ##### Level Up Tutorials React Native for Everyone
 
-- Thru video #18
+- Thru video #14
 
 ---
 
