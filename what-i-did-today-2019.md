@@ -4,6 +4,26 @@
 
 ---
 
+### April 10, 2019
+
+#### Work
+
+##### Azure Crane Capital
+
+- Added WPGraphQL plugin to admin site (doesn't seem to work tho lol probably juse use gatsby-source-wordpress)
+- Wrote plugin for registering 3 custom post types (slowly teaching myself OO PHP...), set up Bitbucket repo
+- Started adding custom fields and content to post types
+
+#### Personal
+
+##### SDJS React "A Talk About Talks"
+
+- Outlined presentation
+- Made presentation slides
+- Gave presentation
+
+---
+
 ### April 9, 2019
 
 #### Work
