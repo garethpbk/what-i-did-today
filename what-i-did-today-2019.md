@@ -4,6 +4,20 @@
 
 ---
 
+### April 11, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Rewrote login functionality to use custom hook with useReducer and loadidng state spinner
+- Mobile styling for register, reset, forgot password components
+- Mobile states and styles for pre loan components including letter modification
+- Meeting to determine exactly how min/max amounts and ltv % should function
+- Transform negative strings for assessments into blank strings for prequal/preapproved loans
+
+---
+
 ### April 10, 2019
 
 #### Work
