@@ -4,6 +4,48 @@
 
 ---
 
+### April 15, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Added filtering to remove prequal/preapproved loans without client authorization received date
+- Input field functionality for modifying letters
+
+##### Azure Crane Capital
+
+- Tried to figure out how to make desired layout work properly with clip-path and shape-outside
+
+##### Misc
+
+- Weekly WordPress updates for othl and tabor
+- BAI learning courses
+- Wrote summary document of requested api brand field addition
+
+---
+
+### April 12, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Added polyfills for IE support (layout needs serious work but JS works)
+- Deleted unused asset files, renamed some assets for more clarity
+- Functionality for loan amount modification to be restricted by max ltv and purchase price
+- Purchase price amount restricted by min loan amount
+- Loan amount scales to max ltv \* purchase price if purchase price dropped below loan amount
+
+#### Personal
+
+##### Misc
+
+- Codesandbox for React timer functionality
+- Started useful code snippers folder
+
+---
+
 ### April 11, 2019
 
 #### Work
