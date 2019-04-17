@@ -4,6 +4,32 @@
 
 ---
 
+### April 16, 2019
+
+#### Work
+
+##### Business Card Generator
+
+- Fixed bug with Tabor line extension not showing in approval card front (and subsequently card PDF)
+- Cleaned up git branches to remove old ones, merged recent commits into master
+
+##### LoanForce Insider
+
+- Added lenderDBAName field to loan processing
+- Styling for loan modify input inputs
+- Tweaks for loan modify input inputs - reset values, string/number conversions, added (temporary?) icon to send values
+- Tested iOs Safari on Browserstack
+- Added brand state to root context and check to login component (also add to app)
+- Tested localhost build with different subdomains successfully
+
+##### Azure Crane Capital
+
+- Set up project repo
+- Set up most of structure for site: theme, header, pages, navigation, styling
+- Header component animations on scroll with intersection observer
+
+---
+
 ### April 15, 2019
 
 #### Work
