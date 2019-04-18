@@ -4,6 +4,32 @@
 
 ---
 
+### April 18, 2019
+
+####
+
+##### Marketo
+
+- Updated milestone emails with modified tracker images
+
+##### LoanForce Insider
+
+- Confirmed emails working again, borrower email not sent for modified letter creation
+- Added coborrower to test loan to make sure that works (it does hooray)
+- Fixed bug with profile image uploads only allowing one or the other (can do both now)
+- Removed duplicate files/functionality, cleaned up project files
+- Updated front-end functionality doc to reflect actual API
+- Moved expanded drawer state from drawer to app so can be closed when clicking outside drawer
+- Found bug in Edge when trying to load loan page directly, props.location.state is null
+- Cross-browser & device testing: Chrome, Firefox, Edge, IE, iPhone X, iPhone 6, Galaxy S8, Pixel 3
+- Cleaned up misc console.log in code, including those commented out
+
+##### OneTrust Marketing
+
+- Updated menu of services page and data with URLs
+
+---
+
 ### April 17, 2019
 
 #### Work
