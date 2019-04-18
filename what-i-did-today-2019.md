@@ -4,6 +4,30 @@
 
 ---
 
+### April 17, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Dynamic brand logo for login, forgot password, reset password routes/pages
+- Use form onSubmit for registration email input,
+- Added missing getRgba function (where did it go :o !?)
+- useBrandFinder hook to find and store brand from URL in context
+- Moved Footer from App to its own independent component, dynamic brand footer content
+- Moved Header from App to its own independent component
+- Cleaned up disorganized styled components, deleted unused styled components
+- Tweaked loans in drawer menu to hide empty categories, move all under "Loans" dropdown
+- Created login icon, renamed signout icon to logout icon, added login icon to mobile header
+- Reworked how app loading works while waiting for asynch operations to complete
+- Renamed dashboard loan styled components to include DashboardLoan prefix
+- Renamed active funded loan components (inc. styled) to included Af prefix
+- Style additions to make fully useable in IE11 (urghhh)
+- Cleaned up props in loan modify components, removing duplicate props
+- Sent error message to backend about broken mail server issue
+
+---
+
 ### April 16, 2019
 
 #### Work
