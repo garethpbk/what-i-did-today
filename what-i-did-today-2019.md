@@ -6,7 +6,7 @@
 
 ### April 18, 2019
 
-####
+#### Work
 
 ##### Marketo
 
@@ -27,6 +27,16 @@
 ##### OneTrust Marketing
 
 - Updated menu of services page and data with URLs
+
+#### Personal
+
+##### Stravisualize 2.0
+
+- Reorganized all time stats into one card with toggle between activity types
+
+##### The Ruby Mouser
+
+- Created goblin sprite base, added to game as image
 
 ---
 
