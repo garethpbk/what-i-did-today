@@ -4,6 +4,38 @@
 
 ---
 
+### April 19, 2019
+
+#### Work
+
+##### Drip Email Campaigns
+
+- New images and additional email for Milestone campaign
+- Added specialTitle field
+
+##### LoanForce Insider
+
+- Rearranged layout of loan header component to give address its own full line
+
+##### Azure Crane Capital
+
+- Custom fields for Company Overview page, built out page in Gatsby
+- Sidebar component added to layout
+- Footer component added to layout
+- Styles for full height page regardless of content height
+
+##### Misc
+
+- Deleted old files for OneTrustMarketing
+
+#### Personal
+
+##### Stravisualize 2.0
+
+- Authentication with Strava OAuth from front end -> get access token from back end -> make requests for data
+
+---
+
 ### April 18, 2019
 
 #### Work
