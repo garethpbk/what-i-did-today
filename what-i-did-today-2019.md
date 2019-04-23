@@ -25,6 +25,12 @@
 - Updated footer licensing link on OneTrust site
 - Troubleshooting API SSL cert expiration rip
 
+#### Personal
+
+##### FLAVA
+
+- Further Fall '19 registration form testing, set up MailChimp integration flow
+
 ---
 
 ### April 20 & 21, 2019
