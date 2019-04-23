@@ -4,6 +4,38 @@
 
 ---
 
+### April 22, 2019
+
+#### Work
+
+##### Drip Email Campaigns
+
+- Default paragraph color brand black instead of full black
+- "Milestone" instead of "Step" in milestone email subject lines
+
+##### New Hire Orientation
+
+- Added mobileNumber field to screen 10 and summary
+- Added post close drip campaign question to screen 9 and summary
+- Moved progress bar to top
+
+##### Misc
+
+- Updated OneTrust & Tabor WordPress
+- Updated footer licensing link on OneTrust site
+- Troubleshooting API SSL cert expiration rip
+
+---
+
+### April 20 & 21, 2019
+
+##### The Ruby Mouser
+
+- Idle and runnings animations for goblin sprite
+- Added goblin to game as character class, behavior to run after player when near
+
+---
+
 ### April 19, 2019
 
 #### Work
