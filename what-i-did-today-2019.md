@@ -4,6 +4,30 @@
 
 ---
 
+### April 23, 2019
+
+#### Work
+
+##### New Hire Orientation
+
+- Webinars removed from screen 13
+- Monthly targets and current vendors added to page 13
+- Started new project for revamp under title Marketing Orientation Questionnaire (tried TSX, failed lol)
+- Exported Calendly icon as svg
+
+##### Azure Crane Capital
+
+- InternalPage template component to use for internal pages
+- Overview and directors page use InternalPage component
+- Made sidebar sticky
+- Styled page content entry component
+
+##### Misc
+
+- Ticket for adding marketing number to MLO API
+
+---
+
 ### April 22, 2019
 
 #### Work
