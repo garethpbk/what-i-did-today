@@ -4,6 +4,32 @@
 
 ---
 
+### April 24, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Prop types and standardized function/const usage for App, Drawer, Context, Dashboard, Header, Footer, ForgotPassword, Login, Modal, Profile, Loan, Register, ResetPassword components and subcomponents
+- Standardized directory structure of hooks and functions
+- Deleted unused hooks and functions
+
+##### OneTrustMarketing
+
+- Differentiated link styling for menu of services
+
+##### Drip Campaigns
+
+- Updated title & audience for Milestone, updated audience for TBD
+
+#### Personal
+
+##### The Ruby Mouser
+
+- Goblin attack animation
+
+---
+
 ### April 23, 2019
 
 #### Work
