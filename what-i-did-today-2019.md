@@ -4,6 +4,87 @@
 
 ---
 
+### April 30, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Confirmed updates to client authorization endpoint working
+- Confirmed borrower email is sent out with letter request (cc)
+
+##### Consent Landing Page
+
+- Reoganized directory structure for components
+- Added validation of SSN & Loan Number against Encompass to submission process
+- Deployed to CalCon site, confirmed process works from live deployment
+
+#### Personal
+
+##### FLAVA
+
+- ACTFL spreadsheet generator will download the file directly to client
+- Deployed backend to DigitalOcean, set up frontend on FLAVA site
+
+---
+
+### April 29, 2019
+
+#### Work
+
+##### New Hire Orientation
+
+- Tweaks for screen thirteen layout
+- Fixed mobile height being set at 100vh (and hiding content)
+- Set up Basecamp task for qc testing new additions/changes with team
+
+##### Branch Pages
+
+- Updated placeholder data to reflect most current branches
+- First round of accessibility fixes for home page
+- Reorganized component directory structure & added prop types for BranchContainer, BranchTiles, Footer
+
+##### LoanForce Insider
+
+- Went over Texas letter to determine what fields are missing/need changing in API
+
+##### Misc
+
+- Updated Tabor site plugins & theme (no OneTrust updates)
+- Submitted BRD for updates to MLO pages & users API
+
+---
+
+### April 25, 2019
+
+#### Work
+
+##### New Hire Orientation
+
+- Updated post close campaign tiers image
+- Deployed updated version of application to remote test site for review at meeting
+- Changed form height to auto for all screens - should fix scaling issue...
+- Updated csv template on remote test site (deleted all old data)
+
+##### LoanForce Insider
+
+- Reworked how type is passed to individual loan processing (no longer requires props.location.state), fixes Edge & Netlify bug
+
+##### Accessibility
+
+- Audited all sites with SiteImprove, Axe, & Lighthouse, recording number of issues and scores in spreadsheet
+
+##### OneTrust Marketing
+
+- Updated menu of services page text
+- Accessibility fixes for home, menu, help, 404 pages (whole site), 100% Lighthouse Accessibility Audit score
+
+##### Modular Resources
+
+- Accessibility fixes for site, first round, needs contrast fixed still
+
+---
+
 ### April 24, 2019
 
 #### Work
