@@ -26,6 +26,10 @@
 - ACTFL spreadsheet generator will download the file directly to client
 - Deployed backend to DigitalOcean, set up frontend on FLAVA site
 
+##### TRM
+
+- Finished goblin attack animation, implemented into game with logic & hit timer
+
 ---
 
 ### April 29, 2019
