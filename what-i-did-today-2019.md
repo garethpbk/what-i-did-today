@@ -4,6 +4,57 @@
 
 ---
 
+### May 1, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Added filter for prequalified/preapproved loans without permission level selected
+- Disabled MLO email override for loan letters
+- Disabled limiting amount of loans rendered on dashboard
+- Built production files for dev and live
+
+##### New Hire Orientation
+
+- "Addtional Info" -> "Additional Info - Post Close", added to post close email, added Claire to post close email
+- Updated remote live spreadsheet with new fields, deleted unused fields
+- Deployed updated version to live site, tested successfully
+- Hotfix for screen height issues on page 10 with smaller desktop screens
+
+##### Drip Campaigns
+
+- Updated milestone 2 images for all brands
+
+##### Azure Crane Capital
+
+- Jpgs for all home page images (banner & 4 menu items)
+- Built out homepage with menu items (with transition), banner
+- Background image for internal page banner image and import with `staticQuery`
+- PDF icon png and added to internal page sidebar (as option boolean prop)
+
+##### OneTrustMarketing
+
+- Added 5/1/19 announcement to site, deployed
+
+##### OneTrustHomeLoans.com
+
+- Added Construction Loans page link to Home Loan Options dropdown menu
+
+##### Misc
+
+- Put in time off request for June trip to EC
+
+#### Personal
+
+##### FLAVA
+
+- Updated spreadsheet generator with institution column, removed member ID column (is blank)
+- Set pagesize to 100,000 to make sure all entries are pulled in (limited to 10/form by default)
+- Deployed updated generator to DigitalOcean, notified client that it is ready for use
+
+---
+
 ### April 30, 2019
 
 #### Work
