@@ -4,6 +4,38 @@
 
 ---
 
+### May 2, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Walked through full process twice with new test loan data
+- Built production code for dev and live
+- Tweaked config variable names of api URLs
+- Added Grind to Bitbucket repo
+
+##### Consent Landing Page
+
+- Deployed under "client-consent" url
+
+##### Azure Crane Capital
+
+- Separate sidebar component that accepts pdf and bullet types
+- Fully built out Company Overview, Directors, and Team pages
+
+##### Drip Campaigns
+
+- Updated Holiday campaign images
+
+#### Personal
+
+##### Level Up Tutorials Animating React
+
+- Thru video #12
+
+---
+
 ### May 1, 2019
 
 #### Work
