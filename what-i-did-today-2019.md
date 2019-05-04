@@ -4,6 +4,31 @@
 
 ---
 
+### May 3, 2019
+
+#### Work
+
+##### Azure Crane Capital
+
+- Added Sub Funds custom fields and content
+- Tried exporting local site wholesale to remote site, did not work!
+- Expored custom fields from local site to remote site
+- Crashed live site admin access by uploading wrong version of custom post types plugin :D
+- Built out Sub Funds page
+- Adjusted banner heights to account for fixed top nav
+- Wrote front end functionality/requirements doc
+- Scrolling observer in useEffect hook in sidebar component for internal pages with bullets
+
+##### OneTrust Marketing
+
+- Updated how to download & create flyer video job aid link
+
+##### Branch Pages
+
+- Starting reorganized BranchSingle component
+
+---
+
 ### May 2, 2019
 
 #### Work
