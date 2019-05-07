@@ -4,6 +4,41 @@
 
 ---
 
+### May 7, 2019
+
+#### Work
+
+##### SMS Landing Page
+
+- Created PHP mailer
+- Minor adjustments to landing page HTML
+- Added favicon
+- Responsive styling
+- Moved scripts to separate folder, interfaces to separate file
+- Success/error message handling
+- Format checkbox checked values as true/false strings (for email)
+- Added Netlify and build script for Netlify without --public-url flag
+
+##### CalCon Mutual Mortgage
+
+- Copied files from FTP to live
+- Set up project repo on Bitbucket
+
+##### Azure Crane Capital
+
+- Removed const visibility in custom post types plugin to work with PHP < 7.1
+- Added custom post types plugin to remote site
+- Added Directors, Team, Sub Funds, page content to remote site
+- Switched Gatsby config to pull from remote site
+
+##### Accessibility
+
+- First round of fixes for CalCon site, Media Release Form, JoinOneTrust, Paid Social LP
+- Partial first round of fixes for Tabor site, MLO sites
+- Set up doc for tracking needed fixes with team
+
+---
+
 ### May 6, 2019
 
 #### Work
