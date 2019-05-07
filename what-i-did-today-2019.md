@@ -4,6 +4,43 @@
 
 ---
 
+### May 6, 2019
+
+#### Work
+
+##### OneTrust Marketing
+
+- Added 5/6/19 announcement
+
+##### Branch Pages
+
+- Reorganized styled components & directory for calculators, cta bar (finished reorganizing all components)
+- Deleted unused components, queries, etc.
+- First round of accessibility fixes checked and implemented
+- Test/Live config vars
+- Deployed updated version to live server
+- Merged Reorganization into Master branch on Bitbucket
+
+##### SMS Landing Page
+
+- Set up project with Stylus, TypeScript, Parcel
+- Built out full page with all fields and submit action (no endpoints yet)
+- Set up repo on Bitbucket
+
+##### Misc
+
+- WordPress plugin & theme updates for OneTrust & Tabor sites
+
+---
+
+### May 4 & 5, 2019
+
+##### TRM
+
+- Goblin fire sprite with animations
+
+---
+
 ### May 3, 2019
 
 #### Work
