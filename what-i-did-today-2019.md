@@ -4,6 +4,39 @@
 
 ---
 
+### May 8, 2019
+
+#### Work
+
+##### New Hire Orientation
+
+- Added Cassandra to recieve admin emails
+
+##### SMS Landing Page
+
+- Swapped logos and header text positions on page
+- Swapped color logos for white logos, shrunk logo image size and padding
+- Mutually exclusive checkbox options for two opt in/opt out choices
+- Various accessibility fixes
+
+##### MLO Sites
+
+- Set up project & repo to rebuild MLO sites in React
+- Data querying from GraphQL API set up and integrated
+- SidePanel component built out and styled
+
+##### Misc
+
+- Fixed Marketo token script thing not working
+
+#### Personal
+
+##### Level Up Tutorials Animating React
+
+- Thru video #13
+
+---
+
 ### May 7, 2019
 
 #### Work
@@ -36,6 +69,12 @@
 - First round of fixes for CalCon site, Media Release Form, JoinOneTrust, Paid Social LP
 - Partial first round of fixes for Tabor site, MLO sites
 - Set up doc for tracking needed fixes with team
+
+#### Personal
+
+##### TRM
+
+- Added goblin wizard sprite and character class
 
 ---
 
