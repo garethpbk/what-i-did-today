@@ -4,6 +4,32 @@
 
 ---
 
+### May 9, 2019
+
+#### Work
+
+##### MLO Sites
+
+- MediaGallery component with modal built out and styled
+- Scaffolded out all components for site with directory structure
+- Built out most of Map component with coordinates pulled in
+
+##### OneTrustMarketing
+
+- Updated headshot flyer link
+- Fixed how to create flyer link on SharePoint
+
+##### OneTrust GraphQL Yoga
+
+- Added google address and coordinates to MLO type and query resolver
+
+##### LoanForce Insider
+
+- Updated spreadsheet time tracking and Basecamp tasks
+- Messed with tryna get around adblocker stopping `window.open()`
+
+---
+
 ### May 8, 2019
 
 #### Work
