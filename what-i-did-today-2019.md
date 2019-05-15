@@ -4,6 +4,89 @@
 
 ---
 
+### May 14, 2019
+
+#### Work
+
+##### Contact Integration Form
+
+- Updated state list
+- Built tooltip for state
+- Updated form on OTHL site with state list, tooltip, tooltip CSS
+
+##### Accessibility
+
+- Went through MLO sites thoroughly and documented needed accessibility fixes
+
+##### Bridge Loans LP
+
+- Finished first draft of desktop wireframes
+- Met with team to discuss revisions and next steps
+
+#### Personal
+
+##### FLAVA
+
+- Fixed hotel information on all forms, confirmations, notifications
+
+---
+
+### May 13, 2019
+
+#### Work
+
+##### OneTrustHomeLoans.com
+
+- Changes to header button, get a quote page, contact us page
+- Identified get a quote form fields currently used and options for updating to new endpoint
+- Test page for contact integration form with HTML and stylesheet added
+
+##### Contact Integration Form
+
+- Set up project for building generic contact integration form to create LF contacts
+- Built HTML for WordPress form
+
+##### Bridge Loans LP
+
+- Researched many landing pages
+- Started sketching & wireframing
+
+##### MLO Sites
+
+- Updated footer links to client portal for all 3 brands (deployed to all 3)
+
+##### Misc
+
+- Updated WP core, themes, plugins for OneTrust, Tabor, ACC
+
+---
+
+### May 10, 2019
+
+#### Work
+
+##### LoanForceInsider
+
+- Continued `window.open()` circumvention, unsuccessfully
+- Confirmed dev deployment has all features working properly
+
+##### Azure Crane Capital
+
+- Custom hook for sidebar position observer
+- Special layout for Dr Mario team member entry
+- Toggleable strategy sections for sub funds
+- Started mobile styling
+- Sticky menu for mobile and desktop
+
+#### Personal
+
+##### TRM
+
+- Props directory for non-interactable decorative sprites
+- StaticProp class for props without animations
+
+---
+
 ### May 9, 2019
 
 #### Work
