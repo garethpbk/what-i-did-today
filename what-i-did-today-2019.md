@@ -4,6 +4,49 @@
 
 ---
 
+### May 15, 2019
+
+#### Work
+
+##### Bridge Loans LP
+
+- Revised desktop wireframe, sent to designer
+- Built accordion component to make sure the design will work
+
+##### OneTrustHomeLoans.com
+
+- New contact integration form made active on live page
+- Fixed Loan Town USA banner background image
+
+##### LoanForce Insider
+
+- Preview Letter for letter modification opens in modal instead of new tab
+- Reset Values button also resets loan letter amounts
+- Increased scale of `react-pdf` Page component to 1.1
+- Added download button to modal overlay for viewing current letter (not on preview new letter)
+- Better height transition for Dashboard loan grids using refs
+- Nav menu always resets scrollTop to 0 when closed
+- Added "may take a while" message underneath download new letter button
+- Build dev files and sent for deployment
+
+##### Marketo
+
+- Looked into intercepting Marketo form events (is possible)
+- JS to send post request from Marketo landing page to PHP script on OneTrust server to create LF contact
+
+##### Misc
+
+- Created `react-scratch` project for testing random components and stuff
+- Created `index.html` on CentOS server, still can't access via url or IP
+
+#### Personal
+
+##### FLAVA
+
+- Invoiced all outstanding items & sent to treasurer
+
+---
+
 ### May 14, 2019
 
 #### Work
