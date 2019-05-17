@@ -4,6 +4,38 @@
 
 ---
 
+### May 16, 2019
+
+#### Work
+
+##### Marketo
+
+- Refined contact integration script (uses promise, no spread syntax), including preventing Marketo lead creation
+- Repo on Bitbucket to hold all misc Marketo scripts, including Velocity
+- Updated milestone tracker graphics (created them and replaced in Marketo)
+
+##### Accessibility
+
+- Detailed audit of Tabor site
+
+##### OneTrust Marketing
+
+- Reorganized styled components for all pages and components
+- Wrote readme
+
+##### LoanForce Insider
+
+- Instead of manually swapping API urls, use env var and separate build command for production
+- Sent built live files for deployment
+
+#### Personal
+
+##### TRM
+
+- Started figuring out actual color palette
+
+---
+
 ### May 15, 2019
 
 #### Work
