@@ -4,6 +4,22 @@
 
 ---
 
+### May 17, 2019
+
+#### Work
+
+##### Azure Crane Capital
+
+- Pass `expanded` array into `useActiveBulletObserver()` hook to watch for clientHeight changes
+- Moved components that were in pages folder to components folder (bc Gatsby)
+- Mobile nav header and menu implemented
+- Disconnect IntersectionObserver on cleanup in Header component
+- `useLayoutEffect()` instead of `useEffect()` for banner window width determination
+- Different banner for mobile/desktop inner pages (have to use static query with regex filter to do this lol)
+- Set up Netlify and deployed site
+
+---
+
 ### May 16, 2019
 
 #### Work
