@@ -4,6 +4,29 @@
 
 ---
 
+### May 20, 2019
+
+#### Work
+
+##### Bridge Loans LP
+
+- Set up Gatsby project with remote Bitbucket repo
+- WhatIs, MeetThe, most of Scenarios, start of WhyConsider components built out
+
+##### Marketo
+
+- LF create contact script added to live Mortgage Quotes landing page
+
+##### OneTrustMarketing
+
+- Added Homebot.ai to Menu of Services Applications
+
+##### Misc
+
+- WordPress plugin & theme updates for OneTrust, Tabor, & Azure Crane sites
+
+---
+
 ### May 17, 2019
 
 #### Work
