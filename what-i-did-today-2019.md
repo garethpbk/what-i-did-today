@@ -4,6 +4,38 @@
 
 ---
 
+### May 22, 2019
+
+#### Work
+
+##### Bridge Loan LP
+
+- Reviews component built, reviews pulls in from GraphQL API, carousel library added, styling for unique design
+- Received assets from designer, added formatted images to replace placeholders
+- Form component built out
+
+##### SMS LP
+
+- Implemented design tweaks
+
+---
+
+### May 21, 2019
+
+#### Work
+
+##### Bridge Loans LP
+
+- WhyConsider, TwoMortgage components built out
+- Design, tweaked layout, tweaked behavior for Scenarios component
+- Phone icon and svg styling in styled-components for Header
+
+##### Accessibility
+
+- Detailed audit of main OneTrust site
+
+---
+
 ### May 20, 2019
 
 #### Work
