@@ -4,6 +4,36 @@
 
 ---
 
+### May 24, 2019
+
+#### Work
+
+##### Azure Crane Capital
+
+- Mobile sidebar with title fixed, properly sticky positioned
+- Header window width determination switched to `useLayoutEffect()` to prevent early rendering
+- Responsive styling for home and internal pages
+- Mobile active link class
+- Add check to see if browser supports intersection observer
+- Tested on variety of devices with Browserstack, looks good
+- Confirmed IE11 support, works mostly well
+- Updated gatsby-config and gatsby-plugin-manifest with real info and colors
+- Built out 404 page with styled component wrapper
+- Did WCAG review and made tweaks to achieve 100% accessibility score
+- Cleaned up extraneous files
+- Updated Basecamp and Sharepoint tasks and time tracking
+
+##### LoanForce Insider
+
+- Accessibility review and tweaks, minus color contrast/design changes
+- Made entire site keyboard-only fully usable and navigable
+
+##### Misc
+
+- Test Inbound Phone Call to help run through/practice flow
+
+---
+
 ### May 23, 2019
 
 #### Work
