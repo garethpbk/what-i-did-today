@@ -4,6 +4,26 @@
 
 ---
 
+### May 23, 2019
+
+#### Work
+
+##### Bridge Loans LP
+
+- Built out Footer component with static query for footer images (import don't work)
+- Tried to debug failing imports of image files, no luck (found workaround)
+- Validators, scroll behavior, and input masking for form
+- Form submit action with validation to create LF contact
+- Successfully built and deployed to Netlify
+- Started styling for mobile screen sizes
+
+##### SMS LP
+
+- Remove animated labels for browsers that don't support it (IE, Edge)
+- Build script without path changed name to `build-netlify`
+
+---
+
 ### May 22, 2019
 
 #### Work
