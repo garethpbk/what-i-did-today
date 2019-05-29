@@ -4,6 +4,32 @@
 
 ---
 
+### May 29, 2019
+
+#### Work
+
+##### Bridge Loan LP
+
+- Responsive styling for all sections, added new xxl breakpoint to work with reviews and form
+- Base position of form on window width for desktop layout
+- Browser fallbacks for form useEffect hooks that rely on polyfills/don't support experimental features
+- Added Google Tag Manager with `gatsby-plugin-google-tagmanager`
+- Wrapper component for form spinner while submitting
+- Accessibility fixes
+- Added tooltip for state select element
+- Pared down list of states
+- Deployed to live OTHL site with pathPrefix and .htaccess
+
+##### LoanForce Insider
+
+- Remaining accessibility and contrast fixes, deployed to Netlify and local test
+
+##### Marketo
+
+- Construction Survey LP font size and weight updated
+
+---
+
 ### May 28, 2019
 
 #### Work
