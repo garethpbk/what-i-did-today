@@ -4,6 +4,32 @@
 
 ---
 
+### May 28, 2019
+
+#### Work
+
+##### Marketo
+
+- Construction Survey LP design and scripting modifications
+- Script for displaying success message and preventing redirect on form submission
+- Velocity script for boolean translation and numerical translation
+
+##### LoanForce Insider
+
+- Accessibility contrast review
+- Latest version with keyboard nav and most accessibility fixes deployed to Netlify
+
+##### Bridge Loan LP
+
+- Mobile styling and behavior for Form, Header, Scenarios, Reviews components
+- Added intersection-observer and fetch polyfills
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+
+---
+
 ### May 24, 2019
 
 #### Work
