@@ -4,6 +4,36 @@
 
 ---
 
+### May 30, 2019
+
+#### Work
+
+##### Accessibility
+
+- Wrote summaries for Tabor, OTHL, & MLO sites
+- Wrote proposal for rewriting MLO sites in React
+
+##### Drip Campaigns
+
+- Updated Milestone email screenshots
+
+##### Employee Media Release
+
+- Set up project (cloned from client consent LP) with repo
+- Modified front-end and script for Image Use, Waiver and Release purposes
+- Deployed to CalCon server
+
+##### Marketo
+
+- Style tweaks & mobile layout fixes for Mortgage Quotes LP
+
+##### Misc
+
+- Updated LoanForce FlowPaper brochure
+- Updated websites/applications/servers list
+
+---
+
 ### May 29, 2019
 
 #### Work
