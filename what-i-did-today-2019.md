@@ -4,6 +4,38 @@
 
 ---
 
+### May 31, 2019
+
+#### Work
+
+##### Accessibility
+
+- Contrast fixes for CalCon, Branch, JoinOneTrust, Paid Social LP
+
+##### Azure Crane Capital
+
+- Added contact info to mobile nav
+- Reorganized desktop & mobile contact styled components
+- Added xl breakpoint for proper display of home page menu items on smaller desktop sizes
+- Wrote summary of ideal hosting setup for continuous deployment/automatic build triggers
+
+##### Construction Loans LP
+
+- Cloned Bridge Loans LP repo to set up project
+- Content/component organization for BuildThe, ProgramFeatures, WhoCan components
+
+#### Personal
+
+##### Stravisualize 2.0
+
+- Reorganized all styled components
+- Split Header and Footer out into separate component directories
+- Animated title broken out into own component
+- Styling for Authorize and GetToken components
+- Save to local storage option when authenticating
+
+---
+
 ### May 30, 2019
 
 #### Work

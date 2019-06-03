@@ -1,0 +1,37 @@
+### Stuff to Bring Camping
+
+- boots
+- knife
+- books
+- water
+- gloves
+- chairs
+- shovel
+- speaker
+- lanterns
+- headlamps
+- camp soap
+- bug spray
+- ice packs
+- sunscreen
+- binoculars
+- bfast food
+- lunch food
+- snack food
+- dinner food
+- power brick
+- toilet paper
+- warm clothes
+- first aid kit
+- energy drinks
+- bag for garbage
+- stove & propane
+- cooking supplies
+- plates & cutlery
+- blankets & pillows
+- jackets with hoods
+- sleeping bags & pads
+- toothbrushes & toothpaste
+- writing/drawing materials
+- tylenol, sudafed, allergy meds
+- tent & tent stakes, hammer, etc
