@@ -4,6 +4,49 @@
 
 ---
 
+### June 3, 2019
+
+#### Work
+
+##### Azure Crane Capital
+
+- Made site fully keyboard navigable on desktop and mobile
+- Replaced crane toggle icon with boring arrow (zzz)
+- Added content to footer
+- Shrunk team member logos
+- Flexbox fallback for internal page layout
+- Tried adding intersection-observer polyfill, IE11 doesn't like it, w/e
+- Specify exactly which image to use for content title background on desktop/mobile
+
+##### Bridge Loans LP
+
+- Set up Google call conversion in Tag Manager for /bridge-loan/
+
+##### Drip Campaigns
+
+- Actually updated milestone graphics with sequential tracking screenshots
+
+##### OneTrust Marketing
+
+- Added 6/3/19 announcement
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+- Wrote job aid for how to add new sites to Google Tag Manager phone conversion replacement thing
+
+#### Personal
+
+##### Antediluvian
+
+- Resurrected old ADL WordPress website on local installation
+
+##### Misc
+
+- Wiped WordPress droplet, set up again with proper SSL and domain
+
+---
+
 ### May 31, 2019
 
 #### Work
