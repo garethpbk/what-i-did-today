@@ -4,6 +4,44 @@
 
 ---
 
+### June 4, 2019
+
+#### Work
+
+##### Consent Landing Page
+
+- Alphanumeric validator for loan number field
+- Added `cross-env` and production build script
+- Deployed prod build to /client-consent and dev build to /client-consent-dev
+- Deleted old builds on server
+
+##### Construction Loans LP
+
+- All components updated/created, unused components & images deleted
+- Responsive styling tweaks
+- Deployed to Netlify and OTHL server at /construction-home-loans
+- Set up Google AdWords and call conversion via Tag Manager
+
+##### Drip Campaigns
+
+- Added 3 new automated construction loan campaigns
+
+##### LoanForce Insider
+
+- Feedback and needed bugfixes for live deployment
+
+##### Misc
+
+- Updated Referral partner email template
+
+#### Personal
+
+##### Antediluvian
+
+- Set up Gatsby site with Github repo
+
+---
+
 ### June 3, 2019
 
 #### Work
