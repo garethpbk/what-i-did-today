@@ -4,6 +4,36 @@
 
 ---
 
+### June 6, 2019
+
+#### Work
+
+##### Client Consent LP
+
+- Loan number and mlo email from URL params, remove associated fields
+- Polyfill for URLSearchParams
+- Add message that submission may take a while
+- Update text and add image to mlo email
+
+##### LoanForce Insider
+
+- Preserve when profile images are changed in LoggedInContext so they persist after Profile component unmounted
+- Filter out prequal/preapproved loans without five constraint fields set in Encompass
+- Set default values if five constraint fields are not set (superseded by above but keeping in code)
+- Changed loan letter history message (if no history) to "Modify Letter"
+
+#### Personal
+
+##### Antediluvian
+
+- Nav, Posts components built out with queries
+- Layout component with main and sidebar areas defined
+- Switch to `useStaticQuery` hook instead of `StaticQuery` render prop
+- ADL posts category for catacombs, first post added
+- Create pages from posts in `gatsby-node` with post page template
+
+---
+
 ### June 5, 2019
 
 #### Work
