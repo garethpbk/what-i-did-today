@@ -4,6 +4,63 @@
 
 ---
 
+### June 5, 2019
+
+#### Work
+
+##### Azure Crane Capital
+
+- Placeholder pixel headshot in WP for Chris Ott (no headshot), moved Dustin headshot left
+- Director bioString built in function to accommodate exception (no headshot)
+- Blue block headers color changed, size increased
+- Subheader size decreased
+
+
+##### Bridge Loans LP
+
+- Fixed order of footer social icons
+- Updated package.json
+
+##### Condotel Loans LP
+
+- Cloned Construction LP to start project
+- Added condotel text content
+- Deployed to Netlify
+- Set up Adwords and Tag Manager (not published yet)
+
+##### Construction Loans LP
+
+- Updated package.json
+- Reverted paragraph font size to 1.8rem
+
+##### LoanForce Insider
+
+- Added line about closing file in Encompass to consent LP mailer
+- New button design for modifying pre-loan purchase price/loan amount via direct input
+- Added fallback condition for loan processing for loans without "preapproved" and/or "prequalified" field values
+- Troubleshooting live test loan data
+
+##### Portfolio Loans Splash Page
+
+- First draft of desktop wireframes
+- Set up to-do list/task in Basecamp
+
+#### Personal
+
+##### Antediluvian
+
+- Custom post types plugin for catacombs site with ADL config post type
+- Set up ACF with REST API and `gatsby-source-wordpress`
+- Figured out how to query images from ACF for `gatsby-image`
+- Tested out `wp-graphql` to see if it works with `gatsby-image` (does not appear to currently)
+- Added `gatsby-background-image` plugin and banner background image query & component
+- Added Cinzel and Lato fonts
+- Added menu items end point to catacombs REST API (in `functions.php`, do this better later)
+- Pulled in menu items to Gatsby site via StaticQuery
+- Added Nav component and about page to Gatsby site to test menu items
+
+---
+
 ### June 4, 2019
 
 #### Work
