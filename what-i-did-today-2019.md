@@ -4,6 +4,30 @@
 
 ---
 
+### June 7, 2019
+
+#### Work
+
+##### Azure Crane Capital
+
+- Tweaks to design
+- Updated logos for OTHL and CalCon
+- Fix PWC website URL
+
+#### Personal
+
+##### Antediluvian
+
+- About, archive, current, submit pages added with content from WP
+- Footer component with animated Cthulhu component
+- Sidebar component with featured story and current issue
+- Featured story page
+- Submit form component
+- Set up Netlify deployment with automatic building when WordPress publishes
+- Pointed domain name to Netlify, set up SSL
+
+---
+
 ### June 6, 2019
 
 #### Work
