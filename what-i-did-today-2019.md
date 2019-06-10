@@ -4,6 +4,52 @@
 
 ---
 
+### June 10, 2019
+
+#### Work
+
+##### Condotel LP
+
+- Design updates from Illustrator
+- Replaced ProgramFeatures icons with new icons
+- Downloaded images from Shutterstock & replaced on site
+- Activated Google Tag Manager new version, tested
+- Deployed to live url @ /condo-financing
+- Added link to main OTHL site
+
+##### LoanForce Insider
+
+- Built files with latest changes, sent for deployment
+
+##### Client Consent LP
+
+- Deployed updated version to dev and live URLs
+- Tested several times with sample email link, appears to be working properly
+- Removed loan officer name from mailer PDF
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+- Looked at branch pages API to determine fields that are available but currently unused
+
+#### Personal
+
+##### Antediluvian
+
+- Added file upload and submit button to form
+- Built PHP mailer script that includes file attachment
+- Starting adding validation and submitting state to form
+
+---
+
+### June 8 & 9, 2019
+
+##### Antediluvian
+
+- Added submission type selection to form
+
+---
+
 ### June 7, 2019
 
 #### Work
