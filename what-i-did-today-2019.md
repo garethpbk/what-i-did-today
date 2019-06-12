@@ -4,6 +4,50 @@
 
 ---
 
+### June 12, 2019
+
+#### Work
+
+##### Employee Media Release
+
+- Bugfix for canvas, read from canvas directly at validation instead of from saved state
+
+##### LoanForce Insider
+
+- Testing loan data & process flow from live setup
+
+##### Client Consent LP
+
+- Bugfix for canvas, read from canvas directly at validation instead of from saved state
+
+##### OneTrustMarketing
+
+- Add RatePlug to applications menu of services
+- PhoneBurner Dial -> PhoneBurner Dialer
+- Claned up old files on remote server
+
+##### SMS Project
+
+- Looked at returned docs from vendor for building out backend
+
+##### Misc
+
+- AccuData HTML chicken email
+- Added PR to main OTHL site form
+
+#### Personal
+
+##### Antediluvian
+
+- Netlify clear cache and deploy to make UI-set environment var work
+
+##### FLAVA
+
+- Helping users login with password reset
+- 
+
+---
+
 ### June 11, 2019
 
 #### Work
