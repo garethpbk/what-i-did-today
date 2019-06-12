@@ -4,6 +4,45 @@
 
 ---
 
+### June 11, 2019
+
+#### Work
+
+##### Azure Crane Capital
+
+- Updated image widths for team members
+
+##### Branch Pages
+
+- Set up adding static branches for custom branch paths not pulled from branch API
+
+##### Construction Loans LP
+
+- Fixed ProgramFeatures styled components having wrong WhyConsider names
+- Cleaned up old files on remote server
+
+##### MLO Pages AngularJS
+
+- Investigated possibility of adding static routes to AngularJS app for specific URLs...doesn't seem possible
+
+##### MLO Pages Gatsby
+
+- Looked into how mixed client/static routing could be done in Gatsby, with some success
+
+#### Personal
+
+##### Antediluvian
+
+- Proper handling for radio field change
+- Check if required fields have been touched on form submit
+- Updated text of submissions page to include email & form submissions methods with direct links to latter
+- Wrapper styled component to control arrangement of Banner & Nav with media query
+- Mobile styling for most components
+- Configured mailer for gmail SMTP, moved mailer to remote server
+- Mailer working from Netlify with manual deploy...env var not read in auto deploy yet tho...
+
+---
+
 ### June 10, 2019
 
 #### Work
