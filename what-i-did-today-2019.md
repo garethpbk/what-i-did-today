@@ -4,6 +4,49 @@
 
 ---
 
+### June 27, 2019
+
+#### Work
+
+##### Branch Pages
+
+- Add GTM with `react-gtm-module`
+- Add Puerto Rico svg and to list of states
+- CTA phone text color fix for accessibility
+- Dynamic footer year
+- Updated placeholder branches, ph branch data as json
+- Merge Reorganization -> master branch
+
+##### Paid Social LP
+
+- Switched GTM container to from MLOPage to OneTrustHomeLoans.com
+- Added id to form success message for GTM trigger
+- Merged v4 -> dev branch
+
+##### Bridge Loans LP
+
+- GTM trigger for successful form submission
+- Add id to form success message for GTM trigger
+
+##### Marketo
+
+- Fixed phone number on Mortgage Quotes LP
+- Updated Adwords code on Mortgage Quotes LP and template
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+- BAI customer service course
+- Recorded marketing minute video about automated birthday email videos
+
+##### Personal
+
+##### Misc
+
+- CodeSandbox to detect which div in view to update navbar in React for SDJS
+
+---
+
 ### June 12, 2019
 
 #### Work
