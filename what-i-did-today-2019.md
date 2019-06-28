@@ -4,6 +4,35 @@
 
 ---
 
+### June 28, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Wrote summary of how in process loan categorization works
+
+##### Marketing Orientation Questionnaire
+
+- Wistia component with video embed
+- Started building out first screen and screen styled components
+
+##### Matt Glynn Schumacher LP
+
+- Set up project and repo
+- Sidebar component built
+- GraphQL query to fetch mlo info implemented
+
+##### OneTrustMarketing
+
+- Added 6/28/19 announcement
+
+##### Misc
+
+- Updated birthday email video to Wistia, did captions, posted on Facebook and Chatter
+
+---
+
 ### June 27, 2019
 
 #### Work
