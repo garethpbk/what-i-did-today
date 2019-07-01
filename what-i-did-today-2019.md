@@ -4,6 +4,42 @@
 
 ---
 
+### July 1, 2019
+
+#### Work
+
+##### Drip Campaigns
+
+- Update construction automated campaign names
+- Add Roboto font properly
+- Delete unused files
+
+##### LoanForce Insider
+
+- In process loan filtering doc on SharePoint
+
+##### Marketo
+
+- Fixed Milestone 3 send alert duplicated tracker graphic on mobile
+
+##### Matt Glynn Schumacher LP
+
+- Created mockup in Photoshop of what site could look like
+- About, MediaGallery, MeetTeam, Reviews, Schumacher components added
+- Switch from Birdeye to Boast reviews
+
+##### OneTrust GraphQL Yoga
+
+- Added Boast reviews types and query resolver
+- Deployed to Now, appears to automatically alias to unique domain now?
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+- Help with email signature removing address
+
+---
+
 ### June 28, 2019
 
 #### Work
