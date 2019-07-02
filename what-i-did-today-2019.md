@@ -4,6 +4,20 @@
 
 ---
 
+### July 2, 2019
+
+#### Work
+
+##### Matt Glynn Schumacher LP
+
+- Add `gatsby-source-graphql` and use static query for mlo data instead of hook at runtime
+- Contact, Footer, HBGuide, Modal, Review components built
+- Validators and HBGuide form reducer added
+- Created Yelp icon svg
+- HBGuide form submission handler with validation (tested, works)
+
+---
+
 ### July 1, 2019
 
 #### Work
