@@ -4,6 +4,35 @@
 
 ---
 
+### July 3, 2019
+
+#### Work
+
+##### Branch Pages
+
+- Add OneTrust Branches GTM container (loads 2 containers now)
+
+##### Matt Glynn Schumacher LP
+
+- Calculators component added
+- All 4 mortgage calculators implemented
+- Spinner and success message added to HBGuide Form
+- Nav with `react-headroom`
+- Smooth scroll behavior to global styles
+- Group tile & nmls together in mlo info sidebar
+
+##### MLO Pages AngularJS
+
+- Add OneTrustHomeLoans.com GTM container (loads 2 containers now)
+
+##### Misc
+
+- Generated email sig for Matt Glynn with no address line
+- Added id to success message title on Bridge, Condotel, & Construction landing pages live deployments
+- Updated Website, Web Application, Servers List doc with 3 landing pages
+
+---
+
 ### July 2, 2019
 
 #### Work
