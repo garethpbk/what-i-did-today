@@ -4,6 +4,19 @@
 
 ---
 
+### July 5, 2019
+
+#### Work
+
+##### Matt Glynn Schumacher LP
+
+- Attempted to run team member queries at build time, did not work
+- Queries for team members (using runtime `useGraphqlFetch()`)
+- Fixed svg icons for email and cell phone
+- Started mobile responsive styling
+
+---
+
 ### July 3, 2019
 
 #### Work
