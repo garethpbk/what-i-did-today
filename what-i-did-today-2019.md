@@ -4,6 +4,29 @@
 
 ---
 
+### July 8, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Submitted IT ticket to get Insider Encompass email updated
+
+##### Matt Glynn Schumacher LP
+
+- Finished responsive styling first pass for all sizes
+- Separate image for mobile HbGuide banner with hooks to set mobile/not mobile via width
+- Mobile styling and behavior for Nav
+- Review items display as block instead of flex for full browser compatibility (IE11)
+- `useModal()` hook functions to add/remove body overflow class
+- Incorporated feedback from product owner - copy modifications, remove HbGuide
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+
+---
+
 ### July 5, 2019
 
 #### Work
