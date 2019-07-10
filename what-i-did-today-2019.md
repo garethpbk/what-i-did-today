@@ -4,6 +4,27 @@
 
 ---
 
+### July 9, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Tweak to prequal/preapproved loan filtering - level 1 permission only needs max LTV field, not constraints
+
+##### Matt Glynn Schumacher LP
+
+- YouTube videos in media gallery (no images)
+- Config for YouTube embed to get rid of annoying console message
+- Disable keyboard controls for reviews carousel
+- Accessiblity tweaks - contrast, fully keyboard navigable, modals close on ESC press
+
+##### Marketo
+
+- Technology to Support Business Partners email (first version)
+
+---
+
 ### July 8, 2019
 
 #### Work
