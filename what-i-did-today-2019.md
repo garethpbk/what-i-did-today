@@ -4,6 +4,27 @@
 
 ---
 
+### July 10, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Troubleshooting stuff
+
+##### Marketo
+
+- Tech Support email first version template draft finished
+- Tech Support email Second one-column version draft finished
+
+##### Matt Glynn Schumacher LP
+
+- Browserstack testing for various devices & browsers
+- Added live deployment URL and path prefix
+- Deployed to live URL
+
+---
+
 ### July 9, 2019
 
 #### Work
