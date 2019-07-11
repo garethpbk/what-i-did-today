@@ -4,6 +4,35 @@
 
 ---
 
+### July 11, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- More misc troubleshooting & answering questions
+- New button for buyer agent email link, hosted on OTHL server
+
+##### Marketo
+
+- Finalized first drafts of two versions of Tech Support email
+
+##### Matt Glynn Schumacher LP
+
+- Tweaks to content and styles from feedback
+- Headshot image use div with background image instead of img tag
+
+##### MLO Pages React
+
+- Fix styles for Sidebar
+- Add Nav component and `react-headroom`
+- Implement Reviews component, add `react-alice-carousel` and `date-fns`
+- Headshot image use div with background image instead of img tag
+- `useFormReducer()` and `useModal()` hooks
+- Started building HbGuide component
+
+---
+
 ### July 10, 2019
 
 #### Work
@@ -15,7 +44,7 @@
 ##### Marketo
 
 - Tech Support email first version template draft finished
-- Tech Support email Second one-column version draft finished
+- Tech Support email second one-column version draft finished
 
 ##### Matt Glynn Schumacher LP
 
