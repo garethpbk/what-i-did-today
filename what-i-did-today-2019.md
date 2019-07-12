@@ -4,6 +4,35 @@
 
 ---
 
+### July 12, 2019
+
+#### Work
+
+##### LoanForce Insider
+
+- Fix iPhone input zoom issue
+- Bugfix for min purchase price/loan amount constaint edge cases
+- Disable hover styles on mobile for modifcation buttons to prevent iPhone double tap issue
+- Customize `manifest.json` for save-to-home-screen
+- Sent new builds for deployment
+
+##### Marketo
+- Template troubleshooting
+
+##### MLO Pages React
+
+- HBGuide component with contact creation functionality implemented
+- Map component with marker implemented
+- Calculators component implemented
+
+#### Personal
+
+##### Antediluvian
+
+- Styling for current issue page PDF embed
+
+---
+
 ### July 11, 2019
 
 #### Work
