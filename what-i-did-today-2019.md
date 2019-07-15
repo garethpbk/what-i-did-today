@@ -4,6 +4,45 @@
 
 ---
 
+### July 13, 2019
+
+#### Work
+
+##### Drip Campaigns
+
+- Added Consumer-Long Term Follow Up campaign
+- Cleaned up old files on server
+
+##### Portfolio Loans LP
+
+- Two revised designs with new content included
+
+##### Marketo
+
+- Added contact info editable area to Support Technology templates (filled in with contact field tokens in emails)
+- Deleted unused Two Columns email, renamed Two Columns email in use
+
+##### MLO Pages React
+
+- Generic Form styled components
+- GetAQuote compoonent implemented
+
+##### OneTrustMarketing
+
+- Added 7/15/19 announcement
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+
+#### Personal
+
+##### Antediluvian
+
+- Fixed behavior of current issue page changes
+
+---
+
 ### July 12, 2019
 
 #### Work
