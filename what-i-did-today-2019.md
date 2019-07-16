@@ -4,7 +4,30 @@
 
 ---
 
-### July 13, 2019
+### July 16, 2019
+
+#### Work
+
+##### MLO Pages React
+
+- Custom hook for handling form submission
+- Submission handling for GetAQuote form
+- Added skip to main content link
+- Reviews footer links and icons
+- Back to top link
+- Various accessibility tweaks and fixes
+- Set up and deployed to Netlify
+- Add `babel-polyfill` and `react-app-polyfill`
+- State list for GetAQuote form same as main OTHL website
+- Loading component
+
+##### Portfolio Loans LP
+
+- Revised wireframes after meeting & feedback
+
+---
+
+### July 15, 2019
 
 #### Work
 
