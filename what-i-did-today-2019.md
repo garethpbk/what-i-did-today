@@ -4,6 +4,23 @@
 
 ---
 
+### July 17, 2019
+
+#### Work
+
+##### MLO Pages React
+
+- Brand customization based on URL
+- Only show social media icons for othl brand and if user has profile link
+- Hook for loading reviews from boast/birdeye/neither
+- Media gallery default images for MLOs without individual images
+- Display blog link in nav if blog is live
+- YouTube url formatting for different url formats
+- Error and not found route handling
+- Test deployment on OTHL server
+
+---
+
 ### July 16, 2019
 
 #### Work
