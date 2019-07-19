@@ -4,6 +4,40 @@
 
 ---
 
+### July 18, 2019
+
+#### Work
+
+##### MLO Pages React
+
+- Add stars to reviews that have rating
+- Check if mlo page flag is true, return error component if not
+- Check to make sure Birdeye data is retrieved before destructuring it (prevent occasional crashes)
+- Conditional rendering for all contact info fields
+- Conditional rendering of Apply Now links, headshot, about me text, write a review for
+- Add disclaimer text to calculators
+- Tweaks to media gallery default image conditions
+- Add rating to Boast reviews GraphQL query
+- Fix for `null` Boast campaign key in `useGetReviews` hook - construct it from name fields
+- Tweaks to formatting and sizing of sidebar MLO info
+- Went through list of all MLOs with active sites to make sure everything looks good
+- Standardize logo sizes in sidebar header
+- Partners component implemented
+
+##### OneTrust GraphQL Yoga
+
+- Remove # characters in address formatting requests sent to Google
+- Use `encodeURI()` in address formatting requests sent to Google
+- Add MLO partner fields to mlo type and query resolver
+
+##### Misc
+
+- Fixed typo in rfield bio
+- Added missing <p> tags to sgmyrmaez bio
+- Fixed wrong image link for rjones
+
+---
+
 ### July 17, 2019
 
 #### Work
