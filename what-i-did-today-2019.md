@@ -4,6 +4,24 @@
 
 ---
 
+### July 19, 2019
+
+#### Work
+
+##### MLO Pages React
+
+- SVG for slogan banner instead of text
+- Tweaks to nav styles to meet accessibility standards
+- Added `react-helmet` and dynamic `<head>` tags
+- Flexbox fallbacks for components using grid display (works well in IE11 now)
+- Attempted to add missing alt text to Google Map icons, didn't work
+
+##### OneTrust GraphQL Yoga
+
+- Reorganized query and branch resolvers into separate modules
+
+---
+
 ### July 18, 2019
 
 #### Work
