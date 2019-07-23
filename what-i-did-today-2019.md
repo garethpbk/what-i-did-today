@@ -4,6 +4,34 @@
 
 ---
 
+### July 22, 2019
+
+#### Work
+
+##### MLO Pages React
+
+- Implement `useMutation` hook for creating contacts from Get a Quote & HB Guide forms
+- Add error handling to Get a Quote & HB Guide forms
+- Upgrade `react-apollo-hooks` to fix issues with `useMutation`
+- Tweak reviews hook to prevent `undefined` from being destructured
+- Fix reviews ref to call proper prev/next function (API for `react-alice-carousel` changed?)
+- Uploaded to test domains on othl, calcon, tabor servers
+- Wrote QC guide and set up team QC process
+
+##### OneTrust GraphQL Yoga
+
+- Add city field to createLoanForceContact mutation, type, and resolver
+
+##### Accessibility
+
+- Put in main website for free audit report thing
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+
+---
+
 ### July 19, 2019
 
 #### Work
