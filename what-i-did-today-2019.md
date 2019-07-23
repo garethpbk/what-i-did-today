@@ -4,6 +4,36 @@
 
 ---
 
+### July 23, 2019
+
+#### Work
+
+##### OneTrustHomeLoans.com
+
+- Accessibility checklist in Basecamp
+- a11y fixes for home page (score 56 -> 81 -> 100)
+- a11y fixes for internal page (score 52 -> 81)
+- a11y fixes for request form page (score 56 -> 81)
+
+##### MLO Pages React
+
+- Replace duplicated HB Guide form components with generic Form components
+- Base Form submit error component to use in HB Guide and Get A Quote forms
+- Automatically open HB Guide PDF upon successful submission of HB Guide form
+- Optimize svgs with SVGOMG
+- Added `@testing-library/react` and `@testing-library/jest-dom` and started writing component tests
+
+##### OneTrust Marketing
+
+- Add 7/23/19 announcement
+- Removed announcement date fixed width
+
+##### Misc
+
+- Troubleshooting LoanForce process problems
+
+---
+
 ### July 22, 2019
 
 #### Work
