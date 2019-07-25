@@ -4,6 +4,33 @@
 
 ---
 
+### July 24, 20219
+
+#### Work
+
+##### OneTrustHomeLoans.com
+
+- Went through all pages linked from menus and did a11y audit and logged issues to fix
+- List pages that are published but not linked anywhere
+- Fix color contrast issues on internal pages via stylesheet instead of dashboard CSS editor @_@
+- Tweaks to score 100 on Lighthouse accessibility audit for internal pages
+- Applied fixes to all public-facing pages, 100 Lighthouse score on all pages
+- Reorganized tasks on Basecamp to make it easier to go through them for finality
+- Finished a11y fixes for site, first round at least
+
+##### MLO Pages React
+
+- Basecamp ticket for feedback from QC
+- Fix NMLS links in footer
+- Dynamic HB Guide banner based on brand (not enabled currently)
+- Dynamic email campaigns based on brand in mutation hook
+
+##### Misc
+
+- Update to Referral Partner email template and example
+
+---
+
 ### July 23, 2019
 
 #### Work
