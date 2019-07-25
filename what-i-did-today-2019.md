@@ -4,6 +4,40 @@
 
 ---
 
+### July 25, 2019
+
+#### Work
+
+##### MLO Pages React
+
+- Disable iPhone/safari button styles
+- Scroll thank you message into view on mobile successful form submission
+- Reviews can't be cycled if there is only one review
+- Brand logo urls dynamic based on brand
+- Tweaks to sidebar styling
+- Fix z-index for modal close svg
+- Break word in contact info for long emails to preserve layout
+- First round of QC feedback all incorporated
+- Deployed to all 3 test sites
+
+##### Paid Social LP
+
+- Adjustments to Preapproved content and campaign
+
+#### Personal
+
+##### Stravisualize
+
+- Trying new map tile layers
+- Loading screen for Activity
+
+##### TRM
+
+- Use group for multiple goblin enemies
+- More advanced goblin behavior, return to starting position when player too far away
+
+---
+
 ### July 24, 20219
 
 #### Work
