@@ -4,6 +4,38 @@
 
 ---
 
+### July 27, 2019
+
+#### Work
+
+##### MLO Pages React
+
+- Add missing alt text to Google maps images with doofy timeout function (100 Lighthouse score hooray)
+
+##### Portfolio Thank You Page
+
+- Wrote JS/CSS/HTML for pulling in reviews from GraphQL API and displaying in WordPress page
+
+##### Tabor Site
+
+- Started looking at how to fix accessibility issues (prognosis: not good bc theme...)
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+
+---
+
+### July 26, 2019
+
+#### Personal
+
+##### TRM
+
+- Reworking goblin behavior loop to prevent constantly calling state updates
+
+---
+
 ### July 25, 2019
 
 #### Work
