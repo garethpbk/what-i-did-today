@@ -4,6 +4,20 @@
 
 ---
 
+### July 31, 2019
+
+#### Work
+
+##### Portfolio Loans LP
+
+- Set up project and component directory structure
+- Built Hero, About, Awards, Programs components
+- Extracted assets for Programs component
+- Responsive styling for mobile screens
+- Flexbox fallbacks for elements with `display: grid`
+
+---
+
 ### July 30, 2019
 
 #### Work
