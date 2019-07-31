@@ -4,7 +4,48 @@
 
 ---
 
-### July 27, 2019
+### July 30, 2019
+
+#### Work
+
+##### Accessibility
+
+- Research on accessibility lawsuits and issues
+- Proposal to address PDF accessibility
+- Started third party accessibiility summary doc
+
+##### Branch Pages
+
+- Minor a11y tweaks to label and button text
+
+##### Construction Loans LP
+
+- Remove ids from svgs
+
+##### MLO Pages React
+
+- Added marketing number to mlo query and replaced mobile number with marketing number
+- Added `inputtype` attr to calculator fields
+- Adjustments to logo svg dimensions
+- Mobile HB Guide banner dynamic based on brand
+- Scheduled second round of QC feedback with team
+
+##### OneTrust GraphQL Yoga
+
+- Added Marketing Number (marketingPhone) field to mlo, branch owner, and branch member types and resolvers
+
+##### Paid Social LP
+
+- Changed form background color to white to meet contrast requirements
+
+##### Portfolio Thank You Page
+
+- Improved scripting and styling of reviews section
+- Set up separate lil project for this so it doesn't have to live on JSFiddle
+
+---
+
+### July 29, 2019
 
 #### Work
 
