@@ -4,6 +4,34 @@
 
 ---
 
+### August 1, 2019
+
+#### Work
+
+##### Portfolio Loans LP
+
+- Responsive styling for medium and up sizes
+- Style tweaks for iOS devices
+
+##### Bridge/Condotel/Construction Loans LP
+
+- Fix svg and image imports
+- Style tweaks for iOS devices
+
+##### Tabor Site
+
+- Fixed as many accessibility issues as possible
+- Noted issues caused by theme & plugins that are unfixable
+- Discovered theme authors explicitly stated theme will not be made WCAG compliant
+
+#### Personal
+
+##### Recipe Tracker
+
+- Starting setting up client side
+
+---
+
 ### July 31, 2019
 
 #### Work
