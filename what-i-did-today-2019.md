@@ -4,6 +4,67 @@
 
 ---
 
+### August 5, 2019
+
+#### Work
+
+##### Drip Campaigns
+
+- Update to TBD campaign
+
+##### OneTrustMarketing
+
+- Added 8/5/19 announcement
+- Tweak to announcement date styles
+
+##### Condotel LP
+
+- Fixed typo
+- Redirect to thank you page on successful form submission
+
+##### Fix and Flip Loans LP
+
+- Set up project and built out all components
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+- Island Vibez signature templates
+
+---
+
+### August 3 & 4, 2019
+
+#### Personal
+
+##### Recipe Tracker
+
+- Image upload capability added to add recipe mutation resolver using Cloudinary
+
+---
+
+### August 2, 2019
+
+#### Work
+
+##### MLO Pages React
+
+- Change 'Mobile' to 'Direct' in contact
+- Only show about expander if bio is long enough for it
+- Add darkening overlay to calculators background to ensure text contrasts enough
+- Decrease font size of reviews on mobile
+- Remove label font size scaling of calculators
+- Incorporated all feedback from second round of QC
+
+#### Personal
+
+##### Recipe Tracker
+
+- Client - Drawer component
+- Server - modularize query & mutation resolvers
+
+---
+
 ### August 1, 2019
 
 #### Work
