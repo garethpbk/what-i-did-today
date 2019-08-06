@@ -4,6 +4,45 @@
 
 ---
 
+### August 6, 2019
+
+#### Work
+
+##### Fix and Flip Loans LP
+
+- Redirect to thank you page on successful form submission
+- Finished site, deployed to Netlify for perusal
+
+##### Portfolio Loans LP
+- Redirect to thank you page on successful form submission
+- Resize award logos
+- Replace placeholder loan type with fix and flip loans
+
+##### Portfolio Individual LPs
+
+- Redirect to thank you page on successful form submission
+- Remove form absolute positioning on xxl screen
+
+##### Paid Social LP
+
+- Redirect to thank you page on successful form submission
+- Replace mobile number with marketing number
+- Update graphql url
+
+##### MLO Sites React
+
+- Built for live URL and deployed to all 3 servers
+
+##### Marketing Orientation Questionnaire
+
+- Explored rebuilding with TypeScript and CSS custom properties
+
+##### Misc
+
+- Island Vibez signatures one col
+
+---
+
 ### August 5, 2019
 
 #### Work
