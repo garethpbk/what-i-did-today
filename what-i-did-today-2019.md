@@ -4,6 +4,39 @@
 
 ---
 
+### August 7, 2019
+
+#### Work
+
+##### Marketing Orientation Questionnaire
+
+- Decided not to use TypeScript (too overwhelming!), yes to CSS custom properties
+- Implemented base for form reducer, form components, form data
+
+##### MLO Sites
+
+- Fixed bug for MLOs that don't have a bio, redeployed all sites
+
+##### OneTrustMarketing
+
+- Added 8/7/19 announcement
+
+##### Fix and Flip Loans LP
+
+- Updated campaign source
+
+##### Portfolio Loans LP
+
+- Built and deployed to live URL
+
+##### Vanilla Reviews
+
+- Git repo for project
+- Added responsive styling so layout doesn't break on mobile
+- Only try to update HTML for first 3 reviews with comments retrieved
+
+---
+
 ### August 6, 2019
 
 #### Work
