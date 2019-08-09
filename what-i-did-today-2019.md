@@ -4,6 +4,40 @@
 
 ---
 
+### August 9, 2019
+
+#### Work
+
+##### Marketing Orientation Questionnaire
+
+- Custom checkbox styles
+- Add checkboxes to draw fields hook
+- AppContainer component adapts height based on height of current screen
+
+##### MLO Sites
+
+- Removed hover state for links on mobile
+- Center info in sidebar for desktop
+
+##### OneTrustMarketing
+
+- Updated promo store link
+
+##### Sanctuary Funding
+
+- Re-installed Sage theme with Tailwind instead of Bootstrap
+
+#### Personal
+
+##### Garlic
+
+- Image upload capability for create recipe form, including images in mutation
+- Set up form for adding ingredients
+- Move functions for drawing generic field input elements to hook
+- Hook for creating ingredients from form
+
+---
+
 ### August 8, 2019
 
 #### Work
@@ -28,6 +62,7 @@
 
 - Add and remove steps and ingredients on create recipe form
 - Built ingredient search functionality when adding new ingredient
+- Working mutation to create new recipes from front end form
 - Create main context
 - Moved ingredients query to main context, hook to get ingredients
 
