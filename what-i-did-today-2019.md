@@ -4,6 +4,36 @@
 
 ---
 
+### August 8, 2019
+
+#### Work
+
+##### Marketing Orientation Questionnaire
+
+- Set up ScreenTwo with styled components
+- Implemented animated routing with `react-spring`
+
+##### Sanctuary Funding
+
+- Initial project meeting
+- Set up local WP development environment (sanctuary-funding.test) and git repo for `sanctum` theme
+
+##### Accessibility
+
+- Added Tabor to third-party audit sheet
+
+#### Personal
+
+##### Recipe App (Garlic)
+
+- Add and remove steps and ingredients on create recipe form
+- Built ingredient search functionality when adding new ingredient
+- Create main context
+- Moved ingredients query to main context, hook to get ingredients
+
+
+---
+
 ### August 7, 2019
 
 #### Work
