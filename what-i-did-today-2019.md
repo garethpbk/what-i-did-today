@@ -4,6 +4,39 @@
 
 ---
 
+### August 12, 2019
+
+#### Work
+
+##### Marketing Orientation Questionnaire
+
+- Move navigation button components to components directory
+- Set up index files and import/export for all screens
+- Built screens four, five
+
+##### Island Vibez
+
+- Building out designed signatures in HTML
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+
+##### Laracasts
+
+- The PHP Practitioner thru video #7
+
+#### Personal
+
+##### Garlic
+
+- Layout for Recipes listing component
+- Delete old test recipes without images
+- Add new fields to schema to hold more detail for Ingredient and Recipe types
+- IngredientCategory type to strongly categorize ingredients
+
+---
+
 ### August 9, 2019
 
 #### Work
