@@ -4,6 +4,66 @@
 
 ---
 
+### August 13, 2019
+
+#### Work
+
+##### Island Vibez
+
+- Finalized signatures
+- Batch files for installing signatures
+
+##### Branch Pages
+
+- Redirect to thank you page on successful form submission
+- Update graphql API url
+- Update placeholder branch list
+
+##### Business Card Generator
+
+- Added Puerto Rico to list of states
+- Fixed typo in directions
+
+##### OneTrustHomeLoans.com
+
+- Fixed Zillow script, element alignment, and button element on Success Stories page
+
+##### Media Release
+
+- Added Puerto Rico to list of states
+- Fixed Roboto loading
+
+##### Employee Media Release
+
+- Fixed Roboto loading
+- Fixed not found page contrast
+
+##### Sanctuary Funding
+
+- Updated estimated hours in task list
+- Research on requirements for server, needs PHP >= 7.1
+
+##### Misc
+
+- Updated website/applications/servers list
+
+##### Laracasts
+
+- The PHP Practitioner thru video #9
+
+#### Personal
+
+##### Garlic
+
+- IngredientCategory model and resolvers
+- Mutation resolver for creating ingredients with new fields
+
+##### FLAVA
+
+- Updated exhibitor form information
+
+---
+
 ### August 12, 2019
 
 #### Work
@@ -12,7 +72,7 @@
 
 - Move navigation button components to components directory
 - Set up index files and import/export for all screens
-- Built screens four, five
+- Built screens four, five, six
 
 ##### Island Vibez
 
