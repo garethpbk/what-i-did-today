@@ -57,6 +57,9 @@
 
 - IngredientCategory model and resolvers
 - Mutation resolver for creating ingredients with new fields
+- Dynamic options for select elements in form reducer
+- Found some placeholder icons
+- Ingredient categories query in front end, added to add ingredient form
 
 ##### FLAVA
 
