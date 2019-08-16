@@ -4,6 +4,29 @@
 
 ---
 
+### August 16, 2019
+
+#### Work
+
+##### Marketing Orientation Questionnaire
+
+- Save form data to local storage on route change, populate form with data if it's saved
+- Added all fields to summary table
+- Started setting up form submission functionality
+
+#### Personal
+
+##### Garlic
+
+- Found some new colors to try out
+- Styling for form elements and create recipe form
+- Custom checkbox field element
+- Styling for image uploads
+- Delete recipe mutation, hook, and button
+- Add all fields to create recipe form
+
+---
+
 ### August 15, 2019
 
 #### Work

@@ -4,6 +4,14 @@
 
 ---
 
+### August 16, 2019
+
+#### Bosse-de-Nage - Further Still
+
+One of the better 'blackgaze' groups out there...not the most _interesting_ music but solid execution. Not a huge fan of the vocals, yes of the drumming.
+
+---
+
 ### August 15, 2019
 
 #### Beherit - Drawing Down the Moon
