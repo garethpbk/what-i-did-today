@@ -4,6 +4,61 @@
 
 ---
 
+### August 15, 2019
+
+#### Work
+
+##### Marketing Orientation Questionnaire
+
+- Re-run screen height hook when option toggled on screen 8
+- Built out screens 8, 9, 10, 11, 12, 13
+
+##### Sanctuary Funding
+
+- Testing calls to MLO endpoints and displaying data in templates
+
+#### Personal
+
+##### Garlic
+
+- Styled form text input components
+
+---
+
+### August 14, 2019
+
+#### Work
+
+##### Marketing Orientation Questionnaire
+
+- Built screens 7 and 8
+
+##### Sanctuary Funding
+
+- Wrote up tech requirements
+
+##### Island Vibez
+
+- Finalized signatures
+
+##### Misc
+
+- Schedule QC for main OTHL website
+- Fix Business Card Generator deployment url
+
+#### Personal
+
+##### Garlic
+
+- Broke out CreateIngredient into its own component
+- Add new Ingredient fields to model and client-side form for adding ingredients
+
+##### FLAVA
+
+- Updated VOWLS email
+
+---
+
 ### August 13, 2019
 
 #### Work
