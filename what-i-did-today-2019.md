@@ -4,6 +4,28 @@
 
 ---
 
+### August 19, 2019
+
+#### Work
+
+##### Landing Pages
+
+- Looked at options for adding live chat, tested Crisp chat with Gatsby plugin on Bridge LP
+- Added Puerto Rico to list of states for portfolio LPs and paid social LPs
+
+##### Marketing Orientation Questionnaire
+
+- Move field destructuring when rendering fields from screens to hook
+- Implemented validation on input and navigation
+- Allow for multiple validators, split length out of other validators
+- Add validation to every screen and field that needs it
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+
+--- 
+
 ### August 16, 2019
 
 #### Work

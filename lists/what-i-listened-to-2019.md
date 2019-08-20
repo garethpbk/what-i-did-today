@@ -4,6 +4,30 @@
 
 ---
 
+### August 19, 2019
+
+#### Nocturnus - The Key
+
+One of the coolest old death metal albums there is. Space metal!
+
+#### Darkthrone - A Blaze in the Northern Sky
+
+Classic.
+
+#### Cryptopsy - None So Vile
+
+The best album from one of the best death metal bands of the 90s.
+
+##### Windir - 1184
+
+Imagine what could have been if Valfar was not taken so early. A wonderful, unique album that transcends black metal into something all its own.
+
+##### Dead Congregation - Graves of the Archangels
+
+Need to listen more. Would call it "a solid death metal album."
+
+---
+
 ### August 16, 2019
 
 #### Bosse-de-Nage - Further Still
