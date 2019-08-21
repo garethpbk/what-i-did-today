@@ -4,6 +4,14 @@
 
 ---
 
+### August 21, 2019
+
+#### Bolt Thrower - Those Once Loyal
+
+BOLT THROWER!
+
+---
+
 ### August 20, 2019
 
 #### Ved Buens Ende - Written in Waters
@@ -13,6 +21,10 @@ Still nothing that sounds quite like it.
 #### Mastodon - Emperor of Sand
 
 Idk, the 'heavy' songs are pretty weak and the 'rock' songs are pretty boring.
+
+#### Cobalt - Gin
+
+A really cool album from a really unique band. Think I prefer 'Slow Forever' on the whole but this one's a keeper.
 
 ---
 

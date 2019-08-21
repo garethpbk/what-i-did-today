@@ -4,6 +4,28 @@
 
 ---
 
+### August 21, 2019
+
+#### Work
+
+##### Misc
+
+- Calendly call
+
+#### Personal
+
+##### Garlic
+
+- Styling for add ingredient form
+- Loading and success handling for adding ingredients and recipes
+- Update cache on successful ingredient and recipe creation
+
+##### FLAVA
+
+- Various troubleshooting and forms updating
+
+---
+
 ### August 20, 2019
 
 #### Work
