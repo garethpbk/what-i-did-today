@@ -4,6 +4,31 @@
 
 ---
 
+### August 20, 2019
+
+#### Work
+
+##### Sanctuary Funding
+
+- Reinstalled Sage theme base with correct version of `sage-installer` (had to manually swap it out lol)
+- Cloned ACC custom post types plugin as Sanctum custom post types plugin with team member post type, installed on dev site
+
+##### Landing Pages
+
+- Added Crisp chat plugin and component to portfolio LPs, deployed live
+
+##### Business and Commercial Landing Page
+
+- Set up project with repo (cloned from fix and flip LP)
+- Modified component and config names, added PortfolioExplained component
+
+##### Misc
+
+- Fixes to OTHL site from feedback
+- Saved referral partner emails in SharePoint
+
+---
+
 ### August 19, 2019
 
 #### Work

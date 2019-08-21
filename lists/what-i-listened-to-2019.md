@@ -4,6 +4,18 @@
 
 ---
 
+### August 20, 2019
+
+#### Ved Buens Ende - Written in Waters
+
+Still nothing that sounds quite like it.
+
+#### Mastodon - Emperor of Sand
+
+Idk, the 'heavy' songs are pretty weak and the 'rock' songs are pretty boring.
+
+---
+
 ### August 19, 2019
 
 #### Nocturnus - The Key
