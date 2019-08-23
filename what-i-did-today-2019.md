@@ -4,6 +4,30 @@
 
 ---
 
+### August 23, 2019
+
+#### Work
+
+##### Business and Commercial Landing Page
+
+- Added image assets
+- Tweaked styling to acommodate assets and layout
+- Created local plugin to load Drift chat (signed up for Drift account to test), `gatsby-plugin-drift` is broken
+
+#### Personal
+
+##### Garlic
+
+- Made some reuseable styled components generic
+- Styling for Ingredients page
+
+##### gareth.cool
+
+- Started new portfolio project, made some animated stuff stuff
+- Set up Netlify CMS and continuous deployment with Netlify & Github
+
+---
+
 ### August 22, 2019
 
 #### Work
