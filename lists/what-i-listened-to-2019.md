@@ -4,6 +4,26 @@
 
 ---
 
+### August 22, 2019
+
+#### Slough Feg - Digital Resistance
+
+It's definitely a Slough Feg album.
+
+#### Slough Feg - Ape Uprising
+
+A heavier, super rockin' Slough Feg album. Some neat doomy influences.
+
+#### Slough Feg - Down Among the Deadmen
+
+A Slough Feg kinda day!
+
+#### Immortal Bird - Thrive on Neglect
+
+Really cool album. Need to listen more.
+
+---
+
 ### August 21, 2019
 
 #### Bolt Thrower - Those Once Loyal

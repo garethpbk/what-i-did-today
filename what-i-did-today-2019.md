@@ -4,6 +4,35 @@
 
 ---
 
+### August 22, 2019
+
+#### Work
+
+##### Property Development Landing Page
+
+- Set up project with repo (cloned from business and commercial LP)
+- Tested Zendesk chat integration
+
+##### Gatsby Zendesk plugin
+
+- Created `gatsby-plugin-zendesk-chat` to easily add Zendesk chat widget to Gatsby
+- Published to npm, can be installed and used as a Gatsby plugin
+
+##### MLO Sites
+
+- Updated placeholder images on server with accessible versions
+- Updated placeholder images in application to match new images
+
+##### Marketing Orientation Questionnaire
+
+- Started implementing responsive mobile styling
+
+##### Misc
+
+- Tweak Island Vibez signature
+
+---
+
 ### August 21, 2019
 
 #### Work
