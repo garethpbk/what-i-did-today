@@ -4,6 +4,26 @@
 
 ---
 
+### August 27, 2019
+
+#### Work
+
+##### Portfolio Loans LP
+
+- Add field to program data for specific "learn more" text
+
+##### Branch Pages
+
+- Tweaks to CTA bar form styles
+
+#### Personal
+
+##### Cool
+
+- Configured for blog posts with `gatsby-image` included
+
+---
+
 ### August 26, 2019
 
 #### Work
