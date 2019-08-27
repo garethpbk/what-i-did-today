@@ -4,6 +4,36 @@
 
 ---
 
+### August 26, 2019
+
+#### Work
+
+##### Signature Generator
+
+- Update text on login view
+
+##### Landing Pages
+
+- Forked `gatsby-plugin-drift` and added option to enable during development
+- Added image assets to Property Development LP, built and uploaded
+- Added Property Development and Business & Commercial LPs to Portfolio Loans LP
+- Tweaks to styling for Portfolio Loans LP
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+- Scheduled meetings w/ Deque and Siteimprove to learn about their accessibility offerings
+
+---
+
+### August 24 & 25, 2019
+
+##### Garlic
+
+- Components for filtering ingredients
+
+---
+
 ### August 23, 2019
 
 #### Work

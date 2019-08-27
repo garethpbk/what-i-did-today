@@ -4,6 +4,18 @@
 
 ---
 
+### August 26, 2019
+
+#### Tool - Fear Inoculum
+
+It's good! Better than expected! A very mature sounding album that merits many re-listens. Definitely sounds like the summation of their career to this point. Here's hoping they will keep making more music...just not 13 years from now.
+
+#### Weakling - Dead As Dreams
+
+Holy shit! What an album! A true classic, lots of stuff inspired by this but nothing quite like it. The RIFFS are so good.
+
+---
+
 ### August 22, 2019
 
 #### Slough Feg - Digital Resistance
