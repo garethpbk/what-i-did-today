@@ -4,6 +4,29 @@
 
 ---
 
+### August 28, 2019
+
+#### Work
+
+##### A11y
+
+- Call with Deque to see what they offer for a11y auditing services
+
+##### Sanctuary Funding
+
+- Checklist for website
+- Added Vue to sanctum theme, tested integrating components into blade templates
+
+#### Personal
+
+##### Cool
+
+- Context wrapper for shared state
+- Container component
+- Change path of created blog post pages
+
+---
+
 ### August 27, 2019
 
 #### Work
@@ -174,7 +197,7 @@
 
 - Weekly WordPress updates for OTHL, Tabor, Azure Crane
 
---- 
+---
 
 ### August 16, 2019
 
@@ -412,7 +435,6 @@
 - Create main context
 - Moved ingredients query to main context, hook to get ingredients
 
-
 ---
 
 ### August 7, 2019
@@ -458,6 +480,7 @@
 - Finished site, deployed to Netlify for perusal
 
 ##### Portfolio Loans LP
+
 - Redirect to thank you page on successful form submission
 - Resize award logos
 - Replace placeholder loan type with fix and flip loans
@@ -705,7 +728,7 @@
 
 - Went through all pages linked from menus and did a11y audit and logged issues to fix
 - List pages that are published but not linked anywhere
-- Fix color contrast issues on internal pages via stylesheet instead of dashboard CSS editor @_@
+- Fix color contrast issues on internal pages via stylesheet instead of dashboard CSS editor @\_@
 - Tweaks to score 100 on Lighthouse accessibility audit for internal pages
 - Applied fixes to all public-facing pages, 100 Lighthouse score on all pages
 - Reorganized tasks on Basecamp to make it easier to go through them for finality
@@ -926,6 +949,7 @@
 - Sent new builds for deployment
 
 ##### Marketo
+
 - Template troubleshooting
 
 ##### MLO Pages React
@@ -1240,7 +1264,7 @@
 ##### FLAVA
 
 - Helping users login with password reset
-- 
+-
 
 ---
 
@@ -1393,7 +1417,6 @@
 - Director bioString built in function to accommodate exception (no headshot)
 - Blue block headers color changed, size increased
 - Subheader size decreased
-
 
 ##### Bridge Loans LP
 

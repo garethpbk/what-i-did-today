@@ -4,6 +4,18 @@
 
 ---
 
+### August 28, 2019
+
+#### Blut Aus Nord - Deus Salutis Meae
+
+Idk, it's definitely a BAN album. Would have to listen more but if you like their weird black metal/industrial sound this is moreof that. Not a big fan of the vocals.
+
+#### Falls of Rauros - Patterns in Mythology
+
+This album kicks ass. FoR are doing their own thing, they've got their own unique sound. It's black metal, it's uplifting (and not in a blackgaze way), it's complex, layered music.
+
+---
+
 ### August 26, 2019
 
 #### Tool - Fear Inoculum
