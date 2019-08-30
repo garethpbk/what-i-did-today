@@ -4,6 +4,22 @@
 
 ---
 
+### August 30, 2019
+
+#### Immortal - Diabolical Fullmoon Mysticism
+
+Never liked Immortal as much as some of their comrades but definitely a good album, gotta listen to more Immortal.
+
+#### Burzum - Hvis Lyset Tar Oss
+
+What to say about this album, about Burzum? It's a classic, Varg is a piece of shit bad idiot, people will argue about whether you can enjoy art made by bad people until the sun burns out.
+
+#### Leviathan - The Tenth Sub Level of Suicide
+
+Hey, another "I love this album, too bad the artist is an asshole." A good example of what one talented person with a four track recorder can do.
+
+---
+
 ### August 29, 2019
 
 #### Tool - Aenima
