@@ -4,6 +4,18 @@
 
 ---
 
+### August 29, 2019
+
+#### Tool - Aenima
+
+Imagine a Tool that took the sound of this album and expanded on it. I love Lateralus and 10,000 Days is pretty great, but what could have been! "H." might be my favorite Tool song.
+
+#### Emperor - In The Nightside Eclipse
+
+I think this one and the next are masterpieces and I could do without the rest. I AM THEM!
+
+---
+
 ### August 28, 2019
 
 #### Blut Aus Nord - Deus Salutis Meae

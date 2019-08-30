@@ -4,6 +4,36 @@
 
 ---
 
+### August 29, 2019
+
+#### Work
+
+##### MLO Pages
+
+- Tweaks to logo SVGs
+- Add Georgia to list of states for CalCon Get a Quote form
+
+##### Sanctuary Funding
+
+- Drafted outline of website structure
+
+##### Tabor
+
+- Set up local WP installation and dev environment with `sanctum` theme
+
+##### Misc
+
+- Updated list of websites
+- Listed what states are available to choose from on forms for different sites
+
+#### Personal
+
+##### Cool
+
+- Wrote blog post about `useContext()` hook
+
+---
+
 ### August 28, 2019
 
 #### Work
