@@ -4,6 +4,32 @@
 
 ---
 
+### September 3, 2019
+
+#### Falls of Rauros - Hail Wind and Hewn Oak
+
+Probably my favorite FoR album. The Agalloch influence is strong, but their sound is very much their own. Just the right amount of "folk" elements balanced with great black metal instrumentation and vocals.
+
+#### Mutiilation - Hail Satanas We Are the Black Legions
+
+I am pretty meh about LLN in general. This one's fun though. Nice punchy riffs.
+
+#### Nuit Noire/His Electro Blue Voice
+
+Pretty good split, a good pairing. NN's weirdass fairy music goes well with HEBV's sound.
+
+#### Bathory - Bathory
+
+RIP Quorthon one of the all-time greats. Pretty sick
+
+#### Bathory - Under the Sign of the Black Mark
+
+#### Bathory - Blood Fire Death
+
+Today is a Bathory day, eh.
+
+---
+
 ### August 30, 2019
 
 #### Immortal - Diabolical Fullmoon Mysticism

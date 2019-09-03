@@ -4,6 +4,32 @@
 
 ---
 
+### September 3, 2019
+
+#### Work
+
+##### OneTrustMarketing
+
+- Added social media management & consultation flyer to menu of services
+- Added 9/3/19 announcement
+
+##### MLO Pages
+
+- Fixed order of state list
+
+##### Sanctum
+
+- Implement refinance savings calculator in Vue calculators
+- Attempted to integrate calculators into WP theme...mostly successful (styles have to be in separate .scss files)
+
+##### Misc
+
+- Update HBG PDFs with accessible versions (affects MLO pages, branch pages, paid social LPs)
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+- Saved Deque case studies in Vendors
+
+---
+
 ### August 30, 2019
 
 #### Work
