@@ -4,6 +4,35 @@
 
 ---
 
+### September 4, 2019
+
+#### Work
+
+##### OneTrust GraphQL Yoga
+
+- Added state and states list to schema and resolver
+
+##### MLO Sites
+
+- Query for states list from GraphQL API
+
+##### Misc
+
+- Updated states list of othl.com, MLO sites
+
+#### Personal
+
+##### Cool
+
+- Added about and contact pages
+- Added list of projects
+
+##### Misc
+
+- Updated resume
+
+---
+
 ### September 3, 2019
 
 #### Work

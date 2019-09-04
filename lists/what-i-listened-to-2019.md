@@ -4,6 +4,18 @@
 
 ---
 
+### September 4, 2019
+
+#### Mayhem - Wolf's Lair Abyss
+
+Pretty cool really. Mayhem was always a pretty weird band and this is a good example of that.
+
+#### Panopticon - The Crescendo of Dusk
+
+A nice EP, Panopticon's "leftover" tracks are still great.
+
+---
+
 ### September 3, 2019
 
 #### Falls of Rauros - Hail Wind and Hewn Oak
