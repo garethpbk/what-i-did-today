@@ -4,6 +4,26 @@
 
 ---
 
+### September 6, 2019
+
+#### Witch Vomit - Poisoned Blood
+
+The OSDM revival thing is neat. Not my favorite kind of music and tbh it all kinda runs together for me but these guys are hella solid.
+
+#### Kayo Dot - Blasphemy
+
+What can you expect from a new Kayo Dot record? That it won't really sound like anything they've put out before, or probably anything else. Holds true here. Gonna have to listen to it a few more times to form a solid opinion, but first impression is positive. More interesting songwriting than their last album, an exploration of styles ranging from darkwave to prog rock to vague metal-adjacent...something. Choirs of the Eye will probably always be my favorite of theirs, but forever kudos to Toby Driver for always looking forward.
+
+#### Armagedda - I Am
+
+Not their best work but it's a fun little EP.
+
+#### Alcest - Le Secrete
+
+I've listened to this so many times and to be honest I don't love it but it's a nice thing and I am glad it exists.
+
+---
+
 ### September 5, 2019
 
 #### Darkthrone - Transilvanian Hunger

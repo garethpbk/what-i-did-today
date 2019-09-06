@@ -4,6 +4,20 @@
 
 ---
 
+### September 6, 2019
+
+#### Work
+
+##### Marketo
+
+- Figured out how to use Velocity to render dynamic table elements (i.e. dynamic elements are separate tables)
+
+##### OneTrustHomeLoans.com
+
+- Wrote script to pull in states for form select from GraphQL API (use same data source as LPs & MLO sites)
+
+---
+
 ### September 5, 2019
 
 #### Work
