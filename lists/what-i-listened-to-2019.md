@@ -4,6 +4,30 @@
 
 ---
 
+### September 5, 2019
+
+#### Darkthrone - Transilvanian Hunger
+
+For my money the best of the second wave Norwegian albums that came out around this time. If someone were to ask "what is black metal" this is the album I'd point them to.
+
+#### Mayhem - De Mysteriis Dom Sathanas
+
+Tight riffing and drumming! The guitar tone on this album is so weird. It's like weak but powerful simultaneously. I love this album. Funeral Fog remains the only Mayhem song I ever learned to play all of the riffs for consistently, many years ago...
+
+#### Armagedda - Only True Believers
+
+This is like, rock n' roll black metal. Not 'black n roll' or whatever, just black metal with some really rockin' punky riffage. Mid-late 2000s Darkthrone kinda sounds like this (and parts of it sound like 90s Darkthrone), wouldn't be surprised if Fenriz was a fan. There's also some slower songs that are executed just as well. A well-rounded album.
+
+##### Rotting Christ - Triarchy of the Lost Lovers
+
+Never listened to this band before, but I like this a lot! The gothy sound is great, there's all kinds of stuff going on here. Pinch harmonics, blast beats and stuff, but there's a really solid foundation under it all.
+
+##### Drudkh - Autumn Aurora
+
+Turns out Drudkh is basically nsbm, welp, gotta stop listening to them :/
+
+---
+
 ### September 4, 2019
 
 #### Mayhem - Wolf's Lair Abyss

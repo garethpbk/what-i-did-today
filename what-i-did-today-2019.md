@@ -4,6 +4,28 @@
 
 ---
 
+### September 5, 2019
+
+#### Work
+
+##### MLO Sites
+
+- Use remote data source for list of states in form select
+
+##### Portfolio Landing Pages
+
+- Update all LPs to use remote data source for list of states in form select
+
+##### Marketo
+
+- Attempting to get Velocity to dynamically render HTML in a table (doesn't work because Marketo suuucckkksss)
+
+##### Misc
+
+- Estimated hours for Broch LPs
+
+---
+
 ### September 4, 2019
 
 #### Work
