@@ -4,6 +4,30 @@
 
 ---
 
+### September 9, 2019
+
+#### Work
+
+##### Broch LPs
+
+- Desktop wireframes for 3 different loan type sites
+
+##### Paid Social LPs
+
+- Use remote data source for states list with local fallback
+
+##### Calendar
+
+- Tested embedding YouCanBookMe widget into Business & Commercial Loan LP
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+- Redirect broken URL on othl.com slideshow to a not broken URL
+- Sign up for Drift account with marketing email
+
+---
+
 ### September 6, 2019
 
 #### Work

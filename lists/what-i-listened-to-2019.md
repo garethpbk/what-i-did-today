@@ -4,6 +4,26 @@
 
 ---
 
+### September 9, 2019
+
+#### Dawn Ray'd - A Thorn, A Blight
+
+Their sound suits their politics well. Not my favorite, but I'll listen to their other stuff for sure.
+
+#### Mizmor - Cairn
+
+Been waiting for this one for a while despite never listening to his earlier stuff much. It's neat, definitely music for a certain mood. Very dooooooom.
+
+#### Beherit - Drawing Down the Moon
+
+Supposedly Euronymous hated these guys, right? Probably was just jealous of 'em and how much better they were at making interesting, original music. It's like Bathory on cough syrup.
+
+#### Darkspace - Dark I
+
+Coolest stuff ever. Cold as space. Tbh I could do without the samples.
+
+---
+
 ### September 6, 2019
 
 #### Witch Vomit - Poisoned Blood
