@@ -4,6 +4,19 @@
 
 ---
 
+### September 10, 2019
+
+##### Broch LPs
+
+- Mobile wireframes for 3 different loan type sites
+
+##### Misc
+
+- Server requirements for Tabor
+- Documented how dynamic list of states from GraphQL server works
+
+---
+
 ### September 9, 2019
 
 #### Work

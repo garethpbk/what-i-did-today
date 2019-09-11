@@ -4,6 +4,18 @@
 
 ---
 
+### September 10, 2019
+
+#### Brocas Helm - Defender of the Crown
+
+I find this kind of heavy metal kind of hit or miss and this one's definitely a hit. Wish these guys had kept making more music.
+
+#### Emperor & Thorns - Emperor vs Thorns
+
+No clue what to think of this. I like both of the groups but this feels...unnecessary?
+
+---
+
 ### September 9, 2019
 
 #### Dawn Ray'd - A Thorn, A Blight
