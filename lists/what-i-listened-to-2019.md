@@ -4,6 +4,14 @@
 
 ---
 
+### September 11, 2019
+
+#### Emperor - Anthems to the Welkin at Dusk
+
+Have I mentioned that I love this album? It might be my favorite of the 90s Norwegian second wave. I know I said Transilvanian Hunger was earlier but this one is too. It's such a neat sound, innovative and symphonic without sounding cheap or weak. "With Strength I Burn" it probably the standout track. Later Emperor albums and Ihsahn's solo stuff never did it for me, but this one is a true classic 10/10.
+
+---
+
 ### September 10, 2019
 
 #### Brocas Helm - Defender of the Crown

@@ -4,7 +4,33 @@
 
 ---
 
+### September 11, 2019
+
+#### Work
+
+##### OneTrust Marketing
+
+- Added 9/11/2019 announcement
+
+##### Marketo
+
+- Test adding a second condition to Velocity tokens in dynamic weekly emails
+
+##### Sanctum
+
+- Started desktop wireframes
+
+#### Personal
+
+##### React Meetup Presentation
+
+- Finished presentation on `styled-components`
+
+---
+
 ### September 10, 2019
+
+#### Work
 
 ##### Broch LPs
 
