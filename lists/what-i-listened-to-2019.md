@@ -4,6 +4,22 @@
 
 ---
 
+### September 12, 2019
+
+#### Atlantean Kodex - The Golden Bough
+
+The only two bands I know of who acknowledge being directly inspired by Robert Graves are these guys and, oddly enough, Protest the Hero. The Golden Bough, the book, has been sitting on my shelf for a few weeks now, after I picked it up at a used bookstore. Been meaning to read it for a while. Anyway, this album is really great, epic historical metal and it's a nice bonus that it touches on my literary interests. Some of the lyrical content is...troubling, but the history it's referencing is troubling too ("Saracen hordes," huh). Apparently their latest album deals with non-European history so that'll be a nice change.
+
+#### Atlantean Kodex - The White Goddess
+
+And now the one actually named after Graves's book. I eagerly await "The Witch-Cult in Western Europe" to complete the trifecta of "20th century Western folklore books that are all bullshit but I still believe in them." Yes I kow the Golden Bough was published in 1890 ok. Anyway this album owns too. "Sol Invictus" is far and away the best track, a bold decision to open the album with it, but the rest is pretty good too. Some troubling stuff here too, maybe go lighter on the Churchill next time y'all?
+
+#### Bathory - Blood Fire Death
+
+I think this era Bathory may be my favorite Bathory. Got all the epicness of the later stuff and all the heaviness of the earlier. "A Fine Day to Die" is my favorite Bathory track.
+
+---
+
 ### September 11, 2019
 
 #### Emperor - Anthems to the Welkin at Dusk

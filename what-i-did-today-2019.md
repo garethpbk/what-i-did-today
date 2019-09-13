@@ -4,6 +4,24 @@
 
 ---
 
+### September 12, 2019
+
+#### Work
+
+##### OneTrust Marketing
+
+- Added 9/12/2019 announcement
+
+##### Sanctum
+
+- Continued working on desktop wireframes
+
+##### Misc
+
+- Attended Marketo User Group meeting
+
+---
+
 ### September 11, 2019
 
 #### Work
@@ -25,6 +43,7 @@
 ##### React Meetup Presentation
 
 - Finished presentation on `styled-components`
+- Gave presentation @ SDJS React
 
 ---
 
