@@ -4,6 +4,18 @@
 
 ---
 
+### September 13, 2019
+
+#### Bell Witch - Mirror Reaper
+
+Probably the best thing they have released, at least my favorite. Very moving. I don't know what to even call this music, post-doom metal? But not like "post-metal" that's more like atmospheric sludge like Cult of Luna or whatever. This is like post-traditional-doom-metal. Warning on dramamine. Whatver it's cool as hell and I can't wait to see what they do next.
+
+#### Atlantean Kodex - The Course of Empire
+
+This is actually kinda disappointing on first listen. The production is more complex, lots of layers and backing vocals and stuff, but I don't think the music benefits from it...nothing is quite as memorable, everything feels a bit slower. Their lyrics are definitely dumb as hell too oooh ahh ~ ever westward, the course of empire ~ dumb shit y'all. All this said I'll give it some more listens because I don't think it's _bad_ necessarily.
+
+---
+
 ### September 12, 2019
 
 #### Atlantean Kodex - The Golden Bough

@@ -4,6 +4,35 @@
 
 ---
 
+### September 16, 2019
+
+#### Work
+
+##### Sanctum
+
+- Finished first draft of desktop wireframes
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+- BAI training thing
+
+---
+
+### September 13, 2019
+
+#### Work
+
+##### Sanctum
+
+- Continued working on desktop wireframes, first draft pretty much done
+
+##### Portfolio Loans LP
+
+- Replace images with full-size version to ensure quality
+
+---
+
 ### September 12, 2019
 
 #### Work
