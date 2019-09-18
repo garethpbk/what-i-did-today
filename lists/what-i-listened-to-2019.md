@@ -4,6 +4,30 @@
 
 ---
 
+### September 18, 2019
+
+#### Conan - Blood Eagle
+
+Not sure what to think, it's sort of awkwardly in between being heavy slow doomy stuff and faster rocky stuff? But can't decide which? I _like_ it but on first listen not very memorable.
+
+#### Kayo Dot - Blue Lambency Downward
+
+Idk, one of my least favorite Kayo Dot releases. Don't care much for the jazzy influences and all the woodwinds.
+
+#### Wolves in the Throne Room - Diadem of 12 Stars
+
+What do you get when you take some nature-loving Cascadian metallers who really like Weakling? Some sick as hell music that's what. You can cry about how it doesn't do anything new or is derivative or whatever, who gives a shit, it's really tight, inspired music that succeeds 100% in what it's trying to do. Throw it up there with "Pale Folklore" as some of the best stuff to come out of the PNW. Never listened to their later stuff much, maybe it's good too, but I could spin this one all day.
+
+---
+
+### September 16, 2019
+
+#### Wampyric Rites - Demo II
+
+Good stuff, production is just right for this kinda thing. Synth tracks are meh, guitars are real good.
+
+---
+
 ### September 13, 2019
 
 #### Bell Witch - Mirror Reaper
