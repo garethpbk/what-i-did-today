@@ -4,6 +4,34 @@
 
 ---
 
+### September 20, 2019
+
+#### Witchfinder General - Death Penalty
+
+So good I listened to it again. The Black Sabbath influence is obvious but they got their own sound. I think this band is highly underrated for how influential they were.
+
+#### Count Raven - Storm Warning
+
+An album from 1990 that sounds like it should have come out 5 years earlier. Don't mean that as a criticism, it really nails the Sabbath-worship sound.
+
+#### Trespasser - Suffer Alone, Suffer Together
+
+Apparently there are two crusty bands called Trespasser? This is the Australian one. It's pretty straightforward sludgy hardcore/crusty metal/whatever, it's heavy and it's nice to listen to.
+
+#### Panopticon - Kentucky
+
+Probably the best and most important USBM act around, at least my favorite. I remember when this came out in 2012 and being like, wtf, banjos, in my black metal!? But this is an American artist embracing America's own folk music, and it works wonderfully. This album's a bit more rough than the later ones, the vastly different musical styles don't quite mesh together as well sometimes, but that's a minor nitpick - it's amazing, emotional music with a fantastic pro-worker message. Austin Lunn is the man. I hope he keeps making music forever.
+
+#### Ulver - Bergtatt
+
+Ulver's original trilogy will always be my favorite thing they've done and some of my favorite music ever. This album feels so far ahead of its time.
+
+#### Ulver - Kveldssanger
+
+Part 2 is just as good as the first. Didn't make it to Nattens Madrigal today. Maybe later.
+
+---
+
 ### September 19, 2019
 
 #### Dopelord - Magick Rites

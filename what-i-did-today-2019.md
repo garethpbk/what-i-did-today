@@ -4,6 +4,29 @@
 
 ---
 
+### September 20, 2019
+
+#### Work
+
+##### Sanctum
+
+- Building out custom settings page
+- Set up getting values from options into form for posting to LoanForce
+
+##### OneTrustMarketing
+
+- Added 9/20/19 announcement
+
+##### Portfolio LPs
+
+- Configured all LPs for deployment with Draft chat enabled and deployed
+
+##### OneTrustHomeLoans.com
+
+- Updated Privacy Policy page to use HTML table instead of image of table
+
+---
+
 ### September 19, 2019
 
 #### Work
