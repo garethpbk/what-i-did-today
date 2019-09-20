@@ -4,6 +4,23 @@
 
 ---
 
+### September 19, 2019
+
+#### Work
+
+##### Sanctum
+
+- Finished first draft of mobile wireframes
+- Started building Schedule a Consultation page template and Vue form component
+- Starting figuring out how to properly add new settings
+
+##### Tabor New Site
+
+- Created all pages in WP
+- Installed `Redirection` plugin (see how this works, could use something simpler)
+
+---
+
 ### September 18, 2019
 
 #### Work

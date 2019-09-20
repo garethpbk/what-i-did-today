@@ -4,6 +4,18 @@
 
 ---
 
+### September 19, 2019
+
+#### Dopelord - Magick Rites
+
+These guys rule, I like that they're not very aggressive but still heavy.
+
+#### Witchfinder General - Death Penalty
+
+I need to listen to this band (and their contemporaries) more. So fuckin good.
+
+---
+
 ### September 18, 2019
 
 #### Conan - Blood Eagle
