@@ -4,6 +4,22 @@
 
 ---
 
+### September 23, 2019
+
+#### Work
+
+##### Sanctum
+
+- Figured out how to properly set image uploads in settings page with WP media library
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+- Figured out stupid bad OTHL.com slider content
+- Saved Broch LP wireframes to SharePoint and closed out task
+
+---
+
 ### September 20, 2019
 
 #### Work

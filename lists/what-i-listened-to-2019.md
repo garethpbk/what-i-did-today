@@ -4,6 +4,30 @@
 
 ---
 
+### September 23, 2019
+
+#### Black Sabbath - Master of Reality
+
+It would be fair to say that no one ever did it better than this album.
+
+#### Flower Travellin' Band - Satori
+
+Wild stuff, ahead-of-its-time, etc etc etc.
+
+#### Manilla Road - Crystal Logic
+
+One of my fave heavy metal albums. The duo of 'Necropolis'/'Crystal Logic' is something I could listen to over and over.
+
+#### Manilla Road - Mystification
+
+A little more sophisticated, a little faster. Not my fave of theirs but a solid album no doubt.
+
+#### Darkthrone - Under a Funeral Moon
+
+Occupies a weird place. On one hand it's got riffs and beats and solos that wouldn't be out of place on a death metal release, e.g. Soulside Journey. On the other there's plenty to hint at the sound that would come into maturity with Transilvanian Hunger. There's even like, breakdowns? I guess the progression from SJ -> Blaze -> this -> TH is pretty clear but it's very interesting. Honestly it sounds more like early Bathory than anything else. Sometimes. But then there's weird shit like the last track that doesn't sound like anything else.
+
+---
+
 ### September 20, 2019
 
 #### Witchfinder General - Death Penalty
