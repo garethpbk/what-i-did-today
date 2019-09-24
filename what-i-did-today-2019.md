@@ -4,6 +4,23 @@
 
 ---
 
+### September 24, 2019
+
+#### Work
+
+##### Sanctum
+
+- Tweaks to desktop and mobile wireframes
+- Set up sub-section of settings menu for each settings category
+- Settings categories built out: company info, brand, contact info, social media, LoanForce info
+- Add Tailwind to admin dashboard to use in settings setup
+
+##### Business Card Generator
+
+- Debugging why it suddenly does not work (probably server PHP version upgrade)
+
+---
+
 ### September 23, 2019
 
 #### Work

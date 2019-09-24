@@ -4,6 +4,34 @@
 
 ---
 
+### September 24, 2019
+
+#### Electric Citizen - Sateen
+
+As far as 2010s-era-Black-Sabbath-esque-bands-with-a-woman-singing go, this one is pretty solid. Nothing revolutionary but it's fun and catchy. The slower track 'Hawk Nightingale' is probably the weakest, they're best when they're rocking out. There are some more interesting bits like the bongo (?) breakdown on 'Burning in Hell,' which is the best track on the album.
+
+#### Brocas Helm - Black Death
+
+Pretty good but the production is a bit of a drag (and inconsistent). Maybe it was an intentional choice to have the vox sound faded and weak on tracks like 'Fly High' but I don't much like it. The album has a really _weird_ sound, and one wonders if that was on purpose, or just a side effect of the production? On the plus side the bass is usually strong, and there's enough excellent guitar work here to make this one a keeper.
+
+#### Cirith Ungol - King of the Dead
+
+There is something very funny about a band named after Lord of the Rings that used Michael Moorcock book covers for their album art. Cirith Ungol loved both and so do I. Their music is good too. The vocals take a bit to get used to, but it's fitting for the type of stuff they're doing. A legendary band, this is possibly their best album.
+
+#### Hammers of Misfortune - The Bastard
+
+An underrated group if ever there was one, this album's all over the place. So many cool ideas and different styles brought in. Only weakness is the harsh vocals which are just not well done.
+
+#### Graveyard - Graveyard
+
+Cool Swede rock n' roll. The songs kinda blend together but there's some great ones like 'Satan's Finest' and 'Blue Soul.'
+
+#### Warning - Watching From a Distance
+
+I wiiisshhh that yooouu were with me toooooniiigghhttt...
+
+---
+
 ### September 23, 2019
 
 #### Black Sabbath - Master of Reality
