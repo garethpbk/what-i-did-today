@@ -4,6 +4,26 @@
 
 ---
 
+### September 25, 2019
+
+#### Hammers of Misfortune - Dead Revolution
+
+Listening to this after their first album yesterday is interesting! There's a lot in common - galloping guitars, sorta "epic" narrative style - but also a lot different. This one is very prog, very prog rocky at times on some tracks. It's good, I dunno how much I will listen to it, but it's cool stuff.
+
+#### Christian Mistress - Possession
+
+Aw yeah, this is the shit. Call it a "retro" sound or whatever, it's pure heavy metal with a great singer and really good production. Every instrument gets a chance to shine and it rocks hard.
+
+#### Tanith - In Another Time
+
+A very accurate album title. The dueling/complimentary vocals are good. Merits more listening.
+
+#### Twisted Tower Dire - Crest of the Martyrs
+
+Kind of a goofy record, but then again I guess it is power metal. Always had a soft spot for these guys as fellow Northern Virginia natives. I don't much care for power metal in general but this is a group I'd listen to more than most.
+
+---
+
 ### September 24, 2019
 
 #### Electric Citizen - Sateen

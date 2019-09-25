@@ -4,6 +4,28 @@
 
 ---
 
+### September 25, 2019
+
+#### Work
+
+##### Bank Statement LP
+
+- Cloned project from Fix & Flip LP
+- Modified project with Bank Statement assets & content
+- Set up & deployed Netlify test and live sites
+- Set up repo on Bitbucket
+
+##### Portfolio Loans LP
+
+- Added Bank Statement LP entry to loan programs
+- Deployed update to Netlify (not live yet, make sure Bank Statement LP resolves properly first)
+
+##### Sanctum
+
+- Added blog pages to wireframes
+
+---
+
 ### September 24, 2019
 
 #### Work
