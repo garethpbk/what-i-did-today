@@ -4,6 +4,28 @@
 
 ---
 
+### September 26, 2019
+
+#### Witchcraft - Witchcraft
+
+Maybe my favorite modern band that sound like a 70s band. A strong debut for sure.
+
+#### Witchcraft - Firewood
+
+#### Witchcraft - The Alchemist
+
+Today I will probably listen to all Witchcraft albums. They get a bit better produced as they go on but don't lose any of the sound. 'Samaritan Burden' is a (I think) obvious Tool tribute song, a really good one! Has some of my favorite Witchcraft tracks like 'Remembered' with the saxaphone and all.
+
+#### Witchcraft - Legend
+
+They got a much "fuller" sound here. Production is no longer vintage, very modern rocky. It's different! By far the most poppy stuff they've put out at this point. Some real earworms here...'Ghosts House' for example.
+
+#### Witchcraft
+
+Hey, Witchcraft gets really doomy! Gone completely is the vintage sound. They're a straight up doomy rock band now. It's very good. Monumental tracks like 'Maelstrom' and 'Nucleus' are rounded out by some of their best rockers like 'The Outcast.'
+
+---
+
 ### September 25, 2019
 
 #### Hammers of Misfortune - Dead Revolution

@@ -4,6 +4,24 @@
 
 ---
 
+### September 26, 2019
+
+#### Work
+
+##### Sanctum
+
+- Completed blog and press release wireframes for desktop and mobile
+- Nav menu ideas in wireframes
+- Mortgage calculator layout redesign in wireframes
+- Adjustments to page/section title sizes in desktop wireframes
+- Add styling classes to admin settings sections
+
+##### Portfolio Loans LP
+
+- Deployed to live URL
+
+---
+
 ### September 25, 2019
 
 #### Work
