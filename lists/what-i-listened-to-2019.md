@@ -4,6 +4,26 @@
 
 ---
 
+### October 1, 2019
+
+#### Hour of 13 - The Ritualist
+
+I will listen to this band more. Cool blend of heavy/doom.
+
+#### Jawbreaker - Live 4/30/96
+
+Woulda been super sick to see this show when I was 5 years old!!
+
+#### Warning - Watching From a Distance
+
+Yeeeep.
+
+#### Reverend Bizarre - Crush the Insects
+
+A modern doom classic, didn't finish listening today, will tomorrow.
+
+---
+
 ### September 30, 2019
 
 #### Oathbreaker - Rheia
@@ -20,7 +40,7 @@ Epic heavy metal about fantasy, sword & sorcery, and ancient Rome!? Sign me up! 
 
 #### Christian Mistress - To Your Death
 
-Much more hard rock and less heavy metal than their last album. Not sure if I like that, but that's just my preference - it's good for what it is. Still has plenty of cool colos and guitar work and stuff. Vocals remain great. The bonus track is cool, kinda has a d-beat thing going on.
+Much more hard rock and less heavy metal than their last album. Not sure if I like that, but that's just my preference - it's good for what it is. Still has plenty of cool solos and guitar work and stuff. Vocals remain great. The bonus track is cool, kinda has a d-beat thing going on.
 
 #### Death Penalty - Death Penalty
 

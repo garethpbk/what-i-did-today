@@ -4,6 +4,26 @@
 
 ---
 
+### October 1, 2019
+
+#### Work
+
+##### Sanctum
+
+- Register and create three footer menus
+- Skeleton of footer layout with all available data included
+- Improve schedule consultation form and page template
+- Add cta bar option to footer (via template -> layout -> footer)
+- Set up custom fields and added to template for team page
+- Set up template for contact us page with Google Maps script
+- Add Google Maps api key setting to company info settings
+- Add z-index to menu dropdowns to make sure they appear above map
+- Set up custom fields and template for mission statement page
+- Set up custom fields and template for reviews & testimonials page
+- Started setting up custom fields and template for first time homebuyers page
+
+---
+
 ### September 30, 2019
 
 #### Work
