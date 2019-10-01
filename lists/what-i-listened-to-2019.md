@@ -4,6 +4,42 @@
 
 ---
 
+### September 30, 2019
+
+#### Oathbreaker - Rheia
+
+Oathbreaker gets lumped in with the "post-black metal/blackgaze" scene which is probably more fitting than anything else, but they also don't sound much like anything else in that space. Epic and emotional without even a hint of cheese, this album is just badass. Most of the interest comes from the soft/loud clean/harsh dynamics but on tracks like 'Where I Leave' they show just how capable they are of crafting grandiose songs that buildup over almost ten minutes. Vibes of The Ocean, one of my favorite bands, here, very nice.
+
+#### Devil's Witches - Porno Witch
+
+New Devil's Witches single is something to get excited about. His first full-length Velvet Magic is so good. This song's good too, a bit slower and more down, but fitting for the theme.
+
+#### Lunar Shadow - Far From Light
+
+Epic heavy metal about fantasy, sword & sorcery, and ancient Rome!? Sign me up! It's not bad but not great. The production feels a bit thin, musically there's plenty of fun stuff going on, but nothing is quite as bombastic as it could/should be. Some Bal-Sagoth vibes. I'll definitely listen to the newer album and see how it compares.
+
+#### Christian Mistress - To Your Death
+
+Much more hard rock and less heavy metal than their last album. Not sure if I like that, but that's just my preference - it's good for what it is. Still has plenty of cool colos and guitar work and stuff. Vocals remain great. The bonus track is cool, kinda has a d-beat thing going on.
+
+#### Death Penalty - Death Penalty
+
+Oh hey a band named after Witchfinder General, cool. It's good stuff if a bit unmemorable at first listen. Never got into Cathedral so no attachment there. But there's a great blend of faster stuff and slow doomy stuff.
+
+---
+
+### September 27, 2019
+
+#### Opeth - In Cauda Venenum
+
+Hey a new Opeth album! Well, it's certainly ok and feels like the culmination of what their most recent sound has been working towards. Unfortunately I don't care for that sound much and this album is pretty boring on first listen. Maybe I will try the Swedish version. Opeth is a prog rock band now and that's fine and if you like prog rock you'll probably like this.
+
+#### Wovenhand - Star Treatment
+
+There ain't anything else out there that sounds like Wovenhand. David Eugene Edwards is one of the best musicians alive today. He's like weird Calvinist Michael Gira. This album is pretty dense and hard to get into but totally worth listening to several times.
+
+---
+
 ### September 26, 2019
 
 #### Witchcraft - Witchcraft

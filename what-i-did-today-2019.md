@@ -4,6 +4,43 @@
 
 ---
 
+### September 30, 2019
+
+#### Work
+
+##### Marketo
+
+- Social Media Management & Consultation email HTML first draft (arghhhh Outlook arrrgghhh)
+
+##### Sanctum
+
+- Replace individual functions for custom fields with one generic function in home controller
+- Extract (placeholder) button to class
+- Add home page call to action buttons
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+- Added Bank Statement Loans link to OTHL dropdown menu
+
+---
+
+### September 27, 2019
+
+#### Work
+
+##### Sanctum
+
+- Continue styling custom settings
+- Only enqueue custom admin styles on custom settings pages, not full WP admin
+- Created files for all unique page templates
+- Set up all pages in WordPress with template selected
+- Added loan application URL field to company info settings
+- Build header nav menu markup with temporary styling
+- Started building blade components and controller for home page
+
+---
+
 ### September 26, 2019
 
 #### Work
