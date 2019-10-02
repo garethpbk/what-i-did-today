@@ -4,6 +4,26 @@
 
 ---
 
+### October 2, 2019
+
+#### Woods of Ypres - Pursuit of the Sun & Allure of the Earth
+
+Somebody get David Gold some sunglasses! RIP.
+
+#### Modest Mouse - The Lonesome Crowded West
+
+Is this the best Modest Mouse album? Very possibly. Not a single weak track and they're all wildly different.
+
+#### Pinback - Autumn of the Seraphs
+
+Never listened to any Pinback outside of Summer in Abaddon, which I really like. Turns out this album is good too!
+
+#### Hop Along - Bark Your Head Off, Dog
+
+I really love the song 'Not Abel' but never listened to this whole album til now, it's all good too!
+
+---
+
 ### October 1, 2019
 
 #### Hour of 13 - The Ritualist

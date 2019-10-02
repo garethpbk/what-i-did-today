@@ -4,6 +4,29 @@
 
 ---
 
+### October 2, 2019
+
+#### Work
+
+##### Sanctum
+
+- Add parent slug to body class of nested pages
+- HB Guide form Vue component, added to first time homebuyer pages
+- Set up custom fields and template for home buying process page
+- Set up custom fields and template and vue component for getting pre-approved page with checklist form
+- Installed ACF pro (to use repeater fields)
+- Set up custom fields and template for faqs page
+- Set up custom fields and template for careers page
+- Set up custom fields and template for home loan options page
+- Tweaks to mortgage calculators page template
+
+##### Misc
+
+- Add extra compliance language to OTHL.com licensing page
+- BAI course
+
+---
+
 ### October 1, 2019
 
 #### Work
