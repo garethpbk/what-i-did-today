@@ -4,6 +4,21 @@
 
 ---
 
+### October 3, 2019
+
+#### Work
+
+##### Sanctum
+
+- Add reviews, blog posts, & press releases post types to post type plugin
+- Controller and views for reviews posts on home and reviews pages
+- Custom fields and templates for blog posts list page and individual blog post page
+- Custom fields and templates for press releases list page and individual press release page
+- Started mobile styling for home, about, first time homebuyer pages
+- Mobile styling and JS for FAQ togglers
+
+---
+
 ### October 2, 2019
 
 #### Work

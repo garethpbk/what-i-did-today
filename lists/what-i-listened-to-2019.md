@@ -4,6 +4,30 @@
 
 ---
 
+### October 3, 2019
+
+#### Rainer Maria - Look Now Look Again
+
+Less messy, more melodic, more mature than their first album, but still not very polished. It fuckin' rules. Some of their best songs - 'Breakfast of Champions,' 'The Reason the Night is Long' - are to be found here. Like if u cry every time u listen to Rainer Maria.
+
+#### Saetia - Collected
+
+Probably my favorite of the classic 90s skramz acts. Well maybe City of Caterpillar is. But Saetia is really really great. 'Some Natures Catch No Plagues' and 'Venus and Bacchus' are undoubtedly my favorite tracks.
+
+#### Neurosis & Jarboe - Neurosis & Jarboe
+
+Is it the best work either of these have put out on their own? No, but it's still a really neat collaboration and I wish they would have done more. Neurosis has never like they do on this album anywhere else, straddling the line between their doomy/sludgy side and the more noisy parts a la Tribes of Neurot. Jarboe is the perfect singer for this stuff.
+
+#### While Heaven Wept - Of Empires Forlorn
+
+Well this is interesting. Doom prog pop rock? Idk it's kinda cool I'll listen to more.
+
+#### Jawbreaker - Dear You
+
+Oh no a ~divisive album~ well I like it. Some of the best Jawbreaker tracks like 'Bad Scene, Everybody's Fault' and 'Accident Prone' are the be found here for godsakes!
+
+---
+
 ### October 2, 2019
 
 #### Woods of Ypres - Pursuit of the Sun & Allure of the Earth
