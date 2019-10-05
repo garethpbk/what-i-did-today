@@ -4,6 +4,23 @@
 
 ---
 
+### October 4, 2019
+
+#### Work
+
+##### Sanctum
+
+- Mobile styling for home loan options, calculators, careers, blog, press release pages
+- Menu styling for responsive mobile and desktop (this can be cleaned up maybe idk with a walker?)
+- Border styles for team member headshots
+
+##### Misc
+
+- Fix typo on Fix & Flip LP
+- Updated JoinOneTrust top producers images
+
+---
+
 ### October 3, 2019
 
 #### Work

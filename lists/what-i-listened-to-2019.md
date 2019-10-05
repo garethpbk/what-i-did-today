@@ -4,6 +4,22 @@
 
 ---
 
+### October 4, 2019
+
+#### Pinback - Information Retrieved
+
+Another good Pinback album, yep.
+
+#### Gatecreeper - Deserted
+
+Aw yeah this rips. Couldn't get into their last release but this one's real cool.
+
+#### Brothertiger - Out of Touch
+
+'High Tide' is a _really_ good song and the rest are ok, don't catch my ear really but pleasant enough.
+
+---
+
 ### October 3, 2019
 
 #### Rainer Maria - Look Now Look Again
