@@ -4,6 +4,16 @@
 
 ---
 
+### October 7, 2019
+
+#### Pinback - Summer in Abaddon (15th Anniversary Edition)
+
+- My favorite Pinback album no doubt. Cool to do a re-release of a classic.
+
+#### Hop Along - Painted Shut
+
+---
+
 ### October 4, 2019
 
 #### Pinback - Information Retrieved

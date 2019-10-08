@@ -4,6 +4,31 @@
 
 ---
 
+### October 7, 2019
+
+#### Work
+
+##### Sanctum
+
+- Misc style tweaks to prepare for implementing design
+- Filter out team members who don't have headshots in LoanForce
+- Template partial for individual team members
+- Add brand extra color setting to brand settings
+- PHP partial for inserting stylesheet with dynamic brand color
+- Styling nav to match design using brand color
+- Custom nav walker for footer menus to style with Tailwind
+
+##### OneTrustMarketing
+
+- Remove old inactive campaign from menu of services
+- Add new ListReports application from menu of services
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+
+---
+
 ### October 4, 2019
 
 #### Work
