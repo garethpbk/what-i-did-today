@@ -4,6 +4,26 @@
 
 ---
 
+### October 9, 2019
+
+#### Explosions in the Sky - The Wilderness
+
+- Really different from the EitS I used to listen to a lot, it's cool tho
+
+#### Caspian - Dust and Disquiet
+
+- A band I didn't listen to enough in the past, really good dynamics and variation here
+
+#### Explosions in the Sky - All of a Sudden I Miss Everyone
+
+- Don't make me cry at my desk at work ok ok
+
+#### Pelican - Arktika
+
+- Never got the chance to see Pelican live, I bet they would have been good!
+
+---
+
 ### October 7, 2019
 
 #### Pinback - Summer in Abaddon (15th Anniversary Edition)

@@ -4,6 +4,22 @@
 
 ---
 
+### October 9, 2019
+
+#### Work
+
+##### Bank Statement LP
+
+- Using this LP to build YouCanBookMe Calendar embed into portfolio LPs
+- Added modal component, styled components, and hook
+- Header button styled component
+- Class for body to hide overflow when modal open, controlled in modal hook
+- State select component and logic for YCBM flow
+- Embed component to display correct YCBM calendar based on state selected
+- Started mobile styling for modal and YCBM components
+
+---
+
 ### October 7, 2019
 
 #### Work
