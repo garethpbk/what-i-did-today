@@ -4,6 +4,55 @@
 
 ---
 
+### October 14, 2019
+
+#### Work
+
+##### Portfolio Loans LP
+
+- Update award images with new year-less versions
+- Fix typo
+
+##### New Hire Orientation
+
+- Updated campaign tier options image
+
+##### Matt Glynn Schumacher LP
+
+- Add 3 new YouTube videos
+- Delete `package-lock.json`
+- Added to list of websites spreadsheet
+- Add htaccess file to force https
+- Clean up old files on server
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane 
+- Tweak `contact-integration-form` readme
+- Add missing/update avatars for all Bitbucket projects
+- Created HTML for Kudos email
+- Add templates directory and Kudos email HTML to `marketo-scripts` repo
+
+---
+
+### October 10, 2019
+
+#### Work
+
+##### Bank Statement LP
+
+- Add title to YCBM iframe
+- Adjustments to mobile styles to accommodate new YCBM components
+- Better z-index ordering for fixed/absolute positioned elements
+- Deployed test build to Netlify
+- Responsive styling tweaks for modal & YCBM components for all screen sizes
+
+##### JoinOneTrust
+
+- Update award images with new year-less versions
+
+---
+
 ### October 9, 2019
 
 #### Work

@@ -4,6 +4,22 @@
 
 ---
 
+### October 14, 2019
+
+#### Blackwater Holylight - Veils of Winter
+
+Yay new album! On first listen it is heavier, less ethereal than the first one. Defintiely still has the same kind of sound. A weakness of the first album is that some of the tracks tended to blend together, this one seems to have a bit more differentiation. I think they should have more guitar solos.
+
+#### Devil's Witches - Suck My Hex
+
+Interesting release, dude's definitely having a lot of fun here. Kind of a mix of all their past sounds covered in 15 minutes, plus some weird new psych stuff. Doesn't catch my ear immediately like some of the others but worth listening to more for sure.
+
+#### Old Man Wizard - Blame It All on Sorcery
+
+Cool local band! I don't listen to nearly enough local music. Folky rock sound that gets heavy at times. Plenty of catchy hooks to be found here.
+
+---
+
 ### October 9, 2019
 
 #### Explosions in the Sky - The Wilderness
