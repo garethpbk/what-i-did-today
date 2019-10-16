@@ -4,6 +4,23 @@
 
 ---
 
+### October 16, 2019
+
+#### Work
+
+##### Sanctum
+
+- Styled call to action buttons, extracted to partials
+- Tweaks to footer nav walker
+- Custom nav walker for header menu (replace a lot of having to target elements in scss)
+- Add divider and schedule consultation link with icon to header nav
+- Icons and styling for home page menu section
+- Add image and location fields to review post type (add to App controller too)
+- Images and styling for home page reviews section
+- Footer styling
+
+---
+
 ### October 15, 2019
 
 #### Work

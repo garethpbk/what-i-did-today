@@ -4,6 +4,26 @@
 
 ---
 
+### October 16, 2019
+
+#### The Oath - The Oath
+
+Too bad this band broke up after just the one album. Would have loved to see what they could have done if they kept going. It's a good release and there was so much potential! 'Silver and Dust' my favorite track.
+
+#### Wolfsheim - No Happy View
+
+Really interesting stuff, a lot darker and not as poppy as much of their later stuff (except for 'The Sparrows And The Nightingales' maybe). Take 'Annie' which is creepy as fuck, with minimal instrumentation and the haunting voice floating over. I love Wolfsheim's anthems like 'Once in a Lifetime' and such but this is something special. It's not all sad, their melancholic optimism comes through in 'It's Not Too Late,' for example.
+
+#### Wolfsheim - Popkiller
+
+An adequate title, even though this album shows signs of moving towards a poppier sound. A bit less weird than the last one, a bit more fleshed out and with fuller production. Lots of cool sounds going on all over the place. 'Now I Fall' is a favorite.
+
+#### Wolfsheim - Spectators
+
+Very slick, great production. I miss the dark weirdness of their earlier stuff but with such amazing songs like 'Once In A Lifetime' and 'Heroin, She Said' can one really complain?
+
+---
+
 ### October 15, 2019
 
 #### Mortiis - The Unraveling Mind
