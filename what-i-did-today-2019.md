@@ -4,6 +4,36 @@
 
 ---
 
+### October 15, 2019
+
+#### Work
+
+##### Bank Statement LP
+
+- Styling tweaks for book consultation button on desktop and mobile
+- Remove separate mobile HeaderBar component
+- Fix for mobile Safari iframe scrolling behavior
+- Set width of YCBM modal content on xl screens
+- Deployed new build with YCBM integration to production
+- Cleaned up old files on server
+
+##### Portfolio LPs
+
+- Added modal and YCBM components, hooks, and data to all LPs (bridge, business and commercial, condotel, construction, fix & flip, property development)
+- Cleaned up old files on server for all LPs
+
+##### Sanctum
+
+- Add function for generation darkened brand color to brand stylesheet partial, along with classes to use
+- Styling home page partials to match design
+- Add note about HTML to company slogan option (maybe replace this with custom field on front page) and front page action tagline field
+
+##### Misc
+
+- Further testing of new Kudos email template (is now completed)
+
+---
+
 ### October 14, 2019
 
 #### Work

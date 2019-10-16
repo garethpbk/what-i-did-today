@@ -4,6 +4,30 @@
 
 ---
 
+### October 15, 2019
+
+#### Mortiis - The Unraveling Mind
+
+Good ol' `Mortiis`. This is a pretty good sampling of his sound, wide and diverse as it is. Dark ambient, industrial and dancey parts, all are found here. Nice music to get some work done to.
+
+#### Blackwater Holylight - Veils of Winter
+
+Another day, another listen. Like it a lot.
+
+#### Omen - Battle Cry
+
+Good 80s heavy metal, not my favorite but pretty fun.
+
+#### Graveyard - Peace
+
+Dudes continue rocking out. Now there are two pieces of media titled 'Peace' that I like, this and the Gene Wolfe book.
+
+#### Electric Citizen - Sateen
+
+The more I listen to this band the more I like them and they do stand out in their genre more than I originally gave them credit for. The singer is so gooood. 'Hawk Nightingale' is actually a pretty cool, very 'Planet Caravan' inspired track.
+
+---
+
 ### October 14, 2019
 
 #### Blackwater Holylight - Veils of Winter
