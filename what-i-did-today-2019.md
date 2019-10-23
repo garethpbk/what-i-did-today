@@ -4,6 +4,39 @@
 
 ---
 
+### October 22, 2019
+
+#### Work
+
+##### Signature Generator
+
+- New versions of Charleston Choice award images for Tabor
+- Reinstalled modules due to gulp breaking (works now)
+
+##### Marketo Weekly Update Emails
+
+- Created Velocity tokens for each conditional field and implemented in Marketo
+- Modified email HTML to use new tokens
+- Include all token scripts and some old scripts in Marketo scripts repo
+
+##### OneTrustMarketing
+
+- Added YouCanBookMe to job aids
+- Updated LoanForce CRM link
+- Deleted old files on server
+
+##### Portfolio Loans LP
+
+- Deleted old files on server
+
+##### Sanctum
+
+- SVG icons & partials for Facebook and LinkedIn
+- Fix sub menu border hover styles and nav height in header
+- Started styling team page elements
+
+---
+
 ### October 16, 2019
 
 #### Work

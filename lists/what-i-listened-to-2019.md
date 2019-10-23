@@ -4,6 +4,26 @@
 
 ---
 
+### Octobe 22, 2019
+
+#### Nite Jewel - Real High
+
+Pretty neat stuff! Subtle, low-key beats. Nice voice. Relaxing with a little bit of an edge. 'I Don't Know' is an immediate favorite.
+
+#### Sombre Arcane - Sombre Arcane
+
+Cool dark ambient or dungeon synth I guess? Spacey, creepy, weird. Interesting vocals on the first track.
+
+#### Kevin Schilder - Heretic OST
+
+When I was but a wee teen I wanted to make ambient music inspired by Heretic and its rad soundtrack. 10+ years later happy to report that it's still rad. Sounds a lot like dungeon synth, with its medieval influences and all. Or rather dungeon synth sounds a lot like this :) Favorite track has got to be 'The Crypts' which has it all, even a rippin' bassline (?) melody.
+
+#### Fogweaver - Fogweaver
+
+Music inspired by Earthsea? Sign me up. Happy birthday Ursula LeGuin, yesterday, that is. Cool stuff - eerie but cheery synth music that really does capture the vibe of Earthsea well.
+
+---
+
 ### October 16, 2019
 
 #### The Oath - The Oath
