@@ -4,6 +4,27 @@
 
 ---
 
+### October 24, 2019
+
+#### Work
+
+##### Marketo
+
+- Velocity token for MLO calendar link field
+
+##### Sanctum
+
+- Mobile styling for home loan options page elements
+- Animations for home loan option items with `IntersectionObserver`
+- Add spacing unit of `7: 1.75rem` to Tailwind config (used in button hover)
+- Hover styles for buttons, add specified height to buttons
+- Fix Schedule Consultation link hover style
+- Add "Skip to Main Content" link to header
+- Accessibility checks for home, home loan options, team pages (100 Lighthouse score)
+- Hover styles for footer social media icons
+
+---
+
 ### October 23, 2019
 
 #### Work

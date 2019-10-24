@@ -6,6 +6,26 @@
 
 ### October 24, 2019
 
+#### Marissa Nadler & Stephen Brodsky - Droneflower
+
+Eerie haunting folky stuff. Different from anything else I've heard from Brodsky. Nadler's voice is very good and I will be listening to more of her stuff. Favorite track is 'Estrangement' which slowly, subtely builds itself up through its almost 8 minute length. Also a Morphine cover at the end! Holy shit! Morphine is so underrated.
+
+#### Marriages - Salome
+
+Might as well check out ERR's band too yeah? I like them. The drumming is my favorite part and sounds more like something you'd hear on a bombastic post-whatever band like Pelican or Russian Circles. Actually the whole sound is like if one of those bands pared themselves down and added more traditional rock vocals. It's interesting. 'Less Than' is my favorite track, it rocks the hardest and has cool beepy boopy sounds.
+
+#### Grails - Chalice Hymnal
+
+My favorite Grails album. They do a lot with a little. Great music for lots of moods. 'Tough Guy' my fave song. 'Deep Snow II' sounds a like a maudlin of the Well song.
+
+#### Emma Ruth Rundle - On Dark Horses
+
+So good I had to listen to it again. 'Darkhorse' might actually be my favorite. Idk it's all great.
+
+---
+
+### October 23, 2019
+
 #### The Atlas Moth - Coma Noir
 
 I've tried to listen to this band a few times before and never got into it. Cool though, definitely a unique sound that falls somewhere in the 'experimental sludge' field. I like the vocals a lot. Needs more listening.
