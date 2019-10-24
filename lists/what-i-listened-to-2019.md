@@ -4,7 +4,27 @@
 
 ---
 
-### Octobe 22, 2019
+### October 24, 2019
+
+#### The Atlas Moth - Coma Noir
+
+I've tried to listen to this band a few times before and never got into it. Cool though, definitely a unique sound that falls somewhere in the 'experimental sludge' field. I like the vocals a lot. Needs more listening.
+
+#### Malfet - The Way to Avalon
+
+Ok, Arthurian dungeon synth! This genre seems to have all kinds of stuff for me. And Arthurian it really is - magical, medieval music that invokes Merlin strolling through an enchanted forest on a sunny day.
+
+#### Emma Ruth Rundle - On Dark Horses
+
+In the area of "dark folky women singer/songwriter types" ERR is probably my favorite. Her stuff is heavy without sacrificing any of the underlying elements that make it great. She seems to be blowing up lately and that rules. 'Light Song' is my favorite track.
+
+#### Anna von Hausswolff - Dead Magic
+
+Like if Joanna Newsom got really witchy.
+
+---
+
+### October 22, 2019
 
 #### Nite Jewel - Real High
 

@@ -4,6 +4,28 @@
 
 ---
 
+### October 23, 2019
+
+#### Work
+
+##### Sanctum
+
+- Styling and mobile styling for team page elements
+- Add function to App controller to make front page call to action text available anywhere
+- Template partial for call to action bar (replace home page CTA bar with this)
+- SVG and Blade partials for home loan options icons
+- Data for home loan options in controller instead of from WP
+- Styling home loan options page elements
+- Mobile header call to action bar partial
+- Mobile styling for call to action bar, home page menu, home page reviews, footer
+- Added `Post Types Order` plugin and arranged team member posts in same order as current site
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane 
+
+---
+
 ### October 22, 2019
 
 #### Work
