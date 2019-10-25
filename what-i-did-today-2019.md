@@ -4,6 +4,14 @@
 
 ---
 
+### October 25, 2019
+
+#### Personal
+
+- Level Up Tutorials Svelte for Beginners series
+
+---
+
 ### October 24, 2019
 
 #### Work
