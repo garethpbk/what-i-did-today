@@ -4,6 +4,30 @@
 
 ---
 
+### October 28, 2019
+
+#### Alcest - Spiritual Instinct
+
+I haven't much kept up with Alcest since...2007 or so. Probably should have. This album is really good, a very obvious evolution of their sound that does all kinds of neat stuff while sounding like Alcest and no one else. Will merit many re-listens (and all the prior albums I haven't given a chance).
+
+#### Immortal Bird - Thrive on Neglect
+
+Yeah, this is the good shit. One of the most creative extreme metal albums I've heard in a while. There's a lot of influence from Gorguts. But also like, every other metal there is. Want to hear a band go from whacky atonal riffs to bits that sound like 90s Emperor to screamo? Immortal Bird has it all. Serious shades of Circle Takes the Square, not really in sound but more in feel. Comparisons aside, it's just really cool on its own merits. Rae Amitay is a monster.
+
+#### Yellow Eyes - Rare Field Ceiling
+
+Cooooool stuff. Throw 'em on the 'post-black metal/blackgaze' pile, but this is one of the better of those I've heard. The guitar work is a lot like Vaura. Like most (all?) post-2000s USBM bands there's a lot of Weakling influence going on here. Will definitely be listening to this band more.
+
+#### Woods of Ypres - Against the Seasons: Cold Winter Songs From The Dead Summer Heat
+
+Never listened to the first Woods release before. It's pretty good, very much shades of the more mature later work they would release. 'A Meeting Place and Time' is the best track and one that already showcases the full spectrum of the sound they'd grow into.
+
+#### Woods of Ypres - Pursuit of the Sun & Allure of the Earth
+
+Still a bit rough in all the best ways.
+
+---
+
 ### October 24, 2019
 
 #### Marissa Nadler & Stephen Brodsky - Droneflower

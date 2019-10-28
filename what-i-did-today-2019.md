@@ -4,6 +4,33 @@
 
 ---
 
+### October 28, 2019
+
+#### Work
+
+##### Sanctum
+
+- Tested adding Svelte to build process (it works...!)
+- Adding option to use gray icon to brand settings
+- Gray icons for home menu and home loan options
+- Conditionals to display gray or color icons for home menu and home loan options
+- Svelte component for Pre-Approval Checklist Form
+
+##### Marketo
+
+- Deleted duplicates of leads created under my gmail
+- Template for Marketing Menu of Services emails
+
+##### Portfolio LPs
+
+- Checking list of states
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane 
+
+---
+
 ### October 25, 2019
 
 #### Personal
