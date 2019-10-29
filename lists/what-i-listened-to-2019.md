@@ -4,6 +4,18 @@
 
 ---
 
+### October 29, 2019
+
+#### Electrelane - The Power Out
+
+A band I like but never listened to much. Is good, they have a cool dynamic with the two vocalists. Among indie rock they have a pretty unique sound. Relaxing but not boring.
+
+#### Jeff Buckley - Live at Columbia Records Radio Hall
+
+I think, if I could go back and time and see any musician or band live, it would be Jeff Buckley.
+
+---
+
 ### October 28, 2019
 
 #### Alcest - Spiritual Instinct

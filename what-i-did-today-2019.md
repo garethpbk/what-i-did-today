@@ -4,6 +4,33 @@
 
 ---
 
+### October 29, 2019
+
+#### Work
+
+##### Marketo
+
+- Fix live Weekly Update tokens
+
+##### Sanctum
+
+- Svelte component for HB Guide Form
+- Styling and image for Get Pre-Approved page
+
+#### Personal
+
+##### FLAVA
+
+- Plugin updates
+
+##### Svelte Presentation
+
+- Set up Sapper project
+- Created general slide component model with transitions
+- Added styling and font
+
+---
+
 ### October 28, 2019
 
 #### Work
