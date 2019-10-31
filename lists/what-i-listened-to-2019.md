@@ -4,6 +4,26 @@
 
 ---
 
+### October 30, 2019
+
+#### Woods of Ypres - Woods III: Deepest Roots and Darkest Blues
+
+This album has a perfect title for its sound and lyrics. A synthesis of black metal roots in a modern (for the time) world, in a place that shares a lot in common with where black metal grew up. Ypres's music was always extremely personal and a vehicle for David Gold's emotions and expression and this really comes through on a lot of the songs e.g. 'December in Windsor.'
+
+#### Alcest - Spiritual Instinct
+
+Is very good album. 'Sapphire' is my favorite track.
+
+#### In The Woods... - Cease the Day
+
+'Omnio' is like one of my favorite albums but I never listened to anything else by ITW...maybe I should have! This is a good album. They've clearly still got it.
+
+#### Blind Melon - Live At the Palace
+
+Shannon Hoon is up there with Jeff Buckley on my list of "musicians I wish had lived for many more decades and made much more music." Dude was a great singer and from this recording it seems he was a good performer too. Only wish they had done 'Holyman' here but I'll take what I can get.
+
+---
+
 ### October 29, 2019
 
 #### Electrelane - The Power Out

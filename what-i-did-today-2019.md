@@ -4,6 +4,31 @@
 
 ---
 
+### October 30, 2019
+
+#### Work
+
+##### Sanctum
+
+- Form validation system for Svelte forms
+- Implement validation in Pre-Approval Checklist form and HB Guide form
+- Set body top padding to 0 in admin styles
+- Started fixing body padding for when logged in as admin
+- Fix for XXL container size
+- Use mobile layout up through and including md breakpoint
+- Responsive styling for Home, Get Pre-Approved, Team, Home Loan Options pages
+- Adjust description text styles
+- Added `intersection-observer` polyfill...not working right away tho
+
+#### Personal
+
+##### Svelte Presentation
+
+- Add server route to get list of slide pages in `/routes`
+- Add checks to keyboard controls for first and last slides
+
+---
+
 ### October 29, 2019
 
 #### Work
