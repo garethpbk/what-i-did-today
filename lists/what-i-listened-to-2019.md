@@ -4,6 +4,18 @@
 
 ---
 
+### November 1, 2019
+
+#### Woods of Ypres - Woods 4: The Green Album
+
+Not my favorite Woods album. Not bad, but not the one I'd choose to listen to over the others. It does do something so much metal seems to be afraid of - confronting modernity head-on - through the lyrics, and props for that. David Gold wrote songs about whatever the hell he felt like (sleeping alone vs sleeping next to someone! 'Retrosleep in the Morning') and that's pretty awesome. The last song is some dumb misogynistic bullshit tho lol fuck off with that.
+
+#### Velvet Cacoon - Genevieve
+
+I keep sneezing today and am stuffy as hell so basically this is what my head feels like. Velvet Cacoon may have been tremendous drug-addled assholes but this album is a classic in my book. Way ahead of its time. Who else balanced a hypnotic, low-fi sound and tremendous breakout bits like in 'Avalon Polo'?
+
+---
+
 ### October 31, 2019
 
 #### Mad Season - Live at The Moore

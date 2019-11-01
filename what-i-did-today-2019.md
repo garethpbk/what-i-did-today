@@ -4,6 +4,30 @@
 
 ---
 
+### November 1, 2019
+
+#### Work
+
+##### Sanctum
+
+- Add state select to ScheduleAConsultation Svelte form (with graphql query for states)
+- Add loan purpose select to ScheduleAConsultation Svelte form
+- Add text communications checkbox to ScheduleAConsultation Svelte Form
+- Styling for form select elements
+- Custom checkbox icon
+- Add length validator
+
+##### Marketo
+
+- Set up Weekly Update email tokens for update
+- Menu of Services template title and tagline as editable instead of variables
+
+##### OneTrustMarketing
+
+- Added 11/1/19 announcement
+
+---
+
 ### October 31, 2019
 
 #### Work
