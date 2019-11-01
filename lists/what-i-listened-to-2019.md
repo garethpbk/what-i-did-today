@@ -4,6 +4,22 @@
 
 ---
 
+### October 31, 2019
+
+#### Mad Season - Live at The Moore
+
+Mad Season's 'Above' is my favorite thing to come out of all of the 90s grunge scene and this is pretty much that done live. It's good as hell and equal in quality to the studio recordings. 'Wake Up' and 'I'm Above' remain my favorite songs. They're all great though. The John Lennon cover is interesting and pretty much a jam session. It really feels like these songs were made to be performed live. Maybe that's just because Layne is so good at owning them. RIP.
+
+#### Pallbearer - Sorrow and Extinction
+
+Hell of an album, hell of a band. Nothing that sounds like them out there.
+
+#### The Magnetic Fields - Get Lost
+
+Probably my favorite of TMF work. Really creative and unique sound. 'You and Me and the Moon' and 'All the Umbrellas in London' are two of my favorite songs ever.
+
+---
+
 ### October 30, 2019
 
 #### Woods of Ypres - Woods III: Deepest Roots and Darkest Blues
@@ -18,7 +34,7 @@ Is very good album. 'Sapphire' is my favorite track.
 
 'Omnio' is like one of my favorite albums but I never listened to anything else by ITW...maybe I should have! This is a good album. They've clearly still got it.
 
-#### Blind Melon - Live At the Palace
+#### Blind Melon - Live at the Palace
 
 Shannon Hoon is up there with Jeff Buckley on my list of "musicians I wish had lived for many more decades and made much more music." Dude was a great singer and from this recording it seems he was a good performer too. Only wish they had done 'Holyman' here but I'll take what I can get.
 

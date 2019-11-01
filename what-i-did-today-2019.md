@@ -4,6 +4,28 @@
 
 ---
 
+### October 31, 2019
+
+#### Work
+
+##### Sanctum
+
+- Make clearing Svelte form fields reactive & reuseable
+- Partials for Home Buying Process SVG icons
+- Controller for Home Buying Process template
+- ScheduleAConsultationForm Svelte component
+- Input masking for Svelte form phone number fields
+
+##### Drip Campaigns
+
+- Updated Milestone email screenshots
+
+##### Marketo
+
+- Update Milestone email images
+
+---
+
 ### October 30, 2019
 
 #### Work
