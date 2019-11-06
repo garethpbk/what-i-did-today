@@ -4,6 +4,55 @@
 
 ---
 
+### November 5, 2019
+
+#### Work
+
+##### Sanctum
+
+- Add no margin option to HB Guide partial
+- Partial for Home Buying Process row
+- Incorporate all steps of Home Buying Process into template with row partials (allowing for row background color)
+- Add lightgray (#efefef) color to Tailwind config
+- Fix Home Buying Process SVG icons to preserve all elements (add unique IDs to clip-path and linear-gradient elements)
+- Add special xxxl breakpoint @ 1920px to handle Home Buying Process infographic layout
+- Responsive styling for Home Buying Process page
+- All sub-page active item for their page, not parent page
+
+##### Mortgage Calculators
+
+- Started building new calculators in Svelte
+- Input masking for currency and decimal fields
+
+##### Marketo
+
+- Troubleshooting triggered emails not working with tokens
+- Modified appraisal field weekly update tokens to work with triggered emails
+
+---
+
+### November 4, 2019
+
+#### Work
+
+##### Sanctum
+
+- Add Home Buyer's Guide setting field to company info settings
+- Handle layout behavior for successful Schedule A Consultation Svelte form submission
+- Handle layout & PDF behavior for successful HB Guide Svelte form submission
+- Handle layout behavior for successful Pre-Approval Checklist form submission, update design
+- Styling for Contact page
+- Alternate gray social media SVG partials to use on Contact page
+- Move social media icon styles to their own SCSS partial (delete footer partial)
+- Figured out likely problem with last attempted Tabor server update and wrote up IT ticket for new request
+- Fix Home Buying Process "Move in" SVG icon
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+
+---
+
 ### November 1, 2019
 
 #### Work

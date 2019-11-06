@@ -4,6 +4,58 @@
 
 ---
 
+### November 5, 2019
+
+#### Acid King - Busse Woods
+
+Never listened to Acid King a whole lot but they are great for a certain mood. 'Electric Machine' is my favorite track here. Somehow I did not know they did a Jesus Christ Superstar cover here but holy heck '39 Lashes' sure is there. A very cool cover. Their minimal, somewhat subdued sound compared to e.g. Electric Wizard is neat. Gotta listen to more Acid King.
+
+#### Trouble - Run to the Light
+
+Never listened to Trouble either. Definitely satisfies the early doom metal urge. 'The Beginning' is my favorite track after one listen.
+
+#### Beherit - Drawing Down the Moon
+
+My favorite weirdo early black metal. What a strange thing. 'Unholy Pagan Fire' is my favorite track, that riff! So simple yet so effective.
+
+#### Bathory - Blood Fire Death
+
+\m/
+
+---
+
+### November 4, 2019
+
+#### Visigoth - The Revenant King
+
+Good heavy metal, lots of catchy hooks and solid riffs. The higlight is the Manilla Road cover but that's not really fair because 'Necropolis' is one of the best metal songs ever written. It's a very solid cover!
+
+#### Earth - Full Upon Her Burning Lips
+
+Put off listening to this one for a while. It's a continuation and maturation of the Earth sound that's been developing since 'Hex' almost 15 (!) years ago, meaning Earth has been operating in this mode longer than they haven't been. It's good and they do some really cool stuff - check out 'The Colour of Poison' that sounds almost 'Pentastar'-ish! - while maintaining that core guitar/drums sound.
+
+#### Screaming Trees - Uncle Anesthesthia
+
+A real underrated band, this one. Mark Lanegan is a great singer and they've got some really fun rocky tunes here.
+
+#### Manilla Road - Crystal Logic
+
+A rough, homespun album. I'd have it no other way. It's really weird. Mark Shelton was a brilliant, strange man. 'Finally Free' is the only real weak track. I really genuinely love Mark's vocals. Listening to this a la the original release, with 8 tracks, plus 'Flaming Metal System' at the end, which is pretty cool too, though out of place on this album.
+
+---
+
+### November 3, 2019
+
+#### Earth - Pentastar: In the Style of Demons
+
+Got a new record player set up and this is my favorite LP to spin first. Probably my favorite Earth release, or at least the one I've listened to the most. Every track is killer.
+
+#### Sunn O))) & Ulver - Terrestrials
+
+Beautiful gold vinyl, beautiful sound. The third track with Garm's vocals is definitely the standout.
+
+---
+
 ### November 1, 2019
 
 #### Woods of Ypres - Woods 4: The Green Album
