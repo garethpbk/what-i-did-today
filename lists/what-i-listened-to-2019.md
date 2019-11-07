@@ -4,6 +4,34 @@
 
 ---
 
+### November 6, 2019
+
+#### Depressive Silence - Depressive Silence II
+
+Apparently this is 'the' classic dungeon synth album and I can see why. It's complex, rich, and textured and strikes a perfect balance between melancholy and uplifiting. Really inspirational stuff. I want to make music like this.
+
+#### Secret Stairways - Enchantment of the Ring
+
+Another classic dungeon synth album, really like this one. _Lots_ of variety in the tracks. The upbeat 'Finvarra's Chessboard' is wild.
+
+#### Nuit Noire - Infantile Espieglery
+
+My favorite weirdo French band. The sound is all over the place, from the relatively conventional rock riff on 'Are You Ready for the Night?' to the weirdass trash sounds on 'Scrapheap' to Tenebras's bizarre vocals on every track. I dunno who the backing vocalist is but she adds a lot. As an afficianado of faeries and the moon myself I love this band so much.
+
+#### Woods of Ypres - Woods 5: Grey Skies & Electric Lights
+
+Undoubtedly the most mature and probably best Woods album. There are two very strong themes: modernity sucks and is alienating, and you should live your damn life. It's a Woods of Ypres album, yeah. The production is better than ever without being overproduced and there's some of the most interesting music Ypres ever wrote here. How I wish we could have seen what this band would have done next.
+
+#### Old Tower - Stellary Wisdom
+
+Solid dungeon synth if not entirely remarkable on first listen. Not sure if I am a big fan of the big metallic-sounding synths.
+
+#### Agalloch - Pale Folklore (Remastered)
+
+Possibly the Agalloch album I have listened to the most, maybe my favorite, despite how amateur it does sound compared to what they did later. Very "Bergtatt is a cool album huh guys" sound. Not sure how the remastered edition changes things. It's uneven - there are lots of weird bits that stick out and detract from the flow of the album - but when it's good, it's gooooood. The opening 'She Painted Fire Across the Skyline' suite is what made me love Agalloch years ago, I think.
+
+---
+
 ### November 5, 2019
 
 #### Acid King - Busse Woods

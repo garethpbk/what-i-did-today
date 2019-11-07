@@ -4,6 +4,39 @@
 
 ---
 
+### November 6, 2019
+
+#### Work
+
+##### Mortgage Calculators Svelte
+
+- Use reactive statements to format input values instead of event listeners (the Svelte way! duh!)
+- SVG icons for calculator select
+- Mortgage Payment Calculator component built
+- Calculator Select component & logic built
+- Files for all calculators
+
+##### Marketo
+
+- Updating new appraisal token names to be used in weekly update emails
+- Fix inspection scheduled token name in weekly update emails
+
+##### Media Release
+
+- Merge `calcon` working branch into master
+- Added changelog to readme (should do this for all projects...)
+- Disable checking if testimonial valid, is now optional
+- Additional conditionals in summary statement/image table
+- Address fields moved to left side of form, date/requestor/requestor email to right
+- Check if one of testimonial statement, image, or checkbox check has been provided
+- Allow capital letters in requestor email field (validator forces to lowercase)
+
+##### Misc
+
+- Checking logs for media release
+
+---
+
 ### November 5, 2019
 
 #### Work
