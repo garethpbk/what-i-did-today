@@ -4,6 +4,30 @@
 
 ---
 
+### November 7, 2019
+
+#### Old Sorcery - Realms of Magickal Sorrow
+
+Love how the opening track 'Sorcerer's Dream' builds up over its run time. Really nice music.
+
+#### Paysage d'Hiver - Paysage d'Hiver
+
+Have listened to a lot of Darkspace but never much of Paysage. I dunno why, this album is amazing. The addition of strings and keyboards and stuff to the lo-fi sound is really interesting and kinda weird at first but once it sinks in it's great.
+
+#### maudlin of the Well - My Fruit Psychobells...A Seed Combustible
+
+I have listened to this album maybe hundreds of times and still find something new to love about it on each listen. motW is my favorite band of all time and will probably always be. Two decades later there's still nothing else that sounds like this album. 'Blight of River-Systems' is my favorite song ever. There's shades of everything motW and Kayo Dot and Toby Driver would later go on to do here, and somehow it all works beautifully together.
+
+#### Opeth - Blackwater Park
+
+Like many people I credit Opeth with getting me into harsh vocals and death metal. Them and Cryptopsy. This album holds up for sure, it's a bit samey and sometimes the songs run together (in memory, at least) but it's a super solid slab of proggy death. This was imo Opeth at the top of their game and while I like most of what came after it's a litle sad to think they'll never make music like this again.
+
+#### Diocletian - Against the Flames of a Burning God
+
+Is this 'war metal'? It's ok I guess. Pretty chaotic and harsh! Good name for a band but one that I probably won't listen to very often. There are certainly some interesting things going on with the vocals and guitar work.
+
+---
+
 ### November 6, 2019
 
 #### Depressive Silence - Depressive Silence II

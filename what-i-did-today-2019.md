@@ -4,6 +4,24 @@
 
 ---
 
+### November 7, 2019
+
+#### Work
+
+##### Mortgage Calculators Svelte
+
+- Move formatting functions to utility directory, add more reuseable formatting functions
+- Income Required Calculator component built
+- Affordability Calculator component built
+- Refinance Savings Calculator component built
+- Started building amorization schedule functionality
+
+##### New Hire Orientation
+
+- Updated campaign tier options image
+
+---
+
 ### November 6, 2019
 
 #### Work
