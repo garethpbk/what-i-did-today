@@ -4,6 +4,38 @@
 
 ---
 
+### November 8, 2019
+
+#### Work
+
+##### Mortgage Calculators Svelte
+
+- Finished amortization schedule calculation function
+- Markup and logic to display amortization schedule in Mortage Payment calculator
+- Disclaimer component
+- Various styling tweaks based on completed designs
+- Responsive styling for mobile
+- Componentizing layout
+
+##### Sanctum
+
+- Implement design for Mission Statement page template
+- Add core value description custom fields to Mission Statement page template
+- Design for core values on Mission Statement page
+- Update text content for Tabor Mission Statement page
+- Images for core values
+- Add Roboto and Myriad Pro webfonts
+
+##### Media Release
+
+- Deployed updated build to Netlify
+
+##### Marketo
+
+- Add link variable to Menu of Services email template
+
+---
+
 ### November 7, 2019
 
 #### Work

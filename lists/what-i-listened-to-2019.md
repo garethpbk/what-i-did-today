@@ -4,6 +4,26 @@
 
 ---
 
+### November 8, 2019
+
+#### The Ruins of Beverast - Rain Upon the Impure
+
+The coolest fuzzy atmospheric black metal out there. Really inventive stuff and it does a lot with a little. Check out the happy (!) melodies on 'Soil of the Incestuous'!
+
+#### Leviathan - The Tenth Sub Level of Suicide
+
+Never was able to really get into any other Leviathan stuff (love Lurker of Chalice tho) but this album is so good. The style really doesn't work well for me with better production. 'Mine Molten Armor' is my favorite track this listen.
+
+#### Burzum - Hvis Lyset Tar Oss
+
+The album that launched a thousand imitators. One of 'em, at least. Tomhet is a great track, goofy flute thing and all.
+
+#### Manilla Road - Mystification
+
+God what a great album. Manilla Road at their very best. The songwriting is some of the best in metal, every instrument (and Shelton's voice) shines. The production is perfect - everything's audible but not overproduced. AND it's about Edgar Allen Poe because hell yeah of course it is. Then there's 'Children Of The Night' with lyrics about Conan and Norse mythology? The title track is the best of them all.
+
+---
+
 ### November 7, 2019
 
 #### Old Sorcery - Realms of Magickal Sorrow
