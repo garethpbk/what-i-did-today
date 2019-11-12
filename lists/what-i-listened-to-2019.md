@@ -4,6 +4,24 @@
 
 ---
 
+### November 11, 2019
+
+#### Sombre Arcane - Sombre Arcane
+
+Saw these guys live this weekend and it was rad! Really cool show with a legit magic wand instrument. This is a very strong release and every track is very different but all great. 'The Saddest Thing' and 'Return From Dragonspear' are my favorites.
+
+#### Ildjarn & Niddhogg - Hardangervidda
+
+Ildjarn is very underrated. Both his metal and ambient music is great, and never got the attention that his contemporaries did. I can see why for the metal at least, but the ambient stuff is really nice! 'The Troll Dome' is such a great track. It's kinda strange how uplifting and nice sounding this album is, compared to the rawness of Ildjarn's metal.
+
+#### Depressive Silence - Depressive Silence II
+
+#### Manilla Road - To Kill a King
+
+Very sad that the Road had to end when they did but this last album is pretty killer at least. 'Ghost Warriors' is my favorite track on initial listen and not just because it's about the Teutoburg Forest. If you know Manilla Road you know what to expect from this album, and that's a-ok.
+
+---
+
 ### November 8, 2019
 
 #### The Ruins of Beverast - Rain Upon the Impure

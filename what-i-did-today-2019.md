@@ -4,6 +4,36 @@
 
 ---
 
+### November 11, 2019
+
+#### Work
+
+##### MLO Sites
+
+- Add amortization schedule to Mortgage Payment calculator
+- Better organize calculator components
+- Calculator results container takes up full width
+- Deployed updated to CalCon, OTHL, & Tabor
+
+##### Mortgage Calculators Svelte
+
+- Input masking for Refinance Savings time left field (adds ' Months')
+- Functions for moving cursor to proper location in masked fields
+- Function for deformatting numbers
+
+##### Sanctum
+
+- Implemented design for Careers page
+- Went through desktop design PDF and noted all font sizes used
+- Integrate Svelte mortgage calculators into theme
+- Start adding custom font sizes to Tailwind config
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+
+---
+
 ### November 8, 2019
 
 #### Work
