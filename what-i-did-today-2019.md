@@ -4,6 +4,29 @@
 
 ---
 
+### November 12, 2019
+
+#### Work
+
+##### Media Release
+
+- Change checkbox field to radio fields to ask if testimonial provided
+- Testimonial statement and image upload fields conditional on radio value
+- Fix CORS error with mailer.php on Calcon server
+
+##### Sanctum
+
+- Add `.prettierrc` file since apparently Prettier no longer supports VSCode settings
+- More custom text sizes added to Tailwind config
+- Desktop text sizes for Home, Team, Home Loan Options, Getting Pre-Approved, Home Buying Process, Schedule A Consultation, Contact Us, Mission Statement, Careers pages aligned with design
+- Desktop text sizes for Header, Footer, HB Guide partials aligned with design
+- Desktop text sizes for Calculator Svelte components
+- Tweak Schedule Consultation Svelte component - move phone event listener to action instead of onMount
+- Make Page Header customizable - can use in pages that don't use page name as title
+- Careers page contact items hover style
+
+---
+
 ### November 11, 2019
 
 #### Work

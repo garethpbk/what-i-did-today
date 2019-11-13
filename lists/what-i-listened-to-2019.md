@@ -4,6 +4,30 @@
 
 ---
 
+### November 12, 2019
+
+#### Secret Stairways - Enchantment of the Ring
+
+Soo coooool. Want to explore more of this guy's music.
+
+#### Neptune Towers - Caravans to Empire Algol
+
+Turns out Fenriz was pretty good at making cool space ambient too.
+
+#### Blut Aus Nord - Hallucinogen
+
+What a cool album. Large amounts of sick guitar leads and melodies. Not too much like anything BAN's done before, it owns, they continue to be one of the most interesting bands in metal. 'Anthosmos' is my favorite track.
+
+#### Nocturnus AD - Paradox
+
+Woah didn't even know about this one. A worthy follow-up to 'The Key' a quarter of a century later? I'll take it. Really nails their classic sound but with a legit modern spin.
+
+#### Blood Incantation - Starspawn
+
+Holy hell what is this! Amazing death metal, instantly my favorite of the big modern DM bands that have popped up (and there's some other great ones there). This seamlessly blends technicality with huge riffs and wild solos and psychedelic sounds...it's a very modern take on the kind of sound Demilich and Gorguts and the like pioneered years ago.
+
+---
+
 ### November 11, 2019
 
 #### Sombre Arcane - Sombre Arcane
