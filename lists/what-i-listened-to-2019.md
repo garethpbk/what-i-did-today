@@ -4,6 +4,30 @@
 
 ---
 
+### November 13, 2019
+
+#### Sunn O))) - Pyroclasts
+
+Haven't listened to Sunn in a while. This album is apparently practice/warmup recordings? It's pretty cool and sounds a lot like the Sunn of old, though with less crushing doominess. Would be a nice one to have on vinyl.
+
+#### Earth - Primitive and Deadly
+
+I listened to this A LOT when it came out. It's my favorite of Earth's offerings; I think their music works really well with vocals and always wished more than just this and Pentastar had some. Coincidentally those happens to be my two fave Earth releases. 'From the Zodiacal Light' is the hilight here. 'Even Hell Has Its Heroes' has some of Dylan Carlson's best guitar playing ever.
+
+#### Steven Wilson - Hand. Cannot. Erase.
+
+Porcupine Tree was my favorite band for years as a teenager and hey I still like 'em a lot. Never listened to Wilson's solo stuff _too_ much but I do like it. This album moreso than the last ones, not a big fan of the jazzy parts he sometimes has.
+
+#### Black Pyramid - Black Pyramid
+
+Woah this is good. Stoner doom that's got the best parts of the genre all in one...some parts that sound very Sleep-like. And the lyrics seem to be all about fantasy and sci fi books hell yeah.
+
+#### Porcupine Tree Octane Twisted (CD1)
+
+I was listening to Porcupine Tree a lot less with The Incident came out. It's a good album, though, and would have been cool to see live. Luckily there's this! I don't think it reaches the heights that earlier PT did but it was a good way to end their run. 'Time Flies' is the star track.
+
+---
+
 ### November 12, 2019
 
 #### Secret Stairways - Enchantment of the Ring

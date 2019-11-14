@@ -4,6 +4,27 @@
 
 ---
 
+### November 13, 2019
+
+#### Work
+
+##### Sanctum
+
+- Noted font sizes for mobile design PDF
+- Organize font sizes with numerical system corresponding with REMs
+- Replace company slogan setting with custom field on Home page
+- Mobile font sizing and styling for Home, Team, Home Loan Options, Getting Pre-Approved, Home Buying Process, Schedule A Consultation, Contact Us pages
+- Mobile font sizing and styling for Header CTA bar, Header nav menu, Footer, HB Guide, Schedule Consultation, map components
+- Gray backgrounds for Home menu options and Home Loan Option programs on mobile
+- CSS for turning off container padding on mobile, Tailwind class for container padding amount
+
+##### Marketo
+
+- Smart list for Puero Rico addresses
+- Weekly update tokens for Puerto Rico state conditionals
+
+---
+
 ### November 12, 2019
 
 #### Work
