@@ -4,6 +4,20 @@
 
 ---
 
+### November 14, 2019
+
+#### Work
+
+##### Sanctum
+
+- Mobile text sizing and styling for Mortgage Calculators
+- Mobile text sizing and styling for Careers, Mission Statement pages
+- Medium breakpoint styling for Home, Team, Home Loan Options, Getting Pre-Approved, Homebuying Process, Schedule A Consultation, Contact Us, Careers, Mission Statement, Mortgage Calculators pages
+- Medium breakpoint styling for Nav, Footer, Header CTA Bar, Schedule Consultation form, Mortgage Payment calculator
+- Tested building and deploying theme to Azure Crane admin site (it works!)
+
+---
+
 ### November 13, 2019
 
 #### Work

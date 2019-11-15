@@ -4,6 +4,26 @@
 
 ---
 
+### November 14, 2019
+
+#### A Storm of Light - Anthroscene
+
+Well these guys seem to have really found their sound. It's cool, very much rock n' roll with a metallic tinge. The drumming is really good. This record is very upfront about its pessimism about humanity!
+
+#### 16 Horsepower - Sackcloth 'N' Ashes
+
+Real neat, unique music. 'Black Soul Choir' is the immediate memorable song.
+
+#### Agent Steel - Skeptics Apocalypse
+
+Fenriz was right, this shit rips. Listened to it twice.
+
+#### Manilla Road - The Deluge
+
+Another good Manilla Road album. Need to listen more, which is true of all of their albums.
+
+---
+
 ### November 13, 2019
 
 #### Sunn O))) - Pyroclasts
