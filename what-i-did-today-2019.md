@@ -4,6 +4,30 @@
 
 ---
 
+### November 15, 2019
+
+#### Work
+
+##### Sanctum
+
+- Standardizing components and styles for Mortgage Calculators
+- Medium breakpoint styling for calculators
+- Change gray-beast to gray-satan
+- Desktop, medium, mobile styling for FAQs page
+
+##### Misc
+
+- BAI Mortgage Origination Marketing module
+
+#### Personal
+
+##### Antediluvian
+
+- Update `package.json`
+- Use generic static query to get current issue PDF instead of specifying issue
+
+---
+
 ### November 14, 2019
 
 #### Work

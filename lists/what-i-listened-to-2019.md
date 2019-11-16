@@ -4,6 +4,22 @@
 
 ---
 
+### November 15, 2019
+
+#### Crypt Sermon - The Ruins of Fading Light
+
+Epic melodic doom metal? Cool stuff, 'Christ is Dead' is the best track. Kind of like a more doomy Atlantean Kodex. The singer is great. Lyrics on the last track kinda suck lol.
+
+#### Darkthrone - The Underground Resistance
+
+Does anybody love metal more than these guys? Trick question, who gives a shit, it's another great Darkthrone album that explores their 80s heavy & speed metal influences and does a great job at it. 'Valkyrie' is the best track.
+
+#### Manilla Road - Mystification
+
+This might infact be the best album by the Road. It's got so many high points and amazing songwriting. 'Mystification' gives 'Necropolis' a run for 'best Manilla Road song.' In some ways it's a taming of their sound - less weird, better production, tighter songs - but not at the sacrifice of their identity.
+
+---
+
 ### November 14, 2019
 
 #### A Storm of Light - Anthroscene
