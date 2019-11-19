@@ -4,6 +4,32 @@
 
 ---
 
+### November 18, 2019
+
+#### Work
+
+##### Sanctum
+
+- Responsive style tweaking for small breakpoint
+- Responsive styling for Reviews page
+- Add relative position and z-index values to Footer CTA bar and Home Loan Option items
+
+##### Sanctum Reviews Carousel
+
+- Set up project with git repo
+- Functionality for handling transitions with 1, 2, or 3 slides displays depending on screen size
+- Hidden transitions for beginning/end of slides to cycle back to first/last slide seamlessly
+
+##### Media Release
+
+- Deployed updated version to CalCon server
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane (including updating WP core to 5.3)
+
+---
+
 ### November 15, 2019
 
 #### Work

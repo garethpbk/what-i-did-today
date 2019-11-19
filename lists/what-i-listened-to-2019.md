@@ -4,6 +4,30 @@
 
 ---
 
+### November 18, 2019
+
+#### Katatonia - Brave Murder Day (Peaceville 2006 reissue)
+
+Katatonia has said they set out to make music that combined the doomy melody of Paradise Lost with the epic blackness of Bathory and by golly they did it. This is my favorite of their metal albums. The riffs are really simple but really inspiring. Funnily enough the weakest part of the album for me is the clean vocals like on 'Day.' I really like Renske's later rock vocal styling but they're just a little too rough here - a minor criticism, 'Day' is still a good song. The three tracks at the end here from the 'Sounds of Decay' EP are definitely the weakest, they just feel kinda dull compared to the BMD tracks.
+
+#### Tiamat - Wildhoney
+
+A very interesting album, not quite like anything else from its time, in how it blends gothic rock and metal.
+
+#### Bathory - The Return of Darkness and Evil
+
+Maybe my favorite Bathory release. The pace, the riffs, the production all comes together perfectly.
+
+#### Venom - Black Metal
+
+Not hard to see why this was so influential. 1982! Wild!
+
+#### Edge of Sanity - Nothing but Death Remains
+
+Solid, if unremarkable, 90s death metal. Not much hinting at the cool band EoS would later become. Some good melodies and riffing, e.g. on 'Decepted by the Cross.'
+
+---
+
 ### November 15, 2019
 
 #### Crypt Sermon - The Ruins of Fading Light
