@@ -4,6 +4,29 @@
 
 ---
 
+### November 19, 2019
+
+#### Work
+
+##### Sanctum
+
+- Implement reviews carousel component
+- Tweaks to home page banner slogan text size
+- Simplify Home menu and Home Loan Option SVGs, only use one partial for both color and gray
+- Responsive styling for large and up breakpoints for Header, Nav menu
+- Responsive styling for large and up breakpoints for Home page, About Us pages, First Time Homebuyer pages, Home Loan Options page
+- 404 page template
+- Checked all black text to make sure it uses theme black
+- Various responsive tweaks for header sizes, footer, all over the place
+
+##### Sanctum Reviews Carousel
+
+- Replace object spread with `Object.assign()` so it plays nice with Sage 9 (zzz)
+- Convert NodeList of slides to Array so it plays nice with Sage 9
+- Hide carousel controls at xl breakpoint, carousel only active at xs, sm, md, lg screen sizes
+
+---
+
 ### November 18, 2019
 
 #### Work

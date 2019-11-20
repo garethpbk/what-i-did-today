@@ -4,6 +4,38 @@
 
 ---
 
+### November 19, 2019
+
+#### Wovenhand - Woven Hand
+
+This first Wovenhand album is probably still my favorite. The band went into a really cool direction but something about the personal, dark folky sound here is magical.
+
+#### Haunt - Burst into Flame
+
+Solid heavy metal. I think these guys will find their voice as they keep making music, will definitely listen to their other albums.
+
+#### Riot City - Burn the Night
+
+This sets out to do exactly what it wants to, and does it well. Hits the urge for 80s speed/power metal. They are at their best when they are doing something a little more though, like on 'The Hunter,' which is by far the best track.
+
+#### Theatre of Tragedy - Aégis
+
+One of my favorite albums for many years now. The pinnacle of gothic metal, every song is wonderful and different and memorable. I can't pick a favorite. Never could get into any of Theatre of Tragedy's other albums, or much of the genre at all, but this one is special.
+
+#### Secret Stairways - Enchantment of the Ring
+
+Can't get enough of this. 'Fionvar's Chessboard' continues to be my favorite track but they're all good.
+
+#### Immortal - Diabolical Fullmoon Mysticism
+
+One day I will listen to Immortal's mid and late period albums but first, this one again. 'A Perfect Vision of the Rising Northland' sounds a lot like epic Bathory, heh.
+
+#### Bathory - Blood Fire Death
+
+Immortal brought me here. The more I listen to Bathory the more I become convinced Quorthon just did everything that needed to be done, the second wave of black metal was superfluous (kidding, but Bathory _did_ do sooo much).
+
+---
+
 ### November 18, 2019
 
 #### Katatonia - Brave Murder Day (Peaceville 2006 reissue)
