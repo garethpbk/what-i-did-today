@@ -4,6 +4,17 @@
 
 ---
 
+### November 20, 2019
+
+#### Work
+
+##### Sanctum
+
+- Started writing job aid/documentation, got 3252 words done
+- Tested creating new OneTrust WP local installation and adding theme (seems to work hooray)
+
+---
+
 ### November 19, 2019
 
 #### Work

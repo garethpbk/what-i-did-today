@@ -4,6 +4,22 @@
 
 ---
 
+### November 20, 2019
+
+#### Sisters of Mercy - First and Last and Always
+
+It's raining here in San Diego today which means it's a good day to listen to 80s goth rock. And this album is one of the best. 'Marianne' and the title track are my favorites.
+
+#### Siouxsie and the Banshees - The Scream
+
+Never listened to Siouxsie much beyond a few songs. Should rectify that.
+
+#### Obsequiae - Aria of Vernal Tombs
+
+Oh this is really cool! The melodies are great, haven't heard anything that sounds like this.
+
+---
+
 ### November 19, 2019
 
 #### Wovenhand - Woven Hand
