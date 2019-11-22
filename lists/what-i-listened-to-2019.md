@@ -4,6 +4,30 @@
 
 ---
 
+### November 21, 2019
+
+#### Rome - Flowers From Exile
+
+Cool neofolk that isn't fascist or fascist-adjacent! Really good stuff, dude has a great voice and music is interesting, gonna listen to him a lot more.
+
+#### Carolina Chocolate Drops - Genuine Negro Jig
+
+'Hit 'Em up Style' and 'Cornbread and Butterbeans' are like two of my favorite songs ever. Would love to see this live one day.
+
+#### Rome - A Passage to Rhodesia
+
+A neat way to explore an important part of history. Music's good, too. 'One Fire' is an easy favorite.
+
+#### Vaura - Sables
+
+With this release Vaura left behind pretty much all of their metallic tinge, and that's ok - in place there's more keyboards, more spacey stuff. It's different, but it works for them, and is the most poppy and catchy of their albums. 'Eidolon' is definitely my favorite track and shows off the best guitar work. I love how prominent the bass is on this album too.
+
+#### The Mission - Children
+
+Never listened to a whole album by The Mission before, they're good. 'Beyond The Pale' and 'Tower of Strength' in particular are monumental songs, really great. 'Dream On' cover is good lol I like it more than the original but I don't like Aerosmith much.
+
+---
+
 ### November 20, 2019
 
 #### Sisters of Mercy - First and Last and Always

@@ -4,6 +4,29 @@
 
 ---
 
+### November 21, 2019
+
+#### Work
+
+##### Sanctum
+
+- Remove Vue files, dependencies, and config
+- Remove call to action settings from company info settings
+- Update theme name and info in `style.css`
+- Add theme screenshot
+- Styling tweaks for form success messages
+- Use SVG clip path for Home banner clip path
+- Simplify controller and template for FAQs, Home Buying Process, Home Loan Options, Mission Statement, Team, App
+- Continued working on documentation
+- Favicon for Tabor site
+- Custom field for MLO website URL base on Team page, update Team Member partial accordingly
+
+##### Misc
+
+- Update OTHL.com admin email address
+
+---
+
 ### November 20, 2019
 
 #### Work
