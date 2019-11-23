@@ -4,6 +4,22 @@
 
 ---
 
+### November 22, 2019
+
+##### Sanctum
+
+- Linear gradient for Reviews banner overlay instead of including it in image
+- Update HB Guide banner image
+- Replace placeholder assets with actual assets
+- Commenting and cleaning up Blade templates and partials
+- Commenting and cleaning up Tailwind config
+
+##### Marketo
+
+- Researching and testing implementing Marketo modules in templates
+
+---
+
 ### November 21, 2019
 
 #### Work

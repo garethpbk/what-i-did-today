@@ -4,6 +4,26 @@
 
 ---
 
+### November 22, 2019
+
+#### Birch Book - Werewolf's Eyes
+
+A fellow lover the of cynocephalus, I see. It's nice.
+
+#### Blood Incantation - Hidden History of the Human Race
+
+Dope! What happens when you take a band that runs through everything death metal has ever tried over the course of half an hour, and does it all competently, and more surprisingly coherently!?
+
+#### Vandalorum - Flagellum Dei
+
+Local dungeon synth act is very good. I have seen him live twice now and recognized some of the songs here. Has lots of memorable little bits that are only played once for a few seconds, I like.
+
+#### Manilla Road - Crystal Logic
+
+'Feeling Free Again' is actually not a bad song tbh. Just out of place...
+
+---
+
 ### November 21, 2019
 
 #### Rome - Flowers From Exile
