@@ -4,7 +4,34 @@
 
 ---
 
+### November 25, 2019
+
+#### Work
+
+##### Drip Campaigns
+
+- Added Construction LTFU campaign
+
+##### OneTrustMarketing
+
+- Add new announcements
+
+##### Sanctum
+
+- Writeup about plugins used on JV sites
+- Comment and clean up Tailwind config, deleting unused settings and extensions
+- Remove extraneous `text-black` classes
+- Comment, clean up, and reorganize SCSS files
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+
+---
+
 ### November 22, 2019
+
+#### Work
 
 ##### Sanctum
 

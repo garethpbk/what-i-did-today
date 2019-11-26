@@ -4,6 +4,34 @@
 
 ---
 
+### November 25, 2019
+
+#### Sisters of Mercy - Vision Thing
+
+Very different sound than the first album, less gothy, more rocky? I think I like it. Some cool instrumentation and catchy stuff here. The female vocals are a really nice addition. 'More' is the best song no doubt.
+
+#### Sol Invictus - In the Rain
+
+Some dark, wild music. It's deceptively simple...everything sounds sparse, but then it's really layered, with Wakeford's vocals floating above but also driving it all. I feel drenched.
+
+#### Dressed to Kill - Midnight Impulsion
+
+Solid debut y'all keep it up. Best cover art of 2019.
+
+#### Smoulder - Times of Obscene Evil and Wild Daring
+
+Woah, they made a song about Jirel of Joiry. Very solid heavy metal with a sick vocalist.
+
+#### Ulver - Bergtatt
+
+Probably low-key the most influential of anything from 90s Norway on the metal scene. Sooo much came from here.
+
+#### Obsequiae - The Palms of Sorrowed Kings
+
+I bought this on vinyl yesterday without listening to it first and I'm glad I did! It owns, love all the melodies and production. Really unique stuff.
+
+---
+
 ### November 22, 2019
 
 #### Birch Book - Werewolf's Eyes
