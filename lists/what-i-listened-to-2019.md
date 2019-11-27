@@ -4,6 +4,26 @@
 
 ---
 
+### November 26, 2019
+
+#### In Solitude - Sister
+
+Kind of a weird album, not sure if I like it much, straddles different styles without excelling at any of them. It's unique for sure. The title track is the standout on first listen.
+
+#### Ashbury - Endless Skies
+
+A pleasant album. I really like the first song.
+
+#### Agalloch - The Mantle
+
+Life iss a clllaaayyy uuurrrnnn onnn theee Mannnttllleeee...
+
+#### Panopticon - Scars II (The Basics)
+
+These songs stand really well in their stripped-down form. Would love to see this live. Or any Panopticon tbh.
+
+---
+
 ### November 25, 2019
 
 #### Sisters of Mercy - Vision Thing

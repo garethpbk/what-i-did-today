@@ -4,6 +4,30 @@
 
 ---
 
+### November 26, 2019
+
+#### Work
+
+##### Sanctum
+
+- Commenting custom styles in partials and templates
+- Icons for Instagram and Twitter, fix Instagram icon
+- Gray social media icons handled in Blade templates instead of separate files
+- Consolidate page banner partials into one reusable partial
+- Checked all pages for a11y
+- Error handling for Svelte forms that post to LoanForce
+- Consolidate function to post to LoanForce for Svelte forms
+- Using `DOMContentLoaded` to load route scripts instead of jQuery
+- Delete unused route scripts
+- Rewrite brand settings media uploader script without jQuery
+- Remove jQuery from loaded scripts (except for admin)
+
+##### Misc
+
+- List of all OTHL.com pages and posts exported to CSV
+
+---
+
 ### November 25, 2019
 
 #### Work
