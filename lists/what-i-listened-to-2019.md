@@ -4,6 +4,34 @@
 
 ---
 
+### November 27, 2019
+
+#### Blood Ceremony - The Eldritch Dark
+
+Has the most instantly memorable, catchy tracks of any Blood Ceremony album. 'Ballad of the Weird Sisters' and 'Drawing Down the Moon' are my favorites.
+
+#### The Flight of Sleipnir - Skadi
+
+Oooh I like this. Kind of like doomy atmospheric metal with black influences and vocals. Reminds me of a less-heavy, more melodic Inter Arma.
+
+#### Dax Riggs - Say Goodnight to the World
+
+A lot more accomplished and polished than his earlier solo albums - more bluesy, less rocky, slower in general. His voice has never been better.
+
+#### The Magnetic Fields - The Charm of the Highway Strip
+
+Songs about roads, yep.
+
+#### The Magnetic Fields - i
+
+Songs about i, yep. I appreciate how Merritt pronounces 'infinite.'
+
+#### Neutral Milk Hotel - In the Aeroplane Over the Sea
+
+Once upon a time, when I was...13? this was my favorite album. It is still very good. These days I notice how noisy and rough the production is. A real one-of-a-kind piece of music history.
+
+---
+
 ### November 26, 2019
 
 #### In Solitude - Sister

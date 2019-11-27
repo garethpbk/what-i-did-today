@@ -4,6 +4,25 @@
 
 ---
 
+### November 27, 2019
+
+#### Work
+
+##### Media Release
+
+- Clear unneeded state on continue
+- Better organize mailer script
+- Clean up files and remote server
+
+##### Sanctum
+
+- Tweak templates, partials, and styles for search
+- Tweak form styles, switch alt and default styles
+- Attempt to transpile Svelte properly...swapped Buble for Babel, no good!
+- Set gray icons in App controller instead of individual templates
+
+---
+
 ### November 26, 2019
 
 #### Work
