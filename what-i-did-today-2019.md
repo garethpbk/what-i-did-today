@@ -4,6 +4,30 @@
 
 ---
 
+### December 2, 2019
+
+#### Work
+
+##### Sanctum
+
+- Clean up header & navigation styles and move to markup and nav walker where possible
+- Move layout SCSS partials to components folder (delete layouts)
+- Clean up SCSS files
+- Allow HTML to be used in FAQ answer text
+- Start doing test deployment to Azure Crane site
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+
+#### Personal
+
+##### Advent of Code
+
+- Day 1 parts 1 & 2
+
+---
+
 ### November 27, 2019
 
 #### Work

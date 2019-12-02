@@ -4,6 +4,22 @@
 
 ---
 
+### December 2, 2019
+
+#### Forgotten Pathways - Shrouded in Mystery
+
+Neat vocals and percussion.
+
+#### In Gowan Ring - The Serpent and the Dove
+
+I like, very woodsy, ye olde folky sounding.
+
+#### Darkthrone - A Blaze in the Northern Sky
+
+This is a pretty weird album. It's got this unique angular guitar sound, very buzzy and rough. There's guitar solos and killer riffs! The drumming is a lot more complex than on later DT black metal releases. Dare I say this album is...technical?
+
+---
+
 ### November 27, 2019
 
 #### Blood Ceremony - The Eldritch Dark
