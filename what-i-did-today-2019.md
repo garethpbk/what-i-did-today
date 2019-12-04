@@ -4,6 +4,28 @@
 
 ---
 
+### December 3, 2019
+
+#### Work
+
+##### Sanctum
+
+- Continued test deployment to Azure Crane site
+- Border and background colors for Mortgage Payment calculator amortization payment schedule table
+- Conditional display of page banner images
+- Conditional display of reviews page banner images, move testimonial area to partial and data to controller
+- Conditional display of images for phone & email on careers page (solid color is no image set)
+- Placeholder image for review person
+- Build separate JS bundle for IE and conditionally load based on browser in `setup.php`
+- HB Guide form partial and scripting for IE
+- Function for removing IE form elements
+
+##### Misc
+
+- Updates to Referral Partner email templates and examples
+
+---
+
 ### December 2, 2019
 
 #### Work

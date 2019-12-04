@@ -4,6 +4,30 @@
 
 ---
 
+### December 3, 2019
+
+#### Hedge Wizard - More True Than Time Thought
+
+Really good dungeon synth. Going to listen to this one a lot more.
+
+#### Blood Lord - Unwelcome Guests
+
+The soundtrack to a lost Castlevania game. Fun music that does a great job telling a story with just a keyboard, pretty cool.
+
+#### Paths of the Eternal - Search of True Ascendance
+
+The last track here is really cool, love the vocals.
+
+#### Erang - Within the Land of My Imagination I Am the Only God
+
+This is an ambitious work with lots of great stuff to be found. It is inconsistent, though, and doesn't all mesh together as an album - perhaps too many different sounds here. Each track is interesting in itself for sure.
+
+#### Manes - Slow Motion Death Sequence
+
+Really like 'Chemical Heritage' and will have to listen more to judge the rest. It's a good sound though, I like their vocalists a lot.
+
+---
+
 ### December 2, 2019
 
 #### Forgotten Pathways - Shrouded in Mystery
