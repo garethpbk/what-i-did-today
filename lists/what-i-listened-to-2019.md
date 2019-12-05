@@ -4,6 +4,22 @@
 
 ---
 
+### December 4, 2019
+
+#### Hedge Wizard - More True Than Time Thought
+
+Great start to a rainy day.
+
+#### Falls of Rauros - Hail Wind and Hewn Oak
+
+I keep coming back to this album. It's so wonderfully unpolished, the guitar tone is so nice. And the riffs! The title track has one of my favorite riffs in all black metal. And the breakdown part in 'Of Stone and the Stars in the Sky'! They have evolved so much as a band but their roots were very strong too.
+
+#### Blut Aus Nord - Hallucinogen
+
+This album is so good! It's got the same kind of spiky melodies and leads that I love in Obsequiae. Vindsval continues to be one of the best musicians in metal of all time.
+
+---
+
 ### December 3, 2019
 
 #### Hedge Wizard - More True Than Time Thought

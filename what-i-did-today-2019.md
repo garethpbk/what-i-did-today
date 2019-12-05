@@ -4,6 +4,20 @@
 
 ---
 
+### December 4, 2019
+
+#### Work
+
+##### Sanctum
+
+- Removed jQuery and Popper (from webpack) entirely
+- Move IE polyfills to dev dependencies
+- Pre Approval Checklist form partial and scripting for IE
+- Schedule A Consultation form partial and scripting for IE
+- Mortgage Calculator form partials and scripting for IE (started)
+
+---
+
 ### December 3, 2019
 
 #### Work
