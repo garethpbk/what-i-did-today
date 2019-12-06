@@ -4,6 +4,21 @@
 
 ---
 
+### December 5, 2019
+
+#### Work
+
+##### Sanctum
+
+- Organize polyfills for IE
+- Amortization schedule functionality for IE Mortgage Payment calculator
+- Functionality for IE Income Required, Affordability, & Refinance Savings calculators
+- Deployed production build to test ACC site
+- Color/gray icon variations for mortgage calculator icons
+- Commented carousel JS, routes JS, polyfills JS
+
+---
+
 ### December 4, 2019
 
 #### Work

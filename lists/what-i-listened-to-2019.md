@@ -4,6 +4,18 @@
 
 ---
 
+### December 5, 2019
+
+#### Old Tower - The Rise of the Spectral Horizons
+
+What differentiates 'dungeon synth' from 'dark ambient'? With stuff like this it's hard to tell, it's kind of just a spooky dark ambient album. It's good and creates that mood well. I prefer my dungeon synth with more melody and beep boops, though.
+
+#### Falls of Rauros - Believe in No Coming Shore
+
+Their signature sound is very evident on this album, already. Where the first one sounds so much like Agalloch tribute (in a good way, I love it) this one is really different and contains the unique black metal style they'd run away with.
+
+---
+
 ### December 4, 2019
 
 #### Hedge Wizard - More True Than Time Thought
