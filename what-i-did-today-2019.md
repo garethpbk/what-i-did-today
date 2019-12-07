@@ -4,6 +4,20 @@
 
 ---
 
+### December 6, 2019
+
+#### Work
+
+##### Sanctum
+
+- Commented IE form, media uploader, util JS
+- Remove autoload from main and IE scripts
+- Clean up old non-versioned files on ACC server
+- Better organized template partials
+- Working on documentation/job aid
+
+---
+
 ### December 5, 2019
 
 #### Work

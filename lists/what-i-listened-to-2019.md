@@ -4,6 +4,30 @@
 
 ---
 
+### December 6, 2019
+
+#### Aerial Ruin - Nameless Sun
+
+I really like this guy's voice. He definitely sings on some Bell Witch releases yeah? It's nice, sparse but rich music. A lot happens with just a voice and a guitar. The title track is my favorite.
+
+#### Agalloch - The White EP
+
+The remastered version, which I have never listened to, and has a bonus track. One of my favorite Agalloch releases - it's inconsistent and not every track is great, but they do a really nice job capturing the neofolk sound on songs like 'Sowilo Ruin' and my favorite 'Birch White.' One gets the feeling the band wrote these songs at different times, perhaps to be on different releases? The bonus track is pretty neat, incorporates a lot of stuff from the rest of the EP that's spread out over multiple songs.
+
+#### Departure Chandelier - Antichrist Rise to Power
+
+Raw black metal about Napolean, why not? It's actually really good, the riffs are super killer and the minimal production is great. I am really inspired by this. I like the vocals a lot, they're lower and more growly than typical black metal. The synths are cool.
+
+#### Casket of Dreams - Dragons of Autumn Twilight
+
+The book this is named after was one of my favorites as a kid. Doesn't quite hold up now, but whatever! This would be a great soundtrack for reading it. It's fun, upbeat but mysterious. Definitely going to listen more. Favorite track is 'The Serpent Race.' This is over 20 years old too :o
+
+#### Departure Chandelier - The Black Crest of Death, The Gold Wreath of War
+
+Surprisingly different from the LP - the songs are longer, a bit slower, and even less aggressive? Parts border on, dare I say, atmospheric.
+
+---
+
 ### December 5, 2019
 
 #### Old Tower - The Rise of the Spectral Horizons
