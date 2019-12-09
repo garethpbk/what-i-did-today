@@ -4,6 +4,24 @@
 
 ---
 
+### December 12, 2019
+
+#### Work
+
+##### Sanctum
+
+- Continued working on job aid
+
+##### OneTrustMarketing
+
+- Added YouCanBook.Me to menu of services applications
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+
+---
+
 ### December 6, 2019
 
 #### Work
