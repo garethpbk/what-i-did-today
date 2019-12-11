@@ -4,6 +4,30 @@
 
 ---
 
+### December 10, 2019
+
+#### Aerial Ruin - Namelss Sun
+
+I've listened to this three times through now and it's great, very eerie but comforting.
+
+#### Panopticon - The Scars of Man on the Once Nameless Wilderness, Part I
+
+This is the album where Panopticon has completely honed its metal - it's an hour long but concise, there is not a single wasted second or note here. The interludes are brief and regulate the flow of the album well. 'Snow Burdened Branches' is one of the best songs he's ever put out. No one is making music quite like this and I don't know if anyone else could.
+
+#### Departure Chandelier - Antichrist Rise to Power
+
+I can't stop listening to this, it's so good! 'Forever Faithful to the Emperor' has one of my favorite metal riffs ever.
+
+#### Guild of Lore - Winterstead
+
+Cool sparkly synth music. Captures ye olde 12th-century-charcoal-burner aesthetic.
+
+#### Rome - The Hyperion Machine
+
+Interesing shift of direction for Rome. I'd call it a rock album, even. It's very nice and very melancholy, like all of his stuff, and feels a bit more personal and less political.
+
+---
+
 ### December 6, 2019
 
 #### Aerial Ruin - Nameless Sun

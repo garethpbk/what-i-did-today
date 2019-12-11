@@ -4,7 +4,23 @@
 
 ---
 
-### December 12, 2019
+### December 10, 2019
+
+#### Work
+
+##### Sanctum
+
+- Remove unused custom fields on Home page
+- Reviews page submit testimonial section updated to read more section, custom fields and filenames updated accordingly
+- Update custom fields in theme
+- Insert real content for home menu, reviews, compliance language
+- Set review items to all the same height
+- Add compliance language setting to company info custom settings
+- Continued working on job aid
+
+---
+
+### December 9, 2019
 
 #### Work
 
