@@ -4,6 +4,24 @@
 
 ---
 
+### December 11, 2019
+
+#### Work
+
+##### Sanctum
+
+- Continued working on job aid
+- Commenting calculator scripts
+- Better modularize calculator scripts by extracting shared functions
+
+#### Personal
+
+##### FLAVA
+
+- Working on Spring 2020 conference registration forms
+
+---
+
 ### December 10, 2019
 
 #### Work

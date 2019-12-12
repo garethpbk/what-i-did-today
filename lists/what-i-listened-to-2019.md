@@ -4,6 +4,18 @@
 
 ---
 
+### December 11, 2019
+
+#### Keys of Orthanc - Dush Agh Golnauk
+
+As long as black metal is around, people making it will be inspired by Lord of the Rings. Pretty good atmospheric stuff, nice raw sound with synths that aren't overdone. Gotta have the synthy intro and outro.
+
+#### Windtower - The Eldest One
+
+Medieval synth that's, dare I say, cute? At least 'One Last Merry Night' is. Not incredibly remarkable but a nice listen.
+
+---
+
 ### December 10, 2019
 
 #### Aerial Ruin - Namelss Sun
