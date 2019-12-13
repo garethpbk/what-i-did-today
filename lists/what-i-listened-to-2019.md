@@ -4,6 +4,26 @@
 
 ---
 
+### December 12, 2019
+
+#### Saor - Roots
+
+I tried listening to this guy before and couldn't get into it but I liked it this time. Very relaxing for the type of music it is.
+
+#### Arcturus - Constellation
+
+A unique release for its time no doubt, not something I have or will listen to too much tho. Shades of the band they would later become.
+
+#### In the Woods... - Omnio
+
+A real classic, one of the best metal albums ever, does everything it sets out to do and more.
+
+#### Emperor - Reverence
+
+Two very good Emperor songs. 'The Loss & Curse of Reverence' is one of their best.
+
+---
+
 ### December 11, 2019
 
 #### Keys of Orthanc - Dush Agh Golnauk

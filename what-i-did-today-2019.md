@@ -4,6 +4,19 @@
 
 ---
 
+### December 12, 2019
+
+#### Work
+
+##### Sanctum
+
+- Continued working on job aid
+- Implement design for First Time Homebuyer page
+- Theme and content updates to remote test deployment
+- Set up project for documentation site
+
+---
+
 ### December 11, 2019
 
 #### Work
