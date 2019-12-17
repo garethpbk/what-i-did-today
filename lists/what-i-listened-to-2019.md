@@ -4,6 +4,30 @@
 
 ---
 
+### December 16, 2019
+
+#### Lunar Womb - The Sleeping Green
+
+One of the best medieval/foresty synth things I've heard yet. Felt like I was lying down in an overgrown stone ruin in an old forest the whole time I was listening.
+
+#### Leviathan - The Tenth Sub Level of Suicide
+
+There is a lot of variety on this album. Parts are enough kind of beautiful, like the slow riffs and picking parts of 'The Idiot Sun.'
+
+#### Bathory - Nordland I
+
+I don't think I've ever listened to the Nordland albums before. Not my favorite style of music but it's fun, 'Foreverdark Woods' is my favorite track.
+
+---
+
+### December 13, 2019
+
+#### Departure Chandelier - Antichrist Rise to Power
+
+This is gonna become one of my most listened to albums ever lol. There is quite a bit of depth and variety to the songwriting here. None of the songs really sounds like any of the others - the riffs are constructed differently, there's different techniques being used.
+
+---
+
 ### December 12, 2019
 
 #### Saor - Roots

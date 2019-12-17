@@ -4,6 +4,44 @@
 
 ---
 
+### December 16, 2019
+
+#### Work
+
+##### Sanctum
+
+- Menu functionality built
+- Menu elements styled
+- Updated custom field descriptions
+- Continue working on documentation
+- Update docs site with all existing docs
+- Implement `gatsby-plugin-layout`
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+
+---
+
+### December 13, 2019
+
+#### Work
+
+##### Sanctum
+
+- Repo for docs site
+- Add all markdown for current pages
+- Menu component to build menu from markdown pages
+
+#### Personal
+
+##### FLAVA
+
+- Finishing setting up Spring 2020 registration forms
+- Sent invoice
+
+---
+
 ### December 12, 2019
 
 #### Work
