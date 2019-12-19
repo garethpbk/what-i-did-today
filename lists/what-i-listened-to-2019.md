@@ -4,6 +4,42 @@
 
 ---
 
+### December 18, 2019
+
+#### Hole Dweller - Flies the Coop ()
+
+One of the best dungeon synth albums I've heard, definitely the best of 2019. Each track has its own story and the progression across the album is wild - you can really feel the journey from the comfortable Shire to more dangerous places. Listened twice. Favorite track is 'Have My Eyes Seen a Phantasm in the Shadow of Camp?,' it's eerie!
+
+#### Burzum - Daudi Baldrs
+
+I like this album. Its limitations are its strengths.
+
+#### Secret Stairways - Enchantment of the Ring
+
+This album is like that part in Diablo II when you're going up the stairs floating in space, except instead of stressful and violent it's relaxing and peaceful.
+
+#### Earthencloak - Pipe Smoke & Faery Magick
+
+Gnome synth indeed. Goes from very whimsical and light sounding to quite dark by the end. Title track is the standout.
+
+#### Diplodocus - Slow And Heavy
+
+Dinosaur synth. Pretty cool, very much sounds like old dinosaur movies. Calls to mind shitty models.
+
+---
+
+### December 17, 2019
+
+#### Agalloch - The Mantle (Remastered)
+
+Can't get the arpeggio parts of 'You Were But A Ghost In My Arms' outta my head...
+
+#### Departure Chandelier - Antichrist Rise to Power
+
+Got a drive that'll take a little over half an hour? Perfect album for that...I really am starting to appreciate the synth parts of this album a lot, it's cool when they take the lead like on the first track.
+
+---
+
 ### December 16, 2019
 
 #### Lunar Womb - The Sleeping Green

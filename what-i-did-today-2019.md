@@ -4,6 +4,38 @@
 
 ---
 
+### December 18, 2019
+
+#### Work
+
+##### Sanctum
+
+- Add fields directory to theme for holding ACF JSON files
+- Continue working on documentation
+- Add pages and post types to docs site
+- Add footer with build date to docs site
+
+---
+
+### December 17, 2019
+
+#### Work
+
+##### Sanctum
+
+- Figure out layout wrapper for docs site
+- More styling for docs site
+- Table of contents on front page of docs site
+- Published docs site to Netlify
+
+#### Personal
+
+##### Svelte Presentation
+
+- Appearance components and functionality
+
+---
+
 ### December 16, 2019
 
 #### Work
