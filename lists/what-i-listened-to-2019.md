@@ -4,11 +4,31 @@
 
 ---
 
+### December 19, 2019
+
+#### Autumn Heart - The Deaths of Summer
+
+Really cool, like raw post-black metal. The production works so well, the vocals are real cool. Strong contender for one of the best albums released this year. 'Old Storms Appear' is the best track, it is all over the place in a good way. 'We Wear The Old Masks, We Are You Again' sounds like black metal Sonic Youth lol.
+
+#### Hedge Wizard - More True Than Time Thought
+
+'Conjurer's Clutter' is the best track here, it's so aptly named and good.
+
+#### Hole Dweller - Flies the Coop
+
+Gonna be listening to this one a lot.
+
+#### Serpent's Isle - Legends of the Ancient Bay
+
+Does very well capturing a nautical atmosphere. Rough lo-fi dungeon synth is my favorite of the genre. Which is true for every other genre too I guess.
+
+---
+
 ### December 18, 2019
 
-#### Hole Dweller - Flies the Coop ()
+#### Hole Dweller - Flies the Coop
 
-One of the best dungeon synth albums I've heard, definitely the best of 2019. Each track has its own story and the progression across the album is wild - you can really feel the journey from the comfortable Shire to more dangerous places. Listened twice. Favorite track is 'Have My Eyes Seen a Phantasm in the Shadow of Camp?,' it's eerie!
+One of the best dungeon synth albums I've heard, definitely (among) the best of 2019. Each track has its own story and the progression across the album is wild - you can really feel the journey from the comfortable Shire to more dangerous places. Listened twice. Favorite track is 'Have My Eyes Seen a Phantasm in the Shadow of Camp?,' it's eerie!
 
 #### Burzum - Daudi Baldrs
 

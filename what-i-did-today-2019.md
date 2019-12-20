@@ -4,6 +4,31 @@
 
 ---
 
+### December 19, 2019
+
+#### Work
+
+##### Sanctum
+
+- Add header logo setting to brand settings
+- Remove "hover over" text from mortgage calculator select
+- New icons for Home Loan Options page
+- Remove borders between icons on Home Loan Options page
+- Add gray background to Home Loan Options page
+- Removed quotes icon from Schedule A Consultation links
+- Add theme deployment to docs
+- Merged theme working branch into master branch on Bitbucket, clean up old branches
+
+#### Personal
+
+##### Gatsby Build Date Plugin
+
+- Set up project and test Gatsby site
+- Basic version of plugin functional
+- Looked into date localization options for Node (hmm)
+
+---
+
 ### December 18, 2019
 
 #### Work
