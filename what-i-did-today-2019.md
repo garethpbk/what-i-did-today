@@ -4,6 +4,65 @@
 
 ---
 
+### December 23, 2019
+
+#### Work
+
+##### Sanctum
+
+- Updated custom fields on ACC site
+
+##### Sanctum Docs Site
+
+- Add `gatsby-plugin-catch-links` and `gatsby-remark-autolink-headers` to docs site
+- Going through docs and updating and adding links as needed
+
+##### Marketo
+
+- Test tokens for mobile-friendly weekly update emails
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+
+#### Personal
+
+##### Level Up Tutorials React & TypeScript for Everyone
+
+- Thru video #5
+
+---
+
+### December 20, 2019
+
+#### Work
+
+##### Sanctum
+
+- Use build date plugin on docs site
+- Add search functionality to docs site
+- Update docs site `package.json`
+- Added feedback email to contact us page
+
+##### OTHL.com
+
+- Server archaeology to build list of pages hosted on OTHL.com not through WordPress
+
+#### Personal
+
+##### Gatsby Build Date Plugin
+
+- Use `date-and-time` package for date formatting and localization
+- Write readme
+- Publish to npm
+- Build example site and deploy to Netlify
+
+##### Gatsby Zendesk Chat Plugin
+
+- Fix typos, republish to npm
+
+---
+
 ### December 19, 2019
 
 #### Work

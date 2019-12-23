@@ -4,6 +4,22 @@
 
 ---
 
+### December 20, 2019
+
+#### Hobbit - Leaving the Shire
+
+Cool another dungeon synth album about a Hobbit leaving the Shire. In this case it's very directly based on 'Fellowship.' It's ok but not something I feel much desire to lisetn to again - does a good job at hitting the appropriate themes for the songs, though 'Enter Rivendell' is a bit too bombastic and dark for my liking.
+
+#### Autumn Heart - The Deaths of Summer
+
+Closest thing I've heard to this is some French acts like Nuit Noire and Call Me Loretta. Not really that they sound like it, but similar vibes.
+
+#### Velvet Cacoon - Genevieve
+
+This is a desert island album, a one-of-a-kind achievement that'll never be exceeded at what it tries to do.
+
+---
+
 ### December 19, 2019
 
 #### Autumn Heart - The Deaths of Summer
@@ -21,6 +37,10 @@ Gonna be listening to this one a lot.
 #### Serpent's Isle - Legends of the Ancient Bay
 
 Does very well capturing a nautical atmosphere. Rough lo-fi dungeon synth is my favorite of the genre. Which is true for every other genre too I guess.
+
+#### Falls of Rauros - Patterns in Mythology
+
+This album is very good, better than I gave it credit for when I've listened to it before.
 
 ---
 
