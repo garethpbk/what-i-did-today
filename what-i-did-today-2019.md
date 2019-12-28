@@ -4,6 +4,46 @@
 
 ---
 
+### December 27, 2019
+
+#### Work
+
+##### Sanctum
+
+- Explored localizing custom post types plugin
+
+##### Sanctum Docs Site
+
+- Continuing to go through docs to update and add links
+
+##### Misc
+
+- More cache testing
+
+
+#### Personal
+
+##### Level Up Tutorials React & TypeScript for Everyone
+
+- Thru video #13
+
+---
+
+### December 24, 2019
+
+#### Work
+
+##### Marketo
+
+- Working responsive weekly update test email
+
+##### Misc
+
+- Updated The Loan Process site
+- Cache testing for OTHL site
+
+---
+
 ### December 23, 2019
 
 #### Work

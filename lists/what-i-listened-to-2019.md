@@ -4,6 +4,30 @@
 
 ---
 
+### December 27, 2019
+
+#### Acheulean Forests - Of Faerie
+
+Yes, this is the sound of the wee folk of the woods, no doubt.
+
+#### Last Redoubt - Nachtwelt
+
+William Hope Hodgson inspired project! Neat! Does a good job capturing the bleakness of "The Night Land" and the samples of the text read work really well with the music.
+
+#### Faery Ring - The Urchin Prince
+
+More on the orchestral, dark epic side of things. But still pretty minimal. Is cool.
+
+---
+
+### December 24, 2019
+
+#### Vale of Pnath - Hymn of the Plants
+
+Quirky ambient stuff. Sounds like plants growing and creeping around.
+
+---
+
 ### December 20, 2019
 
 #### Hobbit - Leaving the Shire
