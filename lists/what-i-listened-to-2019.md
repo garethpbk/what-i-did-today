@@ -4,6 +4,30 @@
 
 ---
 
+### December 30, 2019
+
+#### Bellkeeper - The First Flame of Lordran
+
+Dark Souls synth from the Hole Dweller guy. Very recognizable sound, though the tone is quite different. Favorite track 'Sungazer (To Find One's Own Sun)' - the whole album is surprisingly uplifting for Dark Souls!
+
+#### Fogweaver - Fogweaver
+
+Deceptively rich. I think the first track is my fave despite being the simplest, it's just nice.
+
+#### Acheulean Forests - Fairy Forests
+
+Short and sweet and very fey.
+
+#### Forgotten Kingdoms - Demo I
+
+Cool first release. Didn't like the vocals at first but they're kinda neat, unique.
+
+#### Sequestered Keep - The Vale of Ruined Towers
+
+Very medieval, martial, lots of cool horns and stuff.
+
+---
+
 ### December 27, 2019
 
 #### Acheulean Forests - Of Faerie

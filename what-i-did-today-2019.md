@@ -4,6 +4,31 @@
 
 ---
 
+### December 30, 2019
+
+#### Work
+
+##### OneTrust Site Rebuild
+
+- Started front-end functionality doc
+
+##### OneTrustMarketing
+
+- Add 12/30/19 and 1/2/20 announcements
+
+##### Marketo
+
+- Fixing weekly update email responsivity
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+- Fix typo on The Loan Process site
+- Updated footer copyright for OTHL, MLO, CalCon, JoinOneTrust, Schumacher LP, Tabor, Media Release, Client Consent pages
+- Update calculators on Schumacher LP
+
+---
+
 ### December 27, 2019
 
 #### Work
