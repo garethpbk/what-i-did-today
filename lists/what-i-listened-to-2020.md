@@ -4,6 +4,30 @@
 
 ---
 
+### January 3, 2020
+
+#### Hedge Wizard - More True Than Time Thought
+
+My second favorite dungeon synth album of 2019. 'Conjurer's Clutter' def. my favorite track. Really interesting music, multilayered with multiple melodies weaving in and out.
+
+#### Grandma's Cottage - Grandma's Cottage
+
+Cozy is the word. Love the synth sounds.
+
+#### Medhelan - The Minstrel's Fireplace Tales
+
+Very accurately named. How do they get all the medieval sounds? Are these real instruments?
+
+#### Borg - The Triumph of Spring
+
+Quirky medieval folk music? Is really cool.
+
+#### Vandalorum - Flagellum Dei
+
+I should listen to the tape I have of this guy he's good.
+
+---
+
 ### January 2, 2020
 
 #### Funereal Presence - Achatius

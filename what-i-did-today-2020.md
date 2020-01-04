@@ -4,6 +4,27 @@
 
 ---
 
+### January 3, 2020
+
+#### Work
+
+##### Marketo
+
+- Troubleshooting Milestone email updates
+
+##### Sanctum
+
+- Finish resizing pages
+- Responsive review of resized pages
+- Updated theme and content on test remote ACC site
+
+##### OneTrust Site Rebuild
+
+- Continued working on front end functionality doc
+- Looking into SVG map with lat/lng coord mapping in Svelte
+
+---
+
 ### January 2, 2020
 
 #### Work
