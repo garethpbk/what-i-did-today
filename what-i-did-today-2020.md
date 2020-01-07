@@ -4,6 +4,28 @@
 
 ---
 
+### January 6, 2020
+
+#### Work
+
+##### OneTrust Site Rebuild
+
+- First draft of front end functionality doc done
+
+##### Sanctum
+
+- Remove extra z on Mission Statement template
+- Better check for if menu items have children in nav walker
+- Fix nav item height rule for mobile in nav walker (tweak for some browsers)
+- Fix header logo width so it works in all browsers
+- Fix Reviews page banner height for IE11
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+
+---
+
 ### January 3, 2020
 
 #### Work

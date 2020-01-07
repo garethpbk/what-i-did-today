@@ -4,6 +4,14 @@
 
 ---
 
+### January 6, 2020
+
+#### The Magnetic Fields - 69 Love Songs
+
+Never listened to this in one sitting before. First time for everything! There's some very good and dear songs here, some kinda stinkers, and everything inbetween. To be expected. It's a monumental work and one of the best albums of the 90s.
+
+---
+
 ### January 3, 2020
 
 #### Hedge Wizard - More True Than Time Thought
