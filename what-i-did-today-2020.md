@@ -4,6 +4,32 @@
 
 ---
 
+### January 7, 2020
+
+#### Work
+
+##### Sanctum
+
+- Replace review headshots with review stars
+- Update header to use image with background
+- Use different character for Home & FTB menu arrows so it renders consistently
+- Fix for iPhone button borders
+- Full round of BrowserStack testing
+- Wrote QC checklist for Tabor site, sent to team
+- Remove unused Tailwind config rules
+- Fix for mobile nav menu height to account for header
+
+##### Sanctum Docs
+
+- Updates to deployment, reviews docs
+
+##### Modular Resource Site
+
+- Update footer with range
+- Update package.json, delete unused files
+
+---
+
 ### January 6, 2020
 
 #### Work

@@ -4,6 +4,38 @@
 
 ---
 
+### January 7, 2020
+
+#### Secret Stairways - Enchantment of the Ring
+
+I wanna know what he made this one. Such neat sounds.
+
+#### Earthencloak - Pipe Smoke & Faery Magick
+
+This album starts off very whimsical and gets rather dark by the end. Interesting progression.
+
+#### Fief - II
+
+Well I see why this is such a big name in dungeon synth. It's insanely well done. I prefer the more lo-fi stuff but big props to Fief.
+
+#### Camp Cope - How to Socialise & Make Friends
+
+Nice music, not my favorite in this style (don't really like the vocalist too much) but it's a pleasant listen!
+
+#### Electrelane - No Shouts, No Calls
+
+'Cut and Run' is one of my favorite songs ever and the rest of the album is cool too. It's well-paced and each song is pretty unique.
+
+#### Bellkeeper - The First Flame of Lordran
+
+Damn this album is REALLY good. There's so much going on and the songs all evolve and build on themselves so well.
+
+#### Xasthur - Nocturnal Poisoning
+
+Never really listened to Xasthur that much, didn't get into it when it came out. His early-mid 2000s black metal stuff is quite good, though! It's like music from a crawlspace.
+
+---
+
 ### January 6, 2020
 
 #### The Magnetic Fields - 69 Love Songs
