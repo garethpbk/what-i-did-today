@@ -4,6 +4,22 @@
 
 ---
 
+### January 8, 2020
+
+#### Obsequiae - The Palms of Sorrowed Kings
+
+Def. one of my favorite albums of last year. 'In the Garden of Hyacinths' gotta be the best song here.
+
+#### Windir - Soknardalr
+
+Saw a list on RYM recently that was like "It's Windir." and yeah that's about right.
+
+#### Akitsa - Credo
+
+These guys are at the top of their game. Great album, each song has its own distinct feel, from punky to epic. Pretty impressive given what they're working with. Favorite track 'Credo.'
+
+---
+
 ### January 7, 2020
 
 #### Secret Stairways - Enchantment of the Ring

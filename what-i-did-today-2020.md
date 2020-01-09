@@ -4,6 +4,21 @@
 
 ---
 
+### January 8, 2020
+
+#### Work
+
+##### Marketo
+
+- Fix for Milestone email mobile tracker graphic
+- Exploring building modularized Milestone email template
+
+##### OneTrust Site Rebuild
+
+- Updates to functionality doc
+
+---
+
 ### January 7, 2020
 
 #### Work
