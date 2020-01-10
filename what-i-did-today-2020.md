@@ -4,6 +4,25 @@
 
 ---
 
+### January 9, 2020
+
+#### Work
+
+##### OneTrust Site Rebuild
+
+- Installed Sanctum theme on local development site, set up basic configuration and home page
+- Look into exporting & importing blog posts and press releases
+
+##### Marketo
+
+- Continuing to build Milestone email template
+
+##### Misc
+
+- Ticket for SSL cert renewal
+
+---
+
 ### January 8, 2020
 
 #### Work

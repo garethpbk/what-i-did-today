@@ -4,6 +4,14 @@
 
 ---
 
+### January 9, 2020
+
+#### Balrog - The Shadow and the Flame
+
+Very well done though I don't like it all that much - too abstract for me. It's interesting, doesn't invoke Tolkien very much though.
+
+---
+
 ### January 8, 2020
 
 #### Obsequiae - The Palms of Sorrowed Kings
