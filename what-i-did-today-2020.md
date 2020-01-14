@@ -4,6 +4,55 @@
 
 ---
 
+### January 13, 2020
+
+#### Work
+
+##### OneTrust Site Rebuild
+
+- Partial for single blog posts in child theme with filter to include paragraphs
+- Mapping out new templates and pages
+- Adding pages to development site
+
+##### Sanctum
+
+- Better behavior for mortgage calculator percentage and currency fields
+- Tweaks to Schedule A Consultation form, disable text checkbox
+- Remove IDs from review stars
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+- Fix licensing map styling for IE on OTHL site
+
+---
+
+### January 10, 2020
+
+#### Work
+
+##### Sanctum Custom Post Types
+
+- Add category to blog posts
+
+##### OneTrust Site Rebuild
+
+- Set up child theme of Sanctum with Bitbucket repo
+
+##### Sanctum
+
+- Cross-browser solution for home banner clip-path that works on Edge
+- Various tweaks from first round of QC feedback
+- Fix for Home Loan Options icon size in Edge
+- Fix for core values hover styles on mobile Safari
+
+##### Marketo
+
+- Updated all Weekly Update emails with new tokens
+- Fixed banner image in Weekly Update email 9
+
+---
+
 ### January 9, 2020
 
 #### Work

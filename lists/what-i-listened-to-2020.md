@@ -4,6 +4,50 @@
 
 ---
 
+### January 13, 2020
+
+#### Green Carnation - Light of Day, Day of Darkness
+
+One of my favorite prog songs, one that really justifies itself being an hour long. Love love love the vocals.
+
+#### Subterranean Masquerade - Vagabond
+
+Totally did not know Green Carnation's vocalist sang on this (and their last one)!? Whatta coincidence. I dunno about this album, don't love the direction their music took. The 'Space Oddity' cover I could do without too.
+
+#### Pain of Salvation - Remedy Lane Remixed
+
+Not exactly sure what is remixed about this - better production I guess - but then again I haven't listened to Remedy Lane is a long time! 10 years? Something like that. Still love it though, second favorite PoS album after The Perfect Element Pt 1.
+
+#### Panopticon - Autumn Eternal
+
+Everything Panopticon has released is gold and this is no exception. Really focuses on atmosphere and the melancholy feel.
+
+#### Bathory - Bathory
+
+\m/
+
+---
+
+### January 10, 2020
+
+#### Brånd - Urkraft
+
+Really cool, lo-fi post-punk/black metal? I love stuff like this. Many more listens to come.
+
+#### Autumn Heart - The Deaths of Summer
+
+Def. one of the coolest things to come out last year. Very unique.
+
+#### Sequestered Keep - The Vale of Ruined Towers
+
+Another "not my fave but very well done" dungeon synth release.
+
+#### Ayreon - The Final Experiment
+
+In some ways this is my favorite Ayreon album. It's a lot more constrained than the later stuff, but still with all the stuff that make Ayreon unique. Maybe I just like the story the most.
+
+---
+
 ### January 9, 2020
 
 #### Balrog - The Shadow and the Flame
