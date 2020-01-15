@@ -4,6 +4,30 @@
 
 ---
 
+### January 14, 2020
+
+#### Tiny Mouse - Little One's Journey
+
+Hell yeah mouse synth
+
+#### Tiny Mouse - The Happiest Mouse Alive
+
+Hell yeah mouse synth pt 2
+
+#### Darken Wood - I
+
+Really like this, very eerie and creepy but still kinda cozy. Very much nails the feeling of being lost in a weird dark wood. Cool that's there's a few more albums!
+
+#### Bloodlord - Unwelcome Guests
+
+Makes me wanna get a cool little toy keyboard.
+
+#### Obsequiae - Aria of Vernal Tombs
+
+I think this one is not quite as good as the more recent one but still killer.
+
+---
+
 ### January 13, 2020
 
 #### Green Carnation - Light of Day, Day of Darkness

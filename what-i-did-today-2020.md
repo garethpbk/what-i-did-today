@@ -4,6 +4,31 @@
 
 ---
 
+### January 14, 2020
+
+#### Work
+
+##### Sanctum
+
+- Finish first round of QC review, added notes to Basecamp
+- Schedule second round of QC
+- Update blog and press post types to use default WP post content and excerpt
+- Consistent title casing
+
+##### OneTrust Site Rebuild
+
+- Exploring how to best import/export blog posts and press releases
+- First draft of BRD for MLO search tool
+
+#### Personal
+
+##### FLAVA
+
+- Update W-9 on Spring registration payment form
+- Update treasurer information on Spring forms
+
+---
+
 ### January 13, 2020
 
 #### Work
