@@ -4,6 +4,32 @@
 
 ---
 
+### January 16, 2020
+
+#### Work
+
+##### OneTrust Site Rebuild
+
+- Step form progress bar
+- Add fields for purchase path
+
+---
+
+### January 15, 2020
+
+#### Work
+
+##### OneTrust Site Rebuild
+
+- Figuring out how to best use stores in step form
+- Basic setup and skeleton for step form (currently as separate project with separate repo)
+
+##### Sanctum
+
+- Started implementing feedback from second round of QC
+
+---
+
 ### January 14, 2020
 
 #### Work

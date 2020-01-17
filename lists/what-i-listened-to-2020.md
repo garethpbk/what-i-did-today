@@ -4,6 +4,38 @@
 
 ---
 
+### January 16, 2020
+
+#### Warning - Watching From a Distance
+
+A very good album for when you're slightly hungover and don't want to be at work.
+
+#### Hammers of Misfortune - The Bastard
+
+Having mostly-short songs that go all over the place is an interesting choice here. I like it, really lets the album tell a story.
+
+---
+
+### January 15, 2020
+
+#### Agalloch - The Serpent and the Sphere
+
+I think it's good that Agalloch called it quits when they did. They made some amazing music but by this album kinda felt like they were running out of ideas. It's not bad, just...uninspired? Better than the previous one, at least. Dekker is a killer drummer tho.
+
+#### Woods of Ypres - Woods 5: Grey Skies & Electric Light
+
+An eerie album, it is as if David Gold knew...
+
+#### Witchlords - Demons in the Dark
+
+Good old school speed metal with kinda wonky production - like it's trying to sound old but kinda just sounds weak? Not much low end. Still very fun!
+
+#### Agent Steel - Skeptics Apocalypse
+
+Listening to any speed metal just makes me want to listen to this again.
+
+---
+
 ### January 14, 2020
 
 #### Tiny Mouse - Little One's Journey
