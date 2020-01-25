@@ -4,6 +4,70 @@
 
 ---
 
+### January 24, 2020
+
+#### Cryptopsy - None So Vile
+
+Probably the best death metal album that ever will be, it's just perfect in every way.
+
+#### Diabolical Masquerade - Death's Design
+
+A neat album I never listened to enough. Jumps all over the place but manages to flow pretty well. The main riff is very memorable.
+
+#### Sculptured - The Spear of the Lily is Aureoled
+
+A pretty incredible debut from a very underrated band.
+
+#### Agalloch - The Mantle
+
+This really is like the best album ever arghhh.
+
+---
+
+### January 22, 2020
+
+#### Khôrada - Salt
+
+Really neat, creative stuff, no clue what genre to call this. Last track is my favorite, sounds like goth rock almost.
+
+#### Constellatia - The Language of Limbs
+
+Shades of the 90s Norwegian black metal innovators here, In The Woods... and Ved Buens Ende and the like. A bit disjointed and the drums are not mixed well but it's a good album that gets better as it goes on.
+
+#### Twilight Force - Tales of Ancient Prophecies
+
+Lol goofy shit. I guess it's fun but a little uninspired and not very memorable. Will try their later albums though.
+
+#### Cobalt - Slow Forever
+
+Ain't nothing out there that really sounds like Cobalt. Black metal with big Neurosis and Tool vibes. It's grimy, it's sludgy, it's one-of-a-kind.
+
+---
+
+### January 21, 2020
+
+#### King's X - Dogman
+
+Cool album, it's like heavy prog-grunge. Never listened to King's X before. Just love that title, 'Dogman.'
+
+#### Toxic Holocaust - Primal Future: 2019
+
+Never got much into thrash or crossover but this shit rips, it's super fun and groovy. Interestingly it's not too fast, kinda mid-paced? It works well, the focus isn't on speed so much as the riffs and the songwriting which really shine.
+
+---
+
+### January 17, 2020
+
+#### Saint Vitus - Saint Vitus
+
+The 1984 one. Super great. It's slow and sloppy and produced really weirdly, the guitars sound like they're underwater. I love it.
+
+#### Darkest House - Undoing Ruin
+
+10/10, flawless album, 'Convalescence' probably my favorite track but it's hard to pick!
+
+---
+
 ### January 16, 2020
 
 #### Warning - Watching From a Distance

@@ -4,6 +4,124 @@
 
 ---
 
+### January 24, 2020
+
+#### Work
+
+##### Sanctum
+
+- Updated to remove LF source and company short name fields
+- Add LF campaign prefix setting, use in forms
+- Add Reese Tabor into team controller (as not in LoanForce)
+- NMLS# in team member partial conditional
+
+##### Sanctum Docs
+
+- Mention campaign and source in Svelte forms docs
+
+##### CalCon Site
+
+- Finished list of needs to launch CalCon JV site
+
+##### OneTrust Site Rebuild
+
+- List of current and new plugins
+- Website checklist for wireframes broken down by page
+
+---
+
+### January 23, 2020
+
+#### Work
+
+##### Sanctum
+
+- Further QC fixes/tweaks/changes
+- Move LoanForce contact creation script to ACC server
+- Add custom setting for LF contact creation script URL, use instead of hardcoded URL in theme
+- Update Tabor site migration guide, add to Sharepoint
+
+##### Sanctum Docs
+
+- Add docs about LF contact creation endpoint
+
+##### Schumacher LP
+
+- Remove VA video
+- Update team members, crop and add headshots to LF
+
+##### CalCon Site
+
+- Started list of needs to launch CalCon JV site
+
+##### Misc
+
+- Check 15 Questions Flowpaper, update list of sites
+
+---
+
+### January 22, 2020
+
+#### Work
+
+##### OneTrust Site Rebuild
+
+- First draft of wireframes done
+
+##### Sanctum
+
+- Adjust footer menus
+- Tweak calculator results styles
+- Schedule final round of Tabor QC with team
+- Migration guide for setting up new Tabor site
+
+---
+
+### January 21, 2020
+
+#### Work
+
+##### Sanctum
+
+- Tweaks to mortgage calculator result styles
+- Pre-Approval checklist URL custom setting
+- Add Pre-Approval checklist PDF opening to form submission scripts
+- Fix email campaign names on all forms
+
+##### Sanctum Docs
+
+- Update docs for redirections, new custom setting, Svelte styling
+
+##### OneTrust Site Rebuild
+
+- Started wireframes for step interview form
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+
+---
+
+### January 17, 2020
+
+#### Work
+
+##### Sanctum
+
+- Finish feedback from second round of QC
+- Disable scrolling behavior for mobile Home Loan Options page
+
+##### OneTrust Site Rebuild
+
+- Step form fields for refinance & build paths
+- Adjusted behavior for progress bar to account for shared starting screens
+
+##### Misc
+
+- Test upgrading styled components on MLO sites (seems to work)
+
+---
+
 ### January 16, 2020
 
 #### Work
