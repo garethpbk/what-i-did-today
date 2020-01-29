@@ -4,6 +4,18 @@
 
 ---
 
+### January 28, 2020
+
+#### Darken Wood - II
+
+Got quite a lot of video game influence here, like the last track is called 'Hidden Temple' and sounds like Zelda music! It's good though, really ethereal and unique stuff.
+
+#### Bellkeeper - The First Flame of Lordran
+
+One of my favorite dungeon synth albums, I can't wait to hear more from Roland the Recluse (his other project Hole Dweller is insanely good too).
+
+---
+
 ### January 24, 2020
 
 #### Cryptopsy - None So Vile

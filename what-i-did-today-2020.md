@@ -4,6 +4,41 @@
 
 ---
 
+### January 27, 2020
+
+#### Work
+
+##### OneTrust Site
+
+- Added Tidio chat
+
+##### Portfolio LPs
+
+- Added Tidio chat, disabled Drift
+
+##### Drip Campaigns
+
+- Added Recruit LTFU campaign
+
+##### OneTrustMarketing
+
+- Added 1/20/2020 announcement
+
+##### Tidio Chat
+
+- Created `gatsby-plugin-tidio-chat` to easily integrate Tidio into Gatsby LPs, published to npm
+
+##### CalCon Site
+
+- BRD for subdomain and WP installation
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+- QC for OTHL promo store
+
+---
+
 ### January 24, 2020
 
 #### Work
