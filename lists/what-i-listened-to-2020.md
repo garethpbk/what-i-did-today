@@ -4,6 +4,22 @@
 
 ---
 
+### January 29, 2020
+
+#### Akitsa - Sang Nordique
+
+I love these weirdos, an album that's very raw and harsh at times but also surprisingly laid back and chill at others. Like on 'La Nature De Mon Pays' which is basically a very distorted post-punk song and also my favorite on the album.
+
+#### Book of Sand - How Beautiful to Walk Free
+
+It's interesting to hear "experimental" black metal that is this raw. It's definitely a noisy chaotic mess, and the tracks kinda vary wildly in quality, but definitly worth a listen and I'm very interested to hear what else this band has done. Plus one for being anarchist vegans?
+
+#### Departure Chandelier - The Black Crest, The Gold Wreath of War
+
+Found out this was recorded after their album and that makes a lot of sense. It's more refined, less sloppy, the songwriting tighter. The pace is slower but it's also more punky - there's no lack of fierce riffing here. The production is clearer, it's still pretty raw but you can hear everything well (especially the vocals). There synths are even more prominent, when they show up.
+
+---
+
 ### January 28, 2020
 
 #### Darken Wood - II

@@ -4,6 +4,26 @@
 
 ---
 
+### January 28, 2020
+
+#### Work
+
+##### Drip Campaigns
+
+- Update Recruit LTFU text
+
+##### OneTrust Site
+
+- Disable Zendesk
+
+##### OneTrust Site Rebuild
+
+- Look at fields currently available in LF contact creation API
+- Add new proprty use step and update when looking step in step interview form prototype and wireframes
+- Desktop wireframes for Home, Find a Loan Officer, Contact Us pages
+
+---
+
 ### January 27, 2020
 
 #### Work
