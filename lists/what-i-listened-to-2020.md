@@ -4,6 +4,22 @@
 
 ---
 
+### January 30, 2020
+
+#### Brånd - Urkraft
+
+Wanna buy that cassette.
+
+#### Cosmic Church - Vigilia
+
+Been wanting to listen to this artist for a while, it doesn't disappoint! Good kinda atmospheric black metal, some really great riffs here, especially on the last track.
+
+#### Ty Segall - First Taste
+
+It's a Ty Segall album, definitely. No instant earworms but not a bad listen.
+
+---
+
 ### January 29, 2020
 
 #### Akitsa - Sang Nordique
@@ -14,7 +30,7 @@ I love these weirdos, an album that's very raw and harsh at times but also surpr
 
 It's interesting to hear "experimental" black metal that is this raw. It's definitely a noisy chaotic mess, and the tracks kinda vary wildly in quality, but definitly worth a listen and I'm very interested to hear what else this band has done. Plus one for being anarchist vegans?
 
-#### Departure Chandelier - The Black Crest, The Gold Wreath of War
+#### Departure Chandelier - The Black Crest of Death, The Gold Wreath of War
 
 Found out this was recorded after their album and that makes a lot of sense. It's more refined, less sloppy, the songwriting tighter. The pace is slower but it's also more punky - there's no lack of fierce riffing here. The production is clearer, it's still pretty raw but you can hear everything well (especially the vocals). There synths are even more prominent, when they show up.
 

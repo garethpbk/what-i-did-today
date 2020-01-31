@@ -4,7 +4,25 @@
 
 ---
 
-### January 28, 2020
+### January 30, 2020
+
+#### Work
+
+##### OneTrust Site Rebuild
+
+- Desktop wireframes for About Us, Leadership/Family of Companies (tbd), Accolades (tbd), Careers, News, Blog, Guides pages
+
+##### Sanctum
+
+- Bought ACF PRO license for OTHL, swapped license keys on Tabor dev and live test sites
+
+##### Misc
+
+- BAI CCPA learning
+
+---
+
+### January 29, 2020
 
 #### Work
 
@@ -24,7 +42,7 @@
 
 ---
 
-### January 27, 2020
+### January 28, 2020
 
 #### Work
 
