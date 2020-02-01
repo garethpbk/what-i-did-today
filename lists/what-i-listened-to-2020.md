@@ -4,6 +4,22 @@
 
 ---
 
+### January 31, 2020
+
+#### Panopticon/Nechochwen - Split
+
+Another great 20 minute song from Panopticon, the emotion in here is very real and I dare say this might be one of the best things he's released. Nechochwen side is good too but I'm less familiar with them and need to listen more. I like their sound though.
+
+#### Panopticon/Aerial Ruin - Split
+
+Two Panopticon splits released in one day, oi vey! This one is his folky side, complimented wonderfully by Aerial Ruin. Aerial Ruin is better than ever here, some of my favorite songs he's recorded - love 'Lesser the Blade' especially. The Panopticon tracks are more countryish than some of his other releases, and that's ok because they're great too. The covers are the weakest tracks, though.
+
+#### Ulver - Bergtatt
+
+Well what more to say about this. The harsh vocals are like my least favorite part about it? I love Garm but I'm glad he pursued more clean singing later.
+
+---
+
 ### January 30, 2020
 
 #### Brånd - Urkraft

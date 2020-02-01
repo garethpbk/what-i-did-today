@@ -4,6 +4,26 @@
 
 ---
 
+### January 31, 2020
+
+#### Work
+
+##### Sanctum
+
+- Shrink reviews text size for desktop, adjust padding
+- Adjust home banner heights at different screen sizes
+- Shrink home banner slogan text for desktop
+- Fix core values headline text size for desktop
+- Shrink text size for copy, faqs, loan process, cta bar, home & first time homebuyer menus
+
+##### OneTrust Site Rebuild
+
+- Source reviews from Birdeye instead of posts, pull 10, shuffle and take first three
+- Desktop wireframes for FHA Case Transfer Request page
+- Testing out ways to animate milestone graphic SVG
+
+---
+
 ### January 30, 2020
 
 #### Work
