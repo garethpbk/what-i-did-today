@@ -4,6 +4,18 @@
 
 ---
 
+### February 3, 2020
+
+#### Obsidian Tongue - A Nest of Ravens in the Throat of Time
+
+Really like this, it's kinda experimental black metal that never deviates too far from the roots but is interesting and dynamic all the way through. Vocals are very Agalloch-esque. USBM sure owes a lot to Agalloch, doesn't it?
+
+#### Akista - Grands Tyrans
+
+What do you even call music like this, it's of course rooted in black metal but it's so much more!
+
+---
+
 ### January 31, 2020
 
 #### Panopticon/Nechochwen - Split

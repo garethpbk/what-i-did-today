@@ -4,6 +4,18 @@
 
 ---
 
+### February 3, 2020
+
+##### Sanctum
+
+- Custom setting for brand button color, use in schedule consultation button
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+
+---
+
 ### January 31, 2020
 
 #### Work
