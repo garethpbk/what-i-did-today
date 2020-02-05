@@ -4,7 +4,35 @@
 
 ---
 
+### February 4, 2020
+
+#### Work
+
+#### Drip Campaigns
+
+- Add reverse mortgages campaign
+
+#### OneTrustMarketing
+
+- Add 2/4/2020 announcement
+
+#### Sanctum Docs
+
+- Add docs for brand button color setting
+
+#### OneTrust Site Rebuild
+
+- Desktop wireframes for Individual Blog, Individual Press Release, Privacy Policy, Locations & Licensing, and Loan Programs pages
+
+##### Misc
+
+- Fix NMLS link on OTHL locations & licensing page
+
+---
+
 ### February 3, 2020
+
+#### Work
 
 ##### Sanctum
 

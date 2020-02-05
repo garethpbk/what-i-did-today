@@ -4,6 +4,34 @@
 
 ---
 
+### February 4, 2020
+
+#### Sculptured - Apollo Ends
+
+A more mature album than their first. Don't love the 10 minute noisey song or some of the horns but oh well. The core Sculptured sound is sooo good.
+
+#### Sculptured - Embodiment
+
+Give me another album Don Anderson!
+
+#### Edge of Sanity - Crimson
+
+Still love this album almost 15 years later. Swano sounds like he's drunk when he's doing clean vox.
+
+#### Insomnium - Winter's Gate
+
+Guess it's a day for long death metal songs. Guess this is good for what it is, not really my thing but I can see why people like it.
+
+#### Hellhammer - Apocalyptic Raids
+
+Influential for a reason. Dirty and raw and grimy, shit rules, it's kinda funny too with Tom's wild screams and gurgles.
+
+#### Ulver - The Assassination of Julius Caesar
+
+Definitely think this is one of the best things Ulver has ever done. It's got a very consistent sound but each track really stands out on its own. 'Rolling Stone' is a fave.
+
+---
+
 ### February 3, 2020
 
 #### Obsidian Tongue - A Nest of Ravens in the Throat of Time
