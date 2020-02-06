@@ -4,6 +4,14 @@
 
 ---
 
+### February 5, 2020
+
+#### Spotify Dark & Gothic Radio
+
+In the mood for this today. Lots o' great stuff here - Christian Death, Love and Rockets, Siouxsie and the Banshees...
+
+---
+
 ### February 4, 2020
 
 #### Sculptured - Apollo Ends

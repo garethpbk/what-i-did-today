@@ -4,6 +4,21 @@
 
 ---
 
+### February 5, 2020
+
+#### Work
+
+##### Tabor Site
+
+- Preparing everything to upload new site
+- Launch new site
+
+##### Sanctum
+
+- Tweak for calculator percentage formatting function
+
+---
+
 ### February 4, 2020
 
 #### Work
