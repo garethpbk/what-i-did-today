@@ -4,6 +4,22 @@
 
 ---
 
+### February 6, 2020
+
+#### Oathbreaker - Rheia
+
+This album does the dynamic loud/quiet thing so well, it's like the apex of a black metal + hardcore hybrid.
+
+#### Blind Guardian - Nightfall in Middle Earth
+
+Is this the best power metal album of all time? Yes, yes it is, and I don't just say that because I'm a huge Rings nerd.
+
+#### Elvenking - Reader of the Runes - Divination
+
+Pretty good!! Nothing much from Elvenking clicked with me other than The Winter Wake, which I love. Was originally gonna listen to that today but decided "hey let's try their newest album instead" and I don't regret it. I will return to this album, and probably more of their discography now.
+
+---
+
 ### February 5, 2020
 
 #### Spotify Dark & Gothic Radio

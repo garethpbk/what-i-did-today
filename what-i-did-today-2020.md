@@ -4,6 +4,33 @@
 
 ---
 
+### February 6, 2020
+
+#### Work
+
+##### Sanctum
+
+- Add brand button color to localized variables
+- Use brand button color in Schedule a Consultation form
+- Tweak Home & First Time Homebuyer page menu styles
+- Tweak Home Loan Options text sizes
+- Use remote URL for checkbox image
+- Merge working into master branch
+
+##### OneTrust Site Rebuild
+
+- Finished first draft of desktop wireframes
+
+##### Marketo
+
+- Tweak Fourth of July email
+
+##### Misc
+
+- Takeaways from Tabor site migration
+
+---
+
 ### February 5, 2020
 
 #### Work
