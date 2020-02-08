@@ -4,6 +4,22 @@
 
 ---
 
+### February 7, 2020
+
+#### Work
+
+##### OneTrust Site Rebuild
+
+- Desktop wireframe revisions
+- Started mobile wireframes - Home, Traditional, Portfolio pages
+
+##### Business Card Generator
+
+- Fields save input on blur event
+- Tweak Tabor logo position to accommodate longer titles
+
+---
+
 ### February 6, 2020
 
 #### Work

@@ -4,6 +4,26 @@
 
 ---
 
+### February 7, 2020
+
+#### Obsidian Tongue - Volume III
+
+There's definitely a certain sound that many of the USBM acts currently making music share, and these guys definitely have it. But within it they do their own thing, the mix of harsh and clean vocals is done real well. This album doesn't feel as out there as their first but it's definitely more polished and coherent.
+
+#### Elvenking - The Pagan Manifesto
+
+This is definitely like their most ambitious and progressive album. It's still got plenty of poppy energy ('Twilight of Magic,' 'Moonbeam Stone Circle') but also a 13 minute opening song. I like Elvenking mostly for their catchiness and fun - I mean, it's ridiculous power metal, right - so it's not gonna be my fave from them, but it's really well executed.
+
+#### Nightwish - Once
+
+Well, I listened to most of it. Haven't in like almost 15 years. I dunno, it's a fun album with some hits but I'm overall very meh on the Nightwish sound.
+
+#### Lurker of Chalice - Lurker of Chalice
+
+The best thing Wrest ever did, no doubt. I have never heard anything that sounds like this and it's been 15 years since it came out. I don't have a favorite track, it's all astounding. The sample of Gwyneth Paltrow (I think?) as Sylvia Plath is funny tho.
+
+---
+
 ### February 6, 2020
 
 #### Oathbreaker - Rheia
