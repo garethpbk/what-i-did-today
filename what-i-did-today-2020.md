@@ -4,6 +4,50 @@
 
 ---
 
+### February 11, 2020
+
+#### Work
+
+##### OneTrust Site Rebuild
+
+- Mobile wireframes - Privacy Policy, Locations & Licensing (finished first draft)
+- Updated wireframe/website checklist
+
+##### Marketo
+
+- Fix Thanksgiving email incorrectly formatted styles in HTML
+
+---
+
+### February 10, 2020
+
+#### Work
+
+##### OneTrust Site Rebuild
+
+- Mobile wireframes - Individual Portfolio Loan, About Us, Leadership/Family of Companies, News/Press Releases (archive and individual), Careers, Blog Posts (archive and individual), Guides, The Loan Process, Contact Us, FHA Case Transfer Request, CCPA Form, Find a Loan Officer
+
+##### Portfolio LPs
+
+- Disable YouCanBookMe
+- Adjust submit wrapper width
+- Add Crisp chat to Bank Statement LP for testing, deploy to Netlify (only)
+
+##### Sanctum
+
+- Fix LF contact creation script in theme
+- Zip theme and upload to SharePoint
+
+##### Sanctum Docs
+
+- Updating docs with lessons learned from successful site migration
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+
+---
+
 ### February 7, 2020
 
 #### Work

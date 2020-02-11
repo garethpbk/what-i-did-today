@@ -4,6 +4,34 @@
 
 ---
 
+### February 11, 2020
+
+#### Devil Doll - Mr. Doctor
+
+I don't know how to write about Devil Doll, other than to say that this is one of their more underrated releases and that they are one of the best groups of all time.
+
+---
+
+### February 10, 2020
+
+#### Steven Wilson - To The Bone
+
+I keep coming back to this album, it's very good! The first track is my favorite - such a good groove - but there's lots to like here. There are some meh songs - "Pariah" is kinda garbage lol - but overall it proves that Wilson's still got it. The latter half of 'Denotation' really sounds like old 90s-era Porcupine Tree, super rad.
+
+#### Weakling - Dead As Dreams
+
+It's Monday which means it's a great day to listen to Weakling. One of the best albums ever recorded, in any genre. No matter how many times I listen to this I will never tire of it.
+
+#### Grst - Plague Seed
+
+Found out about these guys because they released an EP of Weakling covers, woah! Their LP is pretty good, the inspiration is clear - not the most original music but very competently executed.
+
+#### Inter Arma - Sulfur English
+
+Finally got around to listening to this all the way through. It's good and real dark and spooky and heavy.
+
+---
+
 ### February 7, 2020
 
 #### Obsidian Tongue - Volume III
