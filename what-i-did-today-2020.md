@@ -4,6 +4,28 @@
 
 ---
 
+### February 12, 2020
+
+#### Work
+
+##### Portfolio LPs
+
+- Add Crisp chat, disable Tidio
+
+##### OneTrustHomeLoans.com
+
+- Add Crisp chat, disable Tidio
+
+##### Drip Campaigns
+
+- Add Construction Loan Interest automated campaign
+
+##### Misc
+
+- BAI courses due this week
+
+---
+
 ### February 11, 2020
 
 #### Work

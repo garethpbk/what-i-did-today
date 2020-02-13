@@ -4,6 +4,18 @@
 
 ---
 
+### February 12, 2020
+
+#### Mammoth Weed Wizard Bastard - Yn Ol I Annwn
+
+Another slab of dope psychadelic stoner from the Welsh crew. Merits more listening.
+
+#### Scythe - Decay
+
+An old favorite, this album holds up pretty well. 'A Glimpse of the Eastern Sunrise' is definitely the highlight.
+
+---
+
 ### February 11, 2020
 
 #### Devil Doll - Mr. Doctor
