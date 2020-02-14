@@ -4,6 +4,18 @@
 
 ---
 
+### February 13, 2020
+
+#### A Pregnant Light - Broken Play
+
+Oh this is real good, like super emotional blackened hardcore. The guy just oozes musical charisma, so many interesting ideas going on here.
+
+#### The Bird are Spies, they Report to the Trees - S/T 7"
+
+Haven't listened to this one in years, it's so good! Lo-fi, kinda screamy emo is my jam. Best band name ever too.
+
+---
+
 ### February 12, 2020
 
 #### Mammoth Weed Wizard Bastard - Yn Ol I Annwn

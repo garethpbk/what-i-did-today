@@ -4,6 +4,20 @@
 
 ---
 
+### February 13, 2020
+
+#### Work
+
+##### Portfolio LPs
+
+- Clean up old files on server
+
+##### OneTrust Site Rebuild
+
+- Update front-end functionality doc to reflect page and API changes
+
+---
+
 ### February 12, 2020
 
 #### Work
@@ -23,6 +37,12 @@
 ##### Misc
 
 - BAI courses due this week
+
+#### Personal
+
+##### SDJS React Meetup
+
+- Present 'Animating React with Framer Motion'
 
 ---
 
