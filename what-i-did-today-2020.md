@@ -4,6 +4,17 @@
 
 ---
 
+### February 14, 2020
+
+#### Work
+
+##### OneTrust Site Rebuild
+
+- Edits to desktop wireframes
+- Continuing to build out Loan Process svg animations
+
+---
+
 ### February 13, 2020
 
 #### Work

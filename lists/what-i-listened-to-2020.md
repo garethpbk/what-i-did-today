@@ -4,6 +4,22 @@
 
 ---
 
+### February 14, 2020
+
+#### Edge of Sanity - Purgatory Afterglow
+
+I could listen to more of Dan Swano's music or I could listen to the same EoS albums over and over. 'Song of Sirens' is kinda funny, it's like a hardcore song.
+
+#### Damian Master - Cop Killer b​/​w LOOKIN4LUV
+
+A John Maus cover? Sure why not, it's good.
+
+#### City of Caterpillar - City of Caterpillar
+
+An album I'll keep coming back to forever and ever.
+
+---
+
 ### February 13, 2020
 
 #### A Pregnant Light - Broken Play
