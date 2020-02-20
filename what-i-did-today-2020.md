@@ -4,6 +4,55 @@
 
 ---
 
+### February 19, 2020
+
+#### Work
+
+##### Puerto Rico FHA Landing Page
+
+- Translated versions of form including alphanumeric regex that accepts special characters
+- Programs Allowed & Benefits sections text content with translations
+- SVG map and list for Declared Major Disaster Areas section
+- Translations for footer
+- Set up Netlify & deployed
+
+##### Sanctum
+
+- Update campaign name for Schedule a Consultation form
+- Update Tabor campaign prefix on test and live sites
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+
+---
+
+### February 18, 2020
+
+#### Work
+
+##### OneTrust Site Rebuild
+
+- Revisions to desktop wireframes
+- Write BRD for contact creation endpoint update and new LF field
+
+##### Sanctum
+
+- Update custom fields to remove blog & press release fields (just use default WP fields)
+- Add blog categories to Tabor test site
+- Blog posts sidebar partial
+- Styling blog posts archive page
+
+##### Puerto Rico FHA Landing Page
+
+- Set up project and repo
+- SVG flags in header
+- State to control language displayed
+- First section with test language translations from Google
+- Form toggleable languages with test translations from Google
+
+---
+
 ### February 14, 2020
 
 #### Work

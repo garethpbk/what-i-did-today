@@ -4,6 +4,58 @@
 
 ---
 
+### February 19, 2020
+
+#### Agalloch - The Serpent and The Sphere
+
+At least it's a different Agalloch album this time. Last time I said this one was uninspired and that's true, but it is still good and a nice endcap to their career.
+
+#### Blood Ceremony - Blood Ceremony
+
+An awesome debut, not nearly as polished or developed as their later albums but it's got all the elements of their sound and some really kickass tracks. 'I see witches in the sky / flying towards a quaalude eye' damn what a great line.
+
+#### Sombre Arcane - Arcane \ Mvndane
+
+The Mvndane tracks are my favorite - the inclusion of (and focus on really) strings is sweet and works really well. Another strong release from a really cool band. I want to see them live again.
+
+#### Integrity - Humanity is the Devil
+
+Really good band I never listened to nearly enough, there's some super great guitar work here. The last two tracks are pretty whatever but that's ok.
+
+#### Darkest Hour - So Sedated, So Secure
+
+Never listened to this album, it's good, definitely shows DH on their path to becoming super great later.
+
+#### Protest the Hero - Pacific Myth
+
+Kezia and Fortress are two amazing albums, the subsequent releases I never got into, so figured I'd give this a try. It's definitely Protest the Hero, but feels way less...emotional? than those two first albums. All the bits are here, but much of the dynamics are gone. There's some interesting bits e.g. the middle of 'Cold Water' but it just doesn't come together and is a bit, dare I say, bland. Part of the problem is the production which is just weird and muddy. You can kinda hear everything, but not really well and it all sounds a bit weak.
+
+---
+
+### February 18, 2020
+
+#### Ghost - Opus Eponymous
+
+Well I finally listened to Ghost and it's uh, pretty medicore? There are many other bands that do this kind of thing but way better. Idk, the guitar tone and production in general is all just weak. It's fun I guess but not somthing I feel the need to listen to again.
+
+#### At the Gates - The Red in the Sky is Ours
+
+Best ATG album, it's raw and weird and definitely has the roots of the band they'd later become.
+
+#### Damian Master - Cop Killer b​/​w LOOKIN4LUV
+
+The second track on this is super catchy, had it stuck in my head all weekend after listening to it once. Real good release.
+
+#### John Maus - We Must Become the Pitiless Censors of Ourselves
+
+Never listened to a full John Maus album before, this one's good! Got a lot of his songs I do know. It's a pretty low-key, interesting sound. 'Cop Killer' is of course a favorite.
+
+#### Agalloch - The Mantle
+
+I could listen to something new or I could just keep listening to The Mantle.
+
+---
+
 ### February 14, 2020
 
 #### Edge of Sanity - Purgatory Afterglow
