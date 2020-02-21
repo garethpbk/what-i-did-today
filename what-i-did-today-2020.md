@@ -4,6 +4,26 @@
 
 ---
 
+### February 20, 2020
+
+#### Work
+
+##### Puerto Rico FHA Landing Page
+
+- Tweaks to SVG dimensions for IE11
+- Tweaks to media queries
+
+##### OneTrust Site Rebuild
+
+- Updated mobile wireframes with recent changes
+
+##### Sanctum
+
+- Styling and templating for blog posts archive page and individual blog pages
+- Pagination function for custom post types
+
+---
+
 ### February 19, 2020
 
 #### Work

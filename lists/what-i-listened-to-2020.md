@@ -4,6 +4,34 @@
 
 ---
 
+### February 20, 2020
+
+#### Tiny Mouse - Little One's Journey
+
+Feeling kind of aggressive this morning, nothing to calm the nerves like a little Tiny Mouse.
+
+#### Tiny Mouse - The Happiest Mouse Alive
+
+Keep this mousing goin'.
+
+#### Fogweaver - Fogweaver
+
+He put out a new album recently so listened to this again first, it's so good, really shows off the virtue of synthesized instruments.
+
+#### Fogweaver - Spellwind
+
+It is quite good! Will require more listens to say much about but it's a nice relaxing album that really developers the sound.
+
+#### Manilla Road - Mystification
+
+Every time I listen to this album a different track is my favorite, this time it's 'Dragon Star' that guitar tone is just too good.
+
+#### Slough Feg - New Organon
+
+This is actually a really good album, took me a few listens to get there. It's a bit more subdued but no less gnarly...an older, slightly more chilled out Slough Feg, but still a rocking one.
+
+---
+
 ### February 19, 2020
 
 #### Agalloch - The Serpent and The Sphere
