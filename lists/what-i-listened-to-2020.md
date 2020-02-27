@@ -4,6 +4,38 @@
 
 ---
 
+### February 26, 2020
+
+#### Havukruunu - Kelle Surut Soi
+
+Yeah this band rules, it's epic without being annoying and just super competent.
+
+#### Witchfinder General - Death Penalty
+
+\m/
+
+#### Mirrorthrone - Carriers of Dust
+
+Been a while since I listened to ol' Vlad. Does he still make music? This album is so cool, normally I would not like the super mechanical-sounding drums but they work well here. Not a big fan of the "symphonic" metal style either but again it works. Love the variety in his vocals.
+
+#### Manilla Road - Crystal Logic
+
+Good driving music.
+
+---
+
+### February 21, 2020
+
+#### Havukruunu - Rautaa Ja Tulta
+
+Love all the sick guitar work, this is what "folk metal" should be imo, the harshness and the melodies and the softer bits all blend together perfectly.
+
+#### Otoboke Beaver - Okoshiyasu!! Otoboke Beaver
+
+Very fun good for keeping awake on Friday afternoon.
+
+---
+
 ### February 20, 2020
 
 #### Tiny Mouse - Little One's Journey

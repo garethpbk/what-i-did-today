@@ -4,6 +4,43 @@
 
 ---
 
+### February 26, 2020
+
+#### Work
+
+##### Sanctum
+
+- Styling blog post page
+- Add thumbnail custom field for blog posts and press releases
+
+##### Misc
+
+- Updating transition stuff
+
+---
+
+### February 25, 2020
+
+#### Work
+
+##### Misc
+
+- Weekly WordPress updates for OTHL, Tabor, Azure Crane
+
+---
+
+### February 21, 2020
+
+#### Work
+
+##### Sanctum
+
+- Uploaded image assets to SharePoint
+- Add rewrite to blog posts custom taxonomy
+- Template and controller for blog posts custom taxonomy categories
+
+---
+
 ### February 20, 2020
 
 #### Work
