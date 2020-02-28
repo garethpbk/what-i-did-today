@@ -4,6 +4,32 @@
 
 ---
 
+### February 27, 2020
+
+#### Work
+
+##### Puerto Rico FHA LP
+
+- Replace placeholder content with actual Spanish content
+- Add URL parameter to default to English
+- Adjust banner & content spacing
+- Update htaccess
+- Deployed live
+
+##### Drip Campaigns
+
+- Updating construction loan interest campaign screenshots
+
+##### Sanctum
+
+- Styling pagination for blog
+
+##### Misc
+
+- Updating transition stuff
+
+---
+
 ### February 26, 2020
 
 #### Work

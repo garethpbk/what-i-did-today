@@ -4,6 +4,22 @@
 
 ---
 
+### February 27, 2020
+
+#### Grandma's Cottage - Grandma's Cottage
+
+Today will be a cozy synth day.
+
+#### Goose Mother - Goose Mother
+
+Unique sound here, it's warm and comfy but also kinda...epic? Heavy use of organ-ish synths, real cool, very goosy.
+
+#### Grandma's Cottage - Grandma's Cottage II
+
+Surprisingly amount of evolution in the sound here. More instruments, more variation, same feel. Excited to see what comes next out of the cottage.
+
+---
+
 ### February 26, 2020
 
 #### Havukruunu - Kelle Surut Soi
@@ -21,6 +37,10 @@ Been a while since I listened to ol' Vlad. Does he still make music? This album 
 #### Manilla Road - Crystal Logic
 
 Good driving music.
+
+#### The Lord Weird Slough Feg - Traveller
+
+I was born in colonies, on fringe worlds of the galaxy!
 
 ---
 
