@@ -4,6 +4,24 @@
 
 ---
 
+### February 28, 2020
+
+#### Work
+
+##### CalCon
+
+- Attempting to set up server for WordPress test site
+
+##### Sanctum
+
+- Updating wireframes
+
+##### Transition
+
+- Reviewing resumes and materials
+
+---
+
 ### February 27, 2020
 
 #### Work

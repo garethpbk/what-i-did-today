@@ -4,6 +4,18 @@
 
 ---
 
+### February 28, 2020
+
+#### Eyehategod - Dopesick
+
+Heavy and filthy and angry yeeee.
+
+#### Mum & Dad - Mum & Dad
+
+Cozy synth continues, this one I don't like as much some of the others but it's nice.
+
+---
+
 ### February 27, 2020
 
 #### Grandma's Cottage - Grandma's Cottage
