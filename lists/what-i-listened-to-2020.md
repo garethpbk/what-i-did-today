@@ -4,6 +4,18 @@
 
 ---
 
+### March 2, 2020
+
+#### The Great Old Ones - Cosmicism
+
+Not sure about this, it's good background listening but didn't catch my ear too much. Feels oddly...safe? Like there's some dissonance and it's plenty heavy but just kinda bland. Will give them more listens though, maybe it will click.
+
+#### Wynter Myst - End of an Era
+
+Super cool oldschool-esque black metal, I really like this, there's even some good melodies in here and strong riffing. Manages to sound pretty original while wearing its influences on its sleeve. Production is spot-on.
+
+---
+
 ### February 28, 2020
 
 #### Eyehategod - Dopesick

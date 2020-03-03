@@ -4,6 +4,17 @@
 
 ---
 
+### March 2, 2020
+
+#### Work
+
+##### Transition
+
+- Reviewing resumes and materials
+- Interviews
+
+---
+
 ### February 28, 2020
 
 #### Work
