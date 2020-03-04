@@ -4,6 +4,22 @@
 
 ---
 
+### March 3, 2020
+
+#### Work
+
+##### Transition
+
+- Interviews
+
+#### Personal
+
+##### Svelte Presentation
+
+- Finished presentation
+
+---
+
 ### March 2, 2020
 
 #### Work
