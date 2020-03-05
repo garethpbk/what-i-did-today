@@ -4,6 +4,20 @@
 
 ---
 
+### March 4, 2020
+
+#### Work
+
+#### JV Sites
+
+- Wrote guide for deploying JV site remotely (without local installation)
+
+#### Tabor Site
+
+- Install SEOPress plugin
+
+---
+
 ### March 3, 2020
 
 #### Work

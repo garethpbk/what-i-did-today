@@ -4,6 +4,14 @@
 
 ---
 
+### March 4, 2020
+
+#### Blackwater Holylight - Veils of Winter
+
+#### Wynter Myst - End of an Era
+
+---
+
 ### March 2, 2020
 
 #### The Great Old Ones - Cosmicism
