@@ -4,6 +4,16 @@
 
 ---
 
+### March 5, 2020
+
+#### Cryptopsy - None So Vile
+
+#### Mayhem - Deathcrush
+
+#### Rome - The Dublin Session
+
+---
+
 ### March 4, 2020
 
 #### Blackwater Holylight - Veils of Winter
