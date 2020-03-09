@@ -4,6 +4,16 @@
 
 ---
 
+### March 9, 2020
+
+#### Ostara - Napoleonic Blues
+
+#### Hole Dweller - Returns to Roost
+
+Wow! New album from my favorite dungeon synth artist of 2019. On first listen it's quite different, less lo-fi (I think there are actual instruments here?), almost totally upbeat and very bouncy sounding. I like it, doesn't grip me as much as the first album for now, will listen much more.
+
+---
+
 ### March 5, 2020
 
 #### Cryptopsy - None So Vile

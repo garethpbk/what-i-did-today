@@ -4,6 +4,25 @@
 
 ---
 
+### March 9, 2020
+
+#### Work Last Daaaay!
+
+##### Sanctum
+
+- Edits to blog layout and styling
+- Deploy blog functionality to live Tabor site
+
+##### Jumbo Mortgage LP
+
+- Built and deployed LP
+
+##### Misc
+
+- Cleaned up everything
+
+---
+
 ### March 6, 2020
 
 #### Work
