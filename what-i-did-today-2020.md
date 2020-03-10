@@ -4,6 +4,17 @@
 
 ---
 
+### March 10, 2020
+
+#### Work Wow New Job!
+
+##### Misc
+
+- Buncha HR stuff
+- Setting up PC, accounts, etc
+
+---
+
 ### March 9, 2020
 
 #### Work Last Daaaay!
