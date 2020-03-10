@@ -12,6 +12,7 @@
 
 - Buncha HR stuff
 - Setting up PC, accounts, etc
+- Set up ZSH & Oh My ZSH
 
 ---
 
