@@ -4,6 +4,17 @@
 
 ---
 
+### March 11, 2020
+
+#### Work
+
+##### Misc
+
+- High-level overview of React application
+- Trying out Razzle, looking at Ramda and Redux Saga
+
+---
+
 ### March 10, 2020
 
 #### Work Wow New Job!
