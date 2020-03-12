@@ -4,6 +4,20 @@
 
 ---
 
+### March 12, 2020
+
+#### Work
+
+##### Repos
+
+- Pulled code repo
+
+##### Misc
+
+- Learning about redux-saga
+
+---
+
 ### March 11, 2020
 
 #### Work

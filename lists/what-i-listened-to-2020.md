@@ -4,6 +4,14 @@
 
 ---
 
+### March 12, 2020
+
+#### Toxic Holocaust - Primal Future: 2019
+
+#### Ostara - Napoleonic Blues
+
+---
+
 ### March 11, 2020
 
 #### Anvil - Legal at Last
