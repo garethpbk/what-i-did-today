@@ -4,6 +4,41 @@
 
 ---
 
+### March 19, 2020
+
+#### Work
+
+##### Misc
+
+- Learning all about Greensock
+- Exploring component library
+
+---
+
+### March 17, 2020
+
+#### Work
+
+##### Misc
+
+- Learning all about Ramda
+
+---
+
+### March 16, 2020
+
+#### Work
+
+##### GraphQL
+
+- Learning about server, messing around with GQL Playground
+
+##### Misc
+
+- Readings lots of docs
+
+---
+
 ### March 12, 2020
 
 #### Work

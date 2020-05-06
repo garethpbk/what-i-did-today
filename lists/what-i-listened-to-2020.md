@@ -4,6 +4,438 @@
 
 ---
 
+### May 6, 2020
+
+#### Numenorean - Adore
+
+#### The Wizar'd - Subterranean Exile
+
+#### Ironsword - Servants of Steel
+
+#### Rome - The Dublin Session
+
+#### Rome - Hansa Studios Session
+
+---
+
+### May 5, 2020
+
+#### Type O Negative - Life Is Killing Me
+
+#### Clair Cassis - Clair Cassis
+
+#### Amesoeurs - Ruines Humaines5
+
+#### My Dying Bride - As The Flower Withers
+
+#### My Dying Bride - 34.788%...Complete
+
+#### Crimson Massacre - The Luster of Pandemonium
+
+---
+
+### May 4, 2020
+
+#### Mithras - Forever Advancing...Legions
+
+#### Katatonia - City Burials
+
+#### Amorphis - Tales From the Thousands Lakes
+
+#### Sculptured - Embodiment
+
+#### Akitsa - Credo
+
+---
+
+### May 1, 2020
+
+#### Francis Roberts - The Road To Raet Arako
+
+#### Putrescine - Devourer of Gods
+
+#### Edge of Sanity - The Spectral Sorrows
+
+#### Pan.Thy.Monium - Khaooos and Kon-Fus-Ion
+
+#### Witchcraft - Black Metal
+
+#### Autumn Heart - The Deaths of Summer
+
+#### Armagedda - Only True Believers
+
+#### Mutiilation - Hail Satanas We Are The Black Legions
+
+---
+
+### April 30, 2020
+
+#### Witchfinder General - Death Penalty
+
+#### Witchcraft - Firewood
+
+#### Bewitcher - Under the Witching Cross
+
+#### Witch Mountain - South of Salem
+
+#### Witch Vomit - Buried Deep in a Bottomless Grave
+
+---
+
+### April 29, 2020
+
+#### Forest Silence - Philosophy of Winter
+
+---
+
+### April 28, 2020
+
+#### Eternal Champion - The Armor of Ire
+
+#### Eternal Champion - Terminus Est
+
+#### Ulcerate - Stare Into Death And Be Still
+
+#### Damian Master - Cop Killer b​/​w LOOKIN4LUV
+
+#### A Pregnant Light - Broken Play
+
+---
+
+### April 27, 2020
+
+#### Volahn - Dimensiónes del Trance Kósmico
+
+#### Departure Chandelier - Dripping Papal Blood
+
+#### Ulver - Bergtatt
+
+#### Ulver - Kveldssanger
+
+#### Ulver - Nattens Madrigal
+
+#### Carbonized - Dishamonization
+
+---
+
+### April 24, 2020
+
+#### Cirith Ungol - Forever Black
+
+#### Francis Roberts - Someone Else's Journey
+
+#### Hedge Wizard - More True Than Time Thought
+
+#### Hedge Wizard - Local Portal
+
+#### Traveler - Traveler
+
+#### Traveler - Termination Shock
+
+#### Old Tower - The Last Eidolon
+
+#### Eternal Champion - Terminus Est
+
+#### Eternal Champion - The Armor of Ire
+
+---
+
+### April 23, 2020
+
+#### Teräsbetoni - Metalliotuus
+
+#### Cirith Ungol - King of the Dead
+
+#### Omen - Battle Cry
+
+#### 80's Graves - 80's Graves
+
+---
+
+### April 22, 2020
+
+#### Brozen Oath - Eulogy For A Noble Age
+
+#### Nameless King - Sovereignless Souls
+
+#### Criptadel - The Inverted Tower
+
+#### Lurker of Chalice - Tellurian Slaked Furnace
+
+---
+
+### April 21, 2020
+
+#### Lament - Visions and a Giant of Nebula
+
+#### A Pregnant Light - I and I
+
+#### Akitsa - Sang Nordique
+
+#### Mare Cognitum - An Extraconscious Lucidity
+
+---
+
+### April 20, 2020
+
+#### Pavor - Furioso
+
+#### Farmakon - A Warm Glimpse
+
+#### Darkspace - Dark Space III
+
+#### Battle Dagorath - Eternal throne
+
+#### Leviathan - The Tenth Sub-Level of Suicide
+
+---
+
+### April 17, 2020
+
+#### Oranssi Pazuzu - Mestarin kynsi
+
+#### Prince Rama - Xtreme Now
+
+#### Departure Chandelier - Antichrist Rise to Power
+
+---
+
+### April 16, 2020
+
+#### Acid Cross - Dungeon Thrash
+
+#### Nightwish - Human. :||: Nature.
+
+#### Cauldron Black Ram - Stalagmire
+
+---
+
+### April 15, 2020
+
+#### Paysage d'Hiver - Die Festung
+
+#### Empyrium - A Wintersunset...
+
+#### Wolves in the Throne Room - Diadem of Twelve Stars
+
+---
+
+### April 14, 2020
+
+#### Nan Morlith - Âdhûn & Fangorn
+
+#### Yellow Eyes - Rare Field Ceiling
+
+#### Coven of the Pestilent One - Corrosion
+
+#### Mayhem - De Mysteriis Dom Sathanas
+
+#### Alcest - Spiritual Instinct
+
+#### Type O Negative - Life is Killing Me
+
+---
+
+### April 13, 2020
+
+#### Blood Lord - Unwelcome Guests
+
+#### Zangderak - Super Wizard Potion OST
+
+#### Secret Stairways - Enchantment of the Ring
+
+#### Secret Stairways - Turning Point
+
+#### Guild of Lore - Winterstead
+
+#### Fearing - Shadow
+
+#### Earthencloak - Pipe Smoke & Faery Magick
+
+#### Acheulean Forests - Of Faerie
+
+---
+
+### April 10, 2020
+
+#### Midwife - Forever
+
+#### Woods of Ypres - Woods 4: The Green Album
+
+#### Current 93 - Earth Covers Earth
+
+---
+
+### April 9, 2020
+
+#### Kombat - New Dimensions of Pain
+
+#### Hedge Wizard - Local Portal
+
+#### Departure Chandelier - Dripping Papal Blood
+
+---
+
+### April 8, 2020
+
+#### Mortiis - Født til å Herske
+
+#### Hedge Wizard - Local Portal
+
+#### Hedge Wizard - More True Than Time Thought
+
+#### Fiendish Imp - Fiendish Imp
+
+#### Fiendish Imp - All Hallow's Eve
+
+#### Fief - I
+
+---
+
+### April 6, 2020
+
+#### Idle Hands - Mana
+
+#### At the Gates - Slaughter of the Soul
+
+#### Satyricon - Dark Medieval Times
+
+#### Riot City - Burn the Night
+
+---
+
+### April 3, 2020
+
+#### Sculptured - The Spear of the Lily is Aureoled
+
+#### Entombed - Left Hand Path
+
+#### Entombed - Wolverine Blues
+
+#### Idle Hands - Mana
+
+---
+
+### March 31, 2020
+
+#### Francis Roberts/Vandalorum - Split
+
+#### Nuit Noire - Black Form
+
+#### Nuit Noire - Somewhere in the Nightpast
+
+#### Putrescine - The One Reborn
+
+#### Putrescine - Reek of Putrescine
+
+---
+
+### March 30, 2020
+
+#### Love and Rockets - Seventh Dream of Teenage Heaven
+
+#### Uncle Acid & The Deadbeats - Wasteland
+
+#### Dead Meadow - The Nothing They Need
+
+#### Agent Steel - Skeptics Apocalypse
+
+---
+
+### March 27, 2020
+
+#### Skyforest - A New Dawn
+
+#### Blind Guardian - Somewhere Far Beyond
+
+#### Fluisteraars - Bloem
+
+---
+
+### March 26, 2020
+
+#### The Ocean - Phanerozoic I: Palaeozoic
+
+#### Departure Chandelier - The Black Crest of Death, the Gold Wreath of War
+
+#### Jess and the Ancient Ones - Jess and the Ancient Ones
+
+#### Portishead - Dummy
+
+#### Tricky - Maxinquaye
+
+#### Flunk - For Sleepyheads Only
+
+---
+
+### March 25, 2020
+
+#### Raspberry Bulbs - Before the Age of Mirrors
+
+#### Witch Root - The Legend of the Black Sword
+
+#### Bitter Old Wizard / Blood Tower - Bitter Old Wizard / Blood Tower
+
+#### Fief - V
+
+#### Forlorn Kingdom - Northern Spirits Call From Afar
+
+#### Fen Walker - The Totem Wilds Call Thy Name
+
+---
+
+### March 23, 2020
+
+#### Hammers of Misfortune - The Bastard
+
+#### Brånd - Urkraft
+
+---
+
+### March 20, 2020
+
+#### Departure Chandelier - Dripping Papal Blood
+
+#### Witch Root - The Legend of the Black Sword
+
+#### Roman Master - Roman Master
+
+#### Visigoth - The Revenant King
+
+#### Eternal Champion - Terminus Est
+
+#### Eternal Champion - The Armor of Ire
+
+#### Cloud Rat - Pollinator
+
+---
+
+### March 19, 2020
+
+#### Serpent Column - Endless Detainment
+
+#### Akitsa - Au crépuscule de l'espérance
+
+#### Lykathea Aflame - Elvenefris
+
+---
+
+### March 18, 2020
+
+#### Blood Incantation - Starspawn
+
+#### Woods of Ypres - Woods V
+
+---
+
+### March 16, 2020
+
+#### Havukruunu - Havulinnaan
+
+#### Departure Chandelier - The Black Crest of Death, the Gold Wreath of War
+
+---
+
 ### March 12, 2020
 
 #### Toxic Holocaust - Primal Future: 2019
